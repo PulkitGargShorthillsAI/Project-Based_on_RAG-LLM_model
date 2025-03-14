@@ -1,15 +1,18 @@
 from pinecone import Pinecone, ServerlessSpec
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
-import google.generativeai as genai
 import os
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from pinecone import ServerlessSpec, Pinecone
 from langchain_pinecone import PineconeVectorStore
-from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader
+from langchain.chains import create_retrieval_chain
+from langchain.chains.combine_documents import create_stuff_documents_chain
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_google_genai import ChatGoogleGenerativeAI
 
 from dotenv import load_dotenv
 load_dotenv()
+
 
 print("🔄 Loading environment variables...")
 GEMINI_API = os.getenv("GEMINI_API")
@@ -18,18 +21,20 @@ PINECONE_API_KEY = os.getenv("PINECONE_API")
 if not PINECONE_API_KEY:
     raise ValueError("❌ PINECONE_API_KEY is not set. Please check your environment variables.")
 
-# Initialize Pinecone
+
 print("✅ Pinecone API Key loaded successfully!")
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
-os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY  # Explicitly set the API key
 
-# Create or connect to an index
-index_name = "quickstart1"
+index_name = "chatbot"
+
 print(f"🔍 Checking if Pinecone index '{index_name}' exists...")
 
-if index_name not in pc.list_indexes():
-    print(f"🆕 Creating a new Pinecone index: {index_name}")
+for index in pc.list_indexes():
+    if index_name == index['name']:
+        print("Index already exists")
+    else:
+        print(f"🆕 Creating a new Pinecone index: {index_name}")
     pc.create_index(
         name=index_name,
         dimension=768,
@@ -39,15 +44,12 @@ if index_name not in pc.list_indexes():
             region="us-east-1"
         )
     )
-else:
-    print(f"✅ Pinecone index '{index_name}' already exists!")
+
 
 index = pc.Index(index_name)
 
-# Initialize Gemini embeddings
-# print("🔄 Initializing Gemini embeddings...")
-# embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004", google_api_key=GEMINI_API)
-# print("✅ Gemini embeddings initialized!")
+
+from langchain.document_loaders import PyPDFLoader, DirectoryLoader
 
 # Load text files
 folder_path = "/home/shtlp_0101/Documents/Project-Based_on_RAG-LLM_model/scraped_city_data"
@@ -73,77 +75,71 @@ extracted_data = load_txt_file(folder_path)
  
 #Split the Data into Text Chunks
 def text_split(extracted_data):
-    text_splitter=RecursiveCharacterTextSplitter(chunk_size=2000, chunk_overlap=200)
+    text_splitter=RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
     text_chunks=text_splitter.split_documents(extracted_data)
     return text_chunks
  
  
 text_chunks = text_split(extracted_data)
-#Download the Embeddings from HuggingFace
-def embeddings():
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=GEMINI_API)
-    return embeddings
- 
-docsearch = PineconeVectorStore.from_documents(
-    documents=text_chunks,
-    index_name=index_name,
-    embedding=embeddings(),
-)
- 
- 
- 
-# Embed each chunk and upsert the embeddings into your Pinecone index.
+
+
+
+from langchain_pinecone import PineconeVectorStore
+
+os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY  # Explicitly set the API key
+# Correcting the embeddings initialization
+embeddings1 = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=os.getenv("GEMINI_API"))
+
+# Upload documents to Pinecone
+# print("📤 Uploading documents to Pinecone...")
+# docsearch = PineconeVectorStore.from_documents(
+#     documents=text_chunks,  
+#     index_name=index_name,
+#     embedding=embeddings  # No parentheses here
+# )
+# print("✅ Documents stored in Pinecone!")
+
 docsearch = PineconeVectorStore.from_existing_index(
     index_name=index_name,
-    embedding=embeddings()
+    embedding=embeddings1
 )
- 
-retriever = docsearch.as_retriever(search_type="similarity", search_kwargs={"k":3})
- 
- 
- 
+
+# Initialize retriever
+retriever = docsearch.as_retriever(search_type="similarity", search_kwargs={"k": 3})
+print("🔍 Retriever initialized successfully!")
 
 
 
+llm = ChatGoogleGenerativeAI(
+    model="gemini-2.0-flash",
+    api_key=GEMINI_API
+)
 
 
 
+system_prompt = (
+    "You are an assistant for question-answering tasks. "
+    "Use the following pieces of retrieved context to answer "
+    "the question. If you don't know the answer, say that you "
+    "don't know. Use three sentences maximum and keep the "
+    "answer concise."
+    "\n\n"
+    "{context}"
+)
 
-# for file in os.listdir(folder_path):
-#     if file.endswith(".txt"):
-#         print(f"📄 Processing file: {file}")
-#         loader = TextLoader(os.path.join(folder_path, file), encoding="utf-8")
-#         text_documents.extend(loader.load())
 
-# print(f"✅ Loaded {len(text_documents)} documents!")
+prompt = ChatPromptTemplate.from_messages(
+    [
+        ("system", system_prompt),
+        ("human", "{input}"),
+    ]
+)
 
-# # Split text into chunks
-# print("🔄 Splitting text into chunks...")
-# text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-# chunks = text_splitter.split_documents(text_documents)
-# print(f"✅ Text split into {len(chunks)} chunks!")
 
-# # Generate embeddings for each chunk
-# print("🔄 Generating embeddings for text chunks...")
-# chunk_texts = [chunk.page_content for chunk in chunks]
-# chunk_embeddings = embeddings.embed_documents(chunk_texts)  # Returns a list of vectors
-# print(f"✅ Generated {len(chunk_embeddings)} embeddings!")
+question_answer_chain = create_stuff_documents_chain(llm, prompt)
+rag_chain = create_retrieval_chain(retriever, question_answer_chain)
 
-# # Check embedding size
-# print(f"🧐 Checking embedding dimensions...")
-# embedding_dim = len(chunk_embeddings[0])
-# print(f"📏 Embedding dimension: {embedding_dim} (Expected: 768)")
-# assert embedding_dim == 768, "❌ Embedding dimension mismatch! Expected 768."
 
-# # Prepare vectors for uploading
-# print("📤 Preparing vectors for Pinecone...")
-# vectors = [
-#     (str(i), chunk_embeddings[i], {"text": chunk_texts[i]})  # (id, embedding, metadata)
-#     for i in range(len(chunk_embeddings))
-# ]
-# print(f"✅ Prepared {len(vectors)} vectors!")
 
-# # Upsert the vectors into Pinecone
-# print("🚀 Uploading vectors to Pinecone...")
-# index.upsert(vectors)
-# print("🎉 ✅ Vectorized data uploaded to Pinecone successfully!")
+response = rag_chain.invoke({"input": "famous places in delhi?"})
+print(response["answer"])
