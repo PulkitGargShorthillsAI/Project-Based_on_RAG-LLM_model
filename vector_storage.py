@@ -30,11 +30,26 @@ index_name = "chatbot"
 
 print(f"🔍 Checking if Pinecone index '{index_name}' exists...")
 
-for index in pc.list_indexes():
-    if index_name == index['name']:
-        print("Index already exists")
-    else:
+if len(pc.list_indexes()):
+    flag = True
+    for index in pc.list_indexes():
+        if index_name == index['name']:
+            print("Index already exists")
+            flag = False
+            break
+    if flag:
         print(f"🆕 Creating a new Pinecone index: {index_name}")
+        pc.create_index(
+            name=index_name,
+            dimension=768,
+            metric="cosine",  # Replace with your model metric
+            spec=ServerlessSpec(
+                cloud="aws",
+                region="us-east-1"
+            )
+        )
+else:
+    print(f"🆕 Creating a new Pinecone index: {index_name}")
     pc.create_index(
         name=index_name,
         dimension=768,
@@ -44,7 +59,6 @@ for index in pc.list_indexes():
             region="us-east-1"
         )
     )
-
 
 index = pc.Index(index_name)
 
@@ -88,7 +102,7 @@ from langchain_pinecone import PineconeVectorStore
 
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY  # Explicitly set the API key
 # Correcting the embeddings initialization
-embeddings1 = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=os.getenv("GEMINI_API"))
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=os.getenv("GEMINI_API"))
 
 # Upload documents to Pinecone
 # print("📤 Uploading documents to Pinecone...")
@@ -101,7 +115,7 @@ embeddings1 = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_
 
 docsearch = PineconeVectorStore.from_existing_index(
     index_name=index_name,
-    embedding=embeddings1
+    embedding=embeddings
 )
 
 # Initialize retriever
