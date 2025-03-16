@@ -102,58 +102,13 @@ from langchain_pinecone import PineconeVectorStore
 
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY  # Explicitly set the API key
 # Correcting the embeddings initialization
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=os.getenv("GEMINI_API"))
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=os.getenv("GEMINI_API"),)
 
 # Upload documents to Pinecone
-# print("📤 Uploading documents to Pinecone...")
-# docsearch = PineconeVectorStore.from_documents(
-#     documents=text_chunks,  
-#     index_name=index_name,
-#     embedding=embeddings  # No parentheses here
-# )
-# print("✅ Documents stored in Pinecone!")
-
-docsearch = PineconeVectorStore.from_existing_index(
+print("📤 Uploading documents to Pinecone...")
+docsearch = PineconeVectorStore.from_documents(
+    documents=text_chunks,  
     index_name=index_name,
-    embedding=embeddings
+    embedding=embeddings  # No parentheses here
 )
-
-# Initialize retriever
-retriever = docsearch.as_retriever(search_type="similarity", search_kwargs={"k": 3})
-print("🔍 Retriever initialized successfully!")
-
-
-
-llm = ChatGoogleGenerativeAI(
-    model="gemini-2.0-flash",
-    api_key=GEMINI_API
-)
-
-
-
-system_prompt = (
-    "You are an assistant for question-answering tasks. "
-    "Use the following pieces of retrieved context to answer "
-    "the question. If you don't know the answer, say that you "
-    "don't know. Use three sentences maximum and keep the "
-    "answer concise."
-    "\n\n"
-    "{context}"
-)
-
-
-prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", system_prompt),
-        ("human", "{input}"),
-    ]
-)
-
-
-question_answer_chain = create_stuff_documents_chain(llm, prompt)
-rag_chain = create_retrieval_chain(retriever, question_answer_chain)
-
-
-
-response = rag_chain.invoke({"input": "famous places in delhi?"})
-print(response["answer"])
+print("✅ Documents stored in Pinecone!")

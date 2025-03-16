@@ -4,15 +4,22 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
-from questions_list import questions,international_countries
+from questions_list import questions,international_countries,context_questions
 import csv
 import time
 import os
 from dotenv import load_dotenv
+import pandas as pd
+from bert_score import score
+# from ragas.metrics import faithfulness, relevance, answer_correctness
+
+
+
 load_dotenv()
 
 
-GEMINI_API = os.getenv("GEMINI_API")
+GEMINI_API = os.getenv("GEMINI_API_PGARG")
+# GEMINI_API = os.getenv("GEMINI_API")
 PINECONE_API_KEY = os.getenv("PINECONE_API")
 
 
@@ -59,17 +66,18 @@ rag_chain = create_retrieval_chain(retriever, question_answer_chain)
 
 
 
-def log_interaction(question: str, answer: str):
+def log_interaction(question: str, answer: str,generated_answer:str,P,R,F1):
     """Logs the user query and response in both a text file and a CSV file."""
-    with open("log.txt", "a") as txt_file:
-        txt_file.write(f"Q: {question}\nA: {answer}\n{'-'*40}\n")
+    with open("log_queries.txt", "a") as txt_file:
+        txt_file.write(f"Q: {question}\nActual answer: {answer}\nA: {generated_answer}\nP: {P}\nR: {R}\nF1: {F1}\n{'-'*40}\n")
     
-    with open("log.csv", "a", newline="") as csv_file:
+    with open("log_queries.csv", "a", newline="") as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow([question, answer])
+        writer.writerow([question, answer, generated_answer,P,R,F1])
 
     
-for question in international_countries:
-    response = rag_chain.invoke({"input": question})
-    time.sleep(8)
-    log_interaction(question,response['answer'])
+for question in context_questions:
+    response = rag_chain.invoke({"input": question['question']})
+    time.sleep(6)
+    P, R, F1 = score([response['answer']], [question['answer']], lang="en", rescale_with_baseline=True)
+    log_interaction(question['question'],question['answer'],response['answer'],P.tolist()[0],R.tolist()[0],F1.tolist()[0])
