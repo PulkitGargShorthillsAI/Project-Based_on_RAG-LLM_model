@@ -5,10 +5,6 @@ from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from pinecone import ServerlessSpec, Pinecone
 from langchain_pinecone import PineconeVectorStore
-from langchain.chains import create_retrieval_chain
-from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_google_genai import ChatGoogleGenerativeAI
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -101,8 +97,13 @@ text_chunks = text_split(extracted_data)
 from langchain_pinecone import PineconeVectorStore
 
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY  # Explicitly set the API key
+
+
 # Correcting the embeddings initialization
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", google_api_key=os.getenv("GEMINI_API"),)
+embeddings = GoogleGenerativeAIEmbeddings(
+    model="models/embedding-001", 
+    google_api_key=os.getenv("GEMINI_API"),
+)
 
 # Upload documents to Pinecone
 print("📤 Uploading documents to Pinecone...")

@@ -4,16 +4,12 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
-from questions_list import questions,international_countries,context_questions
+from questions_list import context_questions
 import csv
 import time
 import os
 from dotenv import load_dotenv
-import pandas as pd
 from bert_score import score
-# from ragas.metrics import faithfulness, relevance, answer_correctness
-
-
 
 load_dotenv()
 
