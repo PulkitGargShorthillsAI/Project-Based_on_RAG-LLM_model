@@ -19,7 +19,7 @@ questions = [
     "Which wildlife sanctuaries are best for spotting tigers in India?",
     "Where can I go for the best trekking experiences in India?",
     "What are the best romantic destinations for couples in India?",
-    "Which are the best road trips to take in India?",
+    "Which are the best road trips to take in Indi # Replace with your model metrica?",
     "What is famous about Rishikesh and Haridwar?",
     "Which places in India are great for spiritual tourism?",
     "What are the must-visit places in Tamil Nadu?",

@@ -12,21 +12,21 @@ Kochi's geography is as diverse as its culture. You'll find yourself constantly 
 
 
 
-VYPIN-ISLAND
-A tranquil retreat nestled in coastal beauty
-Vypin Island, also known as Vypeen Island, is a picturesque island in the Kochi region of Kerala. Craving sun-drenched beaches and tranquil backwaters? Look no further than this picture-perfect paradise beckoning you in Kochi!
-
-Imagine sinking your toes into the golden sands of Cherai Beach, a local gem renowned for its clear waters and breathtaking beauty. Vypin Island boasts not just one but several stunning beaches – explore Munambam Beach, Puthuvype Beach, and even Fort Kochi Beach, each offering a unique coastal charm.
-
-But Vypin Island's magic extends beyond its shores. Venture into the serene backwaters of Vembanad Lake, a network of tranquil waterways fringed by lush greenery and traditional villages. Glide along in a houseboat, soaking in the peacefulness and natural beauty.
-
-Vypin Island promises a delightful escape where pristine beaches meet backwater serenity. Are you ready to discover your island paradise?
+MANGALAVANAM-BIRD-SANCTUARY
+Where nature's symphony takes flight
+Mangalavanam Bird Sanctuary is a tranquil oasis located in the heart of Kochi, Kerala. Situated adjacent to the Kerala High Court and surrounded by bustling urban areas, this small but significant bird sanctuary provides a vital refuge for migratory and resident bird species amidst the city's urban sprawl. Primarily a bird refuge, the innate appeal of Mangalavanam is augmented by the Arabian Sea which borders the sanctuary and adds to it a panoramic ambience. Mangalavanam Bird Sanctuary is a testament to the importance of conserving urban green spaces and protecting biodiversity in rapidly developing cities. It serves as a valuable refuge for birds and wildlife, as well as a cherished natural asset for the residents of Kochi.
 
 
 
-FORT-KOCHI-BEACH
-A serene retreat along the Malabar coast
-Fort Kochi Beach is a picturesque waterfront area located in the historic neighbourhood of Fort Kochi in the port city of Kochi. It is renowned for its tranquil ambience, scenic beauty, and historical significance. Fort Kochi Beach, with its clean premises and tranquil atmosphere, is frequented by tourists as well as the local people. There are many factors that differentiate the beach from the other beaches of Kerala. The presence of the Chinese fishing nets is probably the most easily identifiable one. Let’s dive deep into some key aspects of Fort Kochi Beach!
+WILLINGDON-ISLAND
+A historic harbour oasis
+Stepping onto Willingdon Island, Kochi's crown jewel, is like entering a portal to a bygone era. This majestic, man-made marvel, India's largest, boasts a rich history from the British Raj. Explore the island's historical significance, from its namesake – Lord Willingdon, a former Viceroy of India – to its role as a key commercial centre. Beyond its heritage, immerse yourself in luxury at top-notch hotels, witness the might of the Indian Navy at the Kochi Naval Base, or delve into marine life at the Central Institute of Fisheries Technology. Don't miss a thrilling ferry ride or a scenic boat trip offering breathtaking island vistas – Willingdon Island awaits your exploration!
+
+
+
+BOLGATTY-ISLAND
+Serene retreat amidst Kerala's backwaters
+Bolgatty Island is a picturesque island located in Kochi (Cochin), Kerala, India. Situated just off the mainland, Bolgatty Island is renowned for its serene ambiance, lush greenery, and historical landmarks. Located here is the Kochi International Marina. It is the only marina of its kind in India. This can host up to 34 yachts alongside pump-out facilities for water, electricity and sewage. Overall, Bolgatty Island offers a perfect blend of historical charm, natural beauty, and leisure activities, making it a favoured destination for travelers seeking a tranquil escape amidst Kerala's backwaters. The island of Bolgatty, which hosts the Heritage Hotel, the Island Retreat and the Marina House Hotel, is one of four islands of Cochin. The four islands being Fort Cochin, Willingdon, Vypeen and Bolgatty.
 
 
 
@@ -40,15 +40,23 @@ Imagine a place where birdwatching dreams come true. Nestled amidst the lush for
 
 
 
-BOLGATTY-ISLAND
-Serene retreat amidst Kerala's backwaters
-Bolgatty Island is a picturesque island located in Kochi (Cochin), Kerala, India. Situated just off the mainland, Bolgatty Island is renowned for its serene ambiance, lush greenery, and historical landmarks. Located here is the Kochi International Marina. It is the only marina of its kind in India. This can host up to 34 yachts alongside pump-out facilities for water, electricity and sewage. Overall, Bolgatty Island offers a perfect blend of historical charm, natural beauty, and leisure activities, making it a favoured destination for travelers seeking a tranquil escape amidst Kerala's backwaters. The island of Bolgatty, which hosts the Heritage Hotel, the Island Retreat and the Marina House Hotel, is one of four islands of Cochin. The four islands being Fort Cochin, Willingdon, Vypeen and Bolgatty.
-
-
-
 VALLARPADAM
 A sanctuary of serenity
 Vallarpadam is an island located in the city of Kochi, Kerala. Situated in the Vembanad Lake, Vallarpadam is renowned for its religious significance and commercial importance. Vallarpadam is a multifaceted destination that combines religious devotion, economic vitality, natural beauty, and cultural heritage, making it a unique and fascinating place to visit in Kochi. Whether for pilgrimage, business, or leisure, Vallarpadam offers something for everyone to explore and experience.
+
+
+
+AREEKKAL-WATERFALLS
+Cascading beauty amidst nature's embrace
+Areekkal Waterfalls, also known as Arekuzha Waterfalls, is a scenic waterfall located near the village of Arekuzha in the Ernakulam district of Kerala, India. Situated amidst lush greenery and pristine natural surroundings, Areekkal Waterfalls is a popular destination for nature lovers and outdoor enthusiasts.
+
+Areekkal Waterfalls is nestled in the Western Ghats, approximately 35 kilometres away from Kochi (Cochin) city. The waterfall is situated in a secluded area, surrounded by dense forests and plantations, providing visitors with a tranquil and serene ambiance. While the journey to the waterfall involves navigating through winding roads and scenic landscapes, it is well worth the effort for those seeking to experience the beauty of Kerala's hinterlands.
+
+
+
+FORT-KOCHI-BEACH
+A serene retreat along the Malabar coast
+Fort Kochi Beach is a picturesque waterfront area located in the historic neighbourhood of Fort Kochi in the port city of Kochi. It is renowned for its tranquil ambience, scenic beauty, and historical significance. Fort Kochi Beach, with its clean premises and tranquil atmosphere, is frequented by tourists as well as the local people. There are many factors that differentiate the beach from the other beaches of Kerala. The presence of the Chinese fishing nets is probably the most easily identifiable one. Let’s dive deep into some key aspects of Fort Kochi Beach!
 
 
 
@@ -64,31 +72,9 @@ Cherai Beach is a beautiful and pristine beach located in the state of Kerala, I
 
 
 
-FORT-KOCHI
-Where history and culture unfold
-Fort Kochi is a historic neighbourhood in Kochi, Kerala. When you set foot in Fort Kochi, you'll instantly feel like you've been transported to a different time period. This place is steeped in the history and culture of all who have occupied it through the ages. Its roots and essence are unique in their diversity.
-
-Renowned for its rich history, multicultural heritage, and colonial-era architecture, Fort Kochi is a prominent tourist destination for both domestic and international travellers. In fact, it was ranked ninth among the top 25 in National Geographic’s Top Tourist Destinations to Explore In 2020. Let’s explore some key aspects of Fort Kochi!
-
-
-
-AREEKKAL-WATERFALLS
-Cascading beauty amidst nature's embrace
-Areekkal Waterfalls, also known as Arekuzha Waterfalls, is a scenic waterfall located near the village of Arekuzha in the Ernakulam district of Kerala, India. Situated amidst lush greenery and pristine natural surroundings, Areekkal Waterfalls is a popular destination for nature lovers and outdoor enthusiasts.
-
-Areekkal Waterfalls is nestled in the Western Ghats, approximately 35 kilometres away from Kochi (Cochin) city. The waterfall is situated in a secluded area, surrounded by dense forests and plantations, providing visitors with a tranquil and serene ambiance. While the journey to the waterfall involves navigating through winding roads and scenic landscapes, it is well worth the effort for those seeking to experience the beauty of Kerala's hinterlands.
-
-
-
 SANTA-CRUZ-BASILICA
 A timeless testament to faith and colonial history
 The Santa Cruz Basilica is a historic Roman Catholic church located in Fort Kochi, Kerala, India. It is one of the oldest and most prominent churches in Kerala and holds significant religious and architectural importance. The Santa Cruz Cathedral Basilica in Fort Kochi is one of the eight Basilicas in India. This heritage edifice of Kerala is also one of the finest and imposing churches in India. Located close to the renowned St. Francis Church, this basilica serves as the cathedral church of the Diocese of Cochin, the second oldest Diocese of India. The Santa Cruz Basilica is not only a symbol of faith and devotion but also a testament to the rich cultural heritage and architectural legacy of Kochi. It continues to be a cherished landmark and spiritual sanctuary for believers and visitors alike.
-
-
-
-MANGALAVANAM-BIRD-SANCTUARY
-Where nature's symphony takes flight
-Mangalavanam Bird Sanctuary is a tranquil oasis located in the heart of Kochi, Kerala. Situated adjacent to the Kerala High Court and surrounded by bustling urban areas, this small but significant bird sanctuary provides a vital refuge for migratory and resident bird species amidst the city's urban sprawl. Primarily a bird refuge, the innate appeal of Mangalavanam is augmented by the Arabian Sea which borders the sanctuary and adds to it a panoramic ambience. Mangalavanam Bird Sanctuary is a testament to the importance of conserving urban green spaces and protecting biodiversity in rapidly developing cities. It serves as a valuable refuge for birds and wildlife, as well as a cherished natural asset for the residents of Kochi.
 
 
 
@@ -98,6 +84,20 @@ The Indian Naval Maritime Museum, also known as the Naval Museum, is a museum de
 
 
 
-WILLINGDON-ISLAND
-A historic harbour oasis
-Stepping onto Willingdon Island, Kochi's crown jewel, is like entering a portal to a bygone era. This majestic, man-made marvel, India's largest, boasts a rich history from the British Raj. Explore the island's historical significance, from its namesake – Lord Willingdon, a former Viceroy of India – to its role as a key commercial centre. Beyond its heritage, immerse yourself in luxury at top-notch hotels, witness the might of the Indian Navy at the Kochi Naval Base, or delve into marine life at the Central Institute of Fisheries Technology. Don't miss a thrilling ferry ride or a scenic boat trip offering breathtaking island vistas – Willingdon Island awaits your exploration!
+VYPIN-ISLAND
+A tranquil retreat nestled in coastal beauty
+Vypin Island, also known as Vypeen Island, is a picturesque island in the Kochi region of Kerala. Craving sun-drenched beaches and tranquil backwaters? Look no further than this picture-perfect paradise beckoning you in Kochi!
+
+Imagine sinking your toes into the golden sands of Cherai Beach, a local gem renowned for its clear waters and breathtaking beauty. Vypin Island boasts not just one but several stunning beaches – explore Munambam Beach, Puthuvype Beach, and even Fort Kochi Beach, each offering a unique coastal charm.
+
+But Vypin Island's magic extends beyond its shores. Venture into the serene backwaters of Vembanad Lake, a network of tranquil waterways fringed by lush greenery and traditional villages. Glide along in a houseboat, soaking in the peacefulness and natural beauty.
+
+Vypin Island promises a delightful escape where pristine beaches meet backwater serenity. Are you ready to discover your island paradise?
+
+
+
+FORT-KOCHI
+Where history and culture unfold
+Fort Kochi is a historic neighbourhood in Kochi, Kerala. When you set foot in Fort Kochi, you'll instantly feel like you've been transported to a different time period. This place is steeped in the history and culture of all who have occupied it through the ages. Its roots and essence are unique in their diversity.
+
+Renowned for its rich history, multicultural heritage, and colonial-era architecture, Fort Kochi is a prominent tourist destination for both domestic and international travellers. In fact, it was ranked ninth among the top 25 in National Geographic’s Top Tourist Destinations to Explore In 2020. Let’s explore some key aspects of Fort Kochi!
