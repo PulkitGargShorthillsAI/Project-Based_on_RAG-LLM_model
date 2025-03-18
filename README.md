@@ -1,76 +1,66 @@
-# Project-Based_on_RAG-LLM_model
+# 🌍 GlobeGuide AI - Intelligent Travel Assistant
 
-# Chatbot with Retrieval-Augmented Generation (RAG)
+GlobeGuide AI is an advanced travel assistant chatbot that leverages Retrieval-Augmented Generation (RAG) to provide users with accurate and up-to-date travel information for locations worldwide. The chatbot processes user queries, retrieves relevant information from a structured knowledge base, and generates concise, informative responses.
 
-This project implements a chatbot using **Retrieval-Augmented Generation (RAG)** with **Pinecone** as a vector database and **Google's Gemini LLM** for answering user queries based on stored document data. The system includes:
-- **Vector Storage** (Pinecone) for efficient document retrieval
-- **RAG Pipeline** for retrieving relevant context and generating answers
-- **Streamlit Frontend** for user interaction
-- **Evaluation & Logging** to track chatbot performance
+---
 
-## Features
-- Loads and processes text files to create vector embeddings
-- Stores vectorized data in Pinecone
-- Retrieves relevant documents using similarity search
-- Uses Google's Gemini model to generate responses
-- Logs interactions for analysis and improvement
+## 🎯 Key Features
+- **RAG-Powered Responses**: Retrieves the most relevant travel information using Pinecone vector storage and LangChain.
+- **Integration with Gemini AI**: Utilizes Google’s Gemini models for natural language understanding and text generation.
+- **Multi-Language Support**: Handles queries in multiple languages for a global user base.
+- **Efficient Query Handling**: Ensures quick response times using optimized retrieval and generation pipelines.
+- **Interactive Chat History**: Logs interactions for user reference and continuous improvement.
 
-## Project Structure
-```
-📂 project_root/
-├── vector_storage.py  # Handles data loading and vectorization
-├── rag_pipeline.py    # Implements retrieval and answer generation
-├── frontend.py        # Streamlit-based chatbot UI
-├── questions_list.py  # Predefined questions for evaluation
-├── .env               # Environment variables for API keys
-├── log_queries.txt    # Logs chatbot interactions
-├── log_queries.csv    # CSV log of responses
-└── README.md          # Project documentation
-```
+---
 
-## Installation
-### Prerequisites
-- Python 3.8+
-- API keys for **Pinecone** and **Google Gemini**
+## 🎯 Objectives
+- Provide instant and reliable travel-related information.
+- Improve user experience through context-aware responses.
+- Integrate with APIs for real-time travel updates.
+- Optimize retrieval processes for faster responses.
+
+---
+
+## 👨‍💻 Architecture Diagram
+1. User enters a travel-related query in the chatbot.
+2. The chatbot processes the input and retrieves relevant data from Pinecone vector storage.
+3. The RAG pipeline generates a response using Gemini AI.
+4. The chatbot presents the final response to the user in an interactive UI.
+5. The query and response are logged for future reference.
+
+![Screenshot from 2025-03-17 15-12-02](https://github.com/user-attachments/assets/6a64d39c-259c-427a-91d1-c966c5c96a1e)
 
 
-## Usage
-1. **Set up environment variables**
-   - Create a `.env` file and add your API keys:
-     ```
-     GEMINI_API=your_google_api_key
-     PINECONE_API=your_pinecone_api_key
-     ```
+---
 
-2. **Run the vector storage script** to process and store document embeddings:
-   ```bash
-   python vector_storage.py
-   ```
+## 💡 Technologies Used
+- **Python** – Primary programming language.
+- **LangChain** – Used for building the RAG pipeline.
+- **Pinecone** – Vector database for efficient retrieval.
+- **Google Gemini AI** – For embedding generation and response formulation.
+- **Streamlit** – Provides an intuitive frontend for user interaction.
+- **CSV/Excel Logging** – Maintains a record of user queries and responses.
 
-3. **Run the RAG pipeline script** to enable document retrieval and chatbot response generation:
-   ```bash
-   python rag_pipeline.py
-   ```
+---
 
-4. **Start the chatbot UI** using Streamlit:
-   ```bash
-   streamlit run frontend.py
-   ```
+## 🖼️ UI Screenshots
+![Screenshot from 2025-03-17 14-56-03](https://github.com/user-attachments/assets/17561a51-7c0f-405b-981f-44d872b5dbd3)
 
-## How It Works
-1. **Document Processing:** `vector_storage.py` loads text files, splits them into chunks, converts them into embeddings, and uploads them to Pinecone.
-2. **Retrieval & Generation:** `rag_pipeline.py` retrieves relevant documents and generates responses using the Gemini LLM.
-3. **User Interaction:** `frontend.py` provides a simple interface where users can ask questions and receive answers based on stored knowledge.
-4. **Logging & Evaluation:** Queries and responses are logged in `log_queries.txt` and `log_queries.csv`, allowing for performance tracking.
 
-## Example Query
-**User Input:** "What is the population of New York?"
+---
 
-**Chatbot Response:** "Based on the retrieved data, the population of New York is approximately 8.5 million."
+## 🤍 Test Cases
+Detailed test case documentation: [Test Cases](https://shorthillstech-my.sharepoint.com/:x:/g/personal/pulkit_garg_shorthills_ai/EWi7LXBJ0IpDljKzxS5tWOYBdalqSogptyedX_b5KKLCog?e=ExHBpd)
 
-## Contributing
-Feel free to fork this repository and make improvements! If you find any issues, please open an issue or submit a pull request.
+---
 
-## License
-This project is open-source and available under the **MIT License**.
+## 💡 Future Enhancements
+- **Summarization with Chains**: Implement OpenAI's GPT-4-Turbo or LangChain summarization chains for handling longer context.
+- **Real-Time Travel Alerts**: Integrate APIs for live updates on weather, flights, and accommodations.
+- **Voice & Image Recognition**: Incorporate Whisper AI for voice inputs and image-based location detection.
+- **Multi-Platform Deployment**: Extend chatbot support to mobile applications and social media platforms.
+
+---
+
+GlobeGuide AI aims to revolutionize travel assistance by providing users with instant, AI-powered insights into any destination worldwide! 🌍✈️
 
