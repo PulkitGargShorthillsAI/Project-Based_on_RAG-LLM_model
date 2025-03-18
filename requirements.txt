@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-pinecone
+langchain-google-genai
+streamlit
+requests
+beautifulsoup4
+pinecone-client
+bert-score

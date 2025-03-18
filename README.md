@@ -43,6 +43,22 @@ GlobeGuide AI is an advanced travel assistant chatbot that leverages Retrieval-A
 
 ---
 
+## 📊 Evaluation Parameters
+
+GlobeGuide AI evaluates chatbot performance using BERTScore, which compares the generated responses with the expected answers based on:
+
+- **Precision (P)**: Measures how many relevant words from the actual answer are present in the generated response.
+
+- **Recall (R)**: Measures how many words from the generated response match the actual answer.
+
+- **F1-Score**: The harmonic mean of Precision and Recall, providing an overall effectiveness score.
+
+These metrics help improve the chatbot’s accuracy and relevance over time.
+
+
+
+---
+
 ## 🖼️ UI Screenshots
 ![Screenshot from 2025-03-17 14-56-03](https://github.com/user-attachments/assets/17561a51-7c0f-405b-981f-44d872b5dbd3)
 
