@@ -7071,3 +7071,17 @@ P: 0.45138657093048096
 R: 0.6059312224388123
 F1: 0.5283366441726685
 ----------------------------------------
+Q: What activities can one enjoy in Goa?
+Actual answer: Goa offers pristine beaches, water sports like snorkeling, and historical sites like Aguada Fort. Its vibrant nightlife and local markets are also popular attractions.
+A: Goa offers a variety of activities, including exploring pristine beaches, engaging in water sports like snorkeling and sunbathing, and visiting historical sites like Aguada Fort. The region is also known for its vibrant nightlife and laid-back atmosphere.
+P: 0.6200466752052307
+R: 0.7899945378303528
+F1: 0.704224705696106
+----------------------------------------
+Q: What makes the Andaman Islands a paradise for adventurers?
+Actual answer: The Andaman Islands boast turquoise waters, rich underwater life, and opportunities for scuba diving and cruising. Hidden caves and coral reefs enhance the adventurous experience.
+A: The Andaman Islands are a paradise for adventurers due to their turquoise waters and rich underwater life, which allows for activities like scuba diving and cruising. Adventurers can discover hidden caves and explore coral reefs. The islands also boast immaculate beaches and diverse ecosystems.
+P: 0.5622171759605408
+R: 0.7617181539535522
+F1: 0.6607455611228943
+----------------------------------------

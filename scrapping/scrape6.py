@@ -90,7 +90,7 @@ class DookInternationalScraper:
 
     def start_scraping(self):
         """Main function to start scraping"""
-        print(f"🚀 Starting to scrape {self.BASE_URL}")
+        print(f"Starting to scrape {self.BASE_URL}")
         self.scrape_countries()
         self.scrape_pagination()
         self.save_to_file()
