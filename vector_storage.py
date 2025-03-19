@@ -7,6 +7,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_pinecone import PineconeVectorStore
 from langchain.document_loaders import DirectoryLoader
 
+
 load_dotenv()
 
 GEMINI_API = os.getenv("GEMINI_API")
@@ -22,7 +23,7 @@ os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
 class PineconeHandler:
-    def __init__(self, index_name="chatbot1"):
+    def __init__(self, index_name="chatbot2"):
         self.index_name = index_name
         if not PINECONE_API_KEY:
             raise ValueError("PINECONE_API_KEY is not set. Please check your environment variables.")

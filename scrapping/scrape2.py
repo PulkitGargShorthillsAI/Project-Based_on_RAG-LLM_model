@@ -12,35 +12,48 @@ class TravelScraper:
 
     def fetch_content(self) -> str:
         """Fetches and extracts relevant travel destination content."""
-        response = requests.get(self.base_url)
-        soup = BeautifulSoup(response.text, "lxml")
+        try:
+            response = requests.get(self.base_url, timeout=10)
+            response.raise_for_status()  # Raises HTTPError for bad responses (4xx and 5xx)
+        except requests.exceptions.RequestException as e:
+            print(f"⚠ Network error while fetching content: {e}")
+            return ""
 
-        text = ""
-        content = soup.find("div", {"class": "blog-excerpt fb-heart"})
-        
-        if content:
-            website_text = content.find_all(["p", "h3"])
-            for location in website_text:
-                if location:
-                    text += location.text.strip() + "\n"
-
-        return text
+        try:
+            soup = BeautifulSoup(response.text, "lxml")
+            text = ""
+            content = soup.find("div", {"class": "blog-excerpt fb-heart"})
+            
+            if content:
+                website_text = content.find_all(["p", "h3"])
+                for location in website_text:
+                    if location:
+                        text += location.text.strip() + "\n"
+            
+            return text
+        except Exception as e:
+            print(f"⚠ Error while parsing HTML content: {e}")
+            return ""
 
     def save_to_file(self, filename: str, text: str):
         """Saves scraped content to a text file."""
-        file_path = os.path.join(self.output_dir, filename)
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(text)
-        print(f"✅ Data saved in: {file_path}")
+        try:
+            file_path = os.path.join(self.output_dir, filename)
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(text)
+            print(f"✅ Data saved in: {file_path}")
+        except IOError as e:
+            print(f"⚠ Error writing to file: {e}")
 
     def start_scraping(self):
         """Main method to start the scraping process."""
+        print("🔍 Starting web scraping...")
         text_data = self.fetch_content()
+        
         if text_data:
             self.save_to_file("108_famous_locations_in_india.txt", text_data)
         else:
             print("⚠ No data found to scrape!")
-
 
 if __name__ == "__main__":
     scraper = TravelScraper("https://traveltriangle.com/blog/places-to-visit-in-india-before-you-turn-30/")

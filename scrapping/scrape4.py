@@ -13,31 +13,46 @@ class FoodCityScraper:
     def fetch_content(self):
         """Fetches and extracts food-related city content from the given URL."""
         try:
-            response = requests.get(self.url)
+            response = requests.get(self.url, timeout=10)
             response.raise_for_status()  # Raise an error for bad responses
             soup = BeautifulSoup(response.text, "lxml")
 
             text = "\n"
             content = soup.find("div", {"class": "lt-side"})
 
-            if content:
-                locations = content.find_all(["h2", "p"])
-                for location in locations:
-                    if location:
-                        text += location.text.strip() + "\n"
+            if not content:
+                print("⚠ No relevant content found on the page.")
+                return ""
+
+            locations = content.find_all(["h2", "p"])
+            for location in locations:
+                if location:
+                    text += location.text.strip() + "\n"
 
             return text
 
-        except requests.exceptions.RequestException as e:
-            print(f"⚠ Error fetching {self.url}: {e}")
-            return ""
+        except requests.exceptions.Timeout:
+            print("⚠ Error: Request timed out.")
+        except requests.exceptions.HTTPError as http_err:
+            print(f"⚠ HTTP error occurred: {http_err}")
+        except requests.exceptions.RequestException as req_err:
+            print(f"⚠ Error fetching {self.url}: {req_err}")
+        except Exception as e:
+            print(f"⚠ Unexpected error: {e}")
+        
+        return ""
 
     def save_to_file(self, filename, text):
         """Saves the scraped content to a text file."""
-        file_path = os.path.join(self.output_dir, filename)
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(text)
-        print(f"✅ Data saved in: {file_path}")
+        try:
+            file_path = os.path.join(self.output_dir, filename)
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(text)
+            print(f"✅ Data saved in: {file_path}")
+        except IOError as io_err:
+            print(f"⚠ File writing error: {io_err}")
+        except Exception as e:
+            print(f"⚠ Unexpected error while saving file: {e}")
 
     def start_scraping(self):
         """Starts the scraping process."""
@@ -49,7 +64,6 @@ class FoodCityScraper:
             self.save_to_file(filename, scraped_text)
         else:
             print("⚠ No data found!")
-
 
 if __name__ == "__main__":
     url = "https://www.clubmahindra.com/blog/experience/indian-cities-for-food-lovers-across-india"

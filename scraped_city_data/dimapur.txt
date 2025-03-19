@@ -7,9 +7,9 @@ This bustling town was founded by the Kachari rulers, a Tibeto-Burmese people wh
 
 
 
-DIEZEPHE-CRAFT-VILLAGE
-Crafting a cultural legacy
-Nothing showcases the identity and culture of a people more evocatively than its handicrafts – a physical manifestation of skills, natural bounty, traditions and a sense of history. Nowhere will you find this more gloriously showcased than at the Diezephe Craft Village. At the Diezephe village, a 500-strong community of skilled artisans and weavers, the art of handloom weaving and creating handicrafts is a way of life.  The village exudes a vibrant heritage even as it proudly displays craft showrooms, weaving workshops, and a captivating craft museum.
+DIMAPUR-ZOO
+A Refuge for Diverse Species
+Dimapur Zoo, situated amidst the lush greenery of Nagaland, stands as the lone zoological park in the state, located approximately 6 km from Dimapur's township. Established in 2008, this zoo spans an area of 176 hectares, providing a sanctuary for 369 animals, birds, and reptiles across 47 different species. The park is not just a site of animal conservation but also a place of learning and recreation, drawing a significant number of visitors, especially families and students, throughout the year.
 
 
 
@@ -35,6 +35,6 @@ Approximately 45 kms from Dimapur and located amongst the verdant flora and fau
 
 
 
-DIMAPUR-ZOO
-A Refuge for Diverse Species
-Dimapur Zoo, situated amidst the lush greenery of Nagaland, stands as the lone zoological park in the state, located approximately 6 km from Dimapur's township. Established in 2008, this zoo spans an area of 176 hectares, providing a sanctuary for 369 animals, birds, and reptiles across 47 different species. The park is not just a site of animal conservation but also a place of learning and recreation, drawing a significant number of visitors, especially families and students, throughout the year.
+DIEZEPHE-CRAFT-VILLAGE
+Crafting a cultural legacy
+Nothing showcases the identity and culture of a people more evocatively than its handicrafts – a physical manifestation of skills, natural bounty, traditions and a sense of history. Nowhere will you find this more gloriously showcased than at the Diezephe Craft Village. At the Diezephe village, a 500-strong community of skilled artisans and weavers, the art of handloom weaving and creating handicrafts is a way of life.  The village exudes a vibrant heritage even as it proudly displays craft showrooms, weaving workshops, and a captivating craft museum.
