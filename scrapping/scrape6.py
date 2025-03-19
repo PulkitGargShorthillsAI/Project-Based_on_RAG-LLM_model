@@ -29,15 +29,16 @@ class DookInternationalScraper:
         soup = self.fetch_soup(base_url)
         if not soup:
             return ""
+        text = ""
+        if soup.find('div', {"class": "col-12 mb-3"}):
+            text = soup.find('div', {"class": "col-12 mb-3"}).text.strip()
+            content = soup.find_all('div', {"class": "brick"})
 
-        text = soup.find('div', {"class": "col-12 mb-3"}).text.strip()
-        content = soup.find_all('div', {"class": "brick"})
-
-        for c in content:
-            title = c.find('h3')
-            desc = c.find('p')
-            if title and desc:
-                text += f"\n{title.text.strip()}\n{desc.text.strip()}\n"
+            for c in content:
+                title = c.find('h3')
+                desc = c.find('p')
+                if title and desc:
+                    text += f"\n{title.text.strip()}\n{desc.text.strip()}\n"
 
         return text
 
