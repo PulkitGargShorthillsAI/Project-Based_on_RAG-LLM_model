@@ -65,8 +65,8 @@ These metrics help improve the chatbot’s accuracy and relevance over time.
 
 ---
 
-## 🤍 Test Cases
-Detailed test case documentation: [Test Cases](https://shorthillstech-my.sharepoint.com/:x:/g/personal/pulkit_garg_shorthills_ai/EWi7LXBJ0IpDljKzxS5tWOYBdalqSogptyedX_b5KKLCog?e=ExHBpd)
+## 💡 Test Cases
+Detailed test case documentation: [Test Cases](https://shorthillstech-my.sharepoint.com/:x:/g/personal/pulkit_garg_shorthills_ai/EWi7LXBJ0IpDljKzxS5tWOYBcMAvU0rk6yXucC2alHlLjw?e=0htaxT)
 
 ---
 
