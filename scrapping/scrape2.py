@@ -54,7 +54,3 @@ class TravelScraper:
             self.save_to_file("108_famous_locations_in_india.txt", text_data)
         else:
             print("⚠ No data found to scrape!")
-
-if __name__ == "__main__":
-    scraper = TravelScraper("https://traveltriangle.com/blog/places-to-visit-in-india-before-you-turn-30/")
-    scraper.start_scraping()

@@ -107,6 +107,3 @@ class BucketListScraper:
             print("⚠ No data scraped!")
 
 
-if __name__ == "__main__":
-    scraper = BucketListScraper()
-    scraper.start_scraping()

@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import time
 
-class TravelScraper:
+class HolidifyScraper:
     """Scrapes travel destination data from multiple Holidify URLs with error handling."""
     
     def __init__(self, urls, output_dir="scraped_city_data", max_retries=3, retry_delay=5):
@@ -70,11 +70,3 @@ class TravelScraper:
                 self.save_to_file(filename, scraped_text)
             else:
                 print(f"⚠ No data found for {url}")
-
-if __name__ == "__main__":
-    urls = [
-        "https://www.holidify.com/collections/monuments-of-india",
-        "https://www.holidify.com/collections/one-places-from-each-state"
-    ]
-    scraper = TravelScraper(urls)
-    scraper.start_scraping()

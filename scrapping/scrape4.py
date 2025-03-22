@@ -64,8 +64,3 @@ class FoodCityScraper:
             self.save_to_file(filename, scraped_text)
         else:
             print("⚠ No data found!")
-
-if __name__ == "__main__":
-    url = "https://www.clubmahindra.com/blog/experience/indian-cities-for-food-lovers-across-india"
-    scraper = FoodCityScraper(url)
-    scraper.start_scraping()

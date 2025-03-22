@@ -95,8 +95,3 @@ class DookInternationalScraper:
         self.scrape_countries()
         self.scrape_pagination()
         self.save_to_file()
-
-
-if __name__ == "__main__":
-    scraper = DookInternationalScraper()
-    scraper.start_scraping()

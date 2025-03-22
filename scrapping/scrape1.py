@@ -115,6 +115,3 @@ class IncredibleIndiaScraper:
         print(f"Total web pages visited: {self.web_pages}")
 
 
-if __name__ == "__main__":
-    scraper = IncredibleIndiaScraper(base_url="https://www.incredibleindia.gov.in/en")
-    scraper.start_scraping()

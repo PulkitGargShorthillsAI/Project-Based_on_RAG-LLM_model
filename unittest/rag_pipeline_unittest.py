@@ -1,35 +1,102 @@
 import unittest
-from unittest.mock import patch, MagicMock
-import sys
+from unittest.mock import Mock,patch, MagicMock
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__),'..')))
 from rag_pipeline import ChatbotRAG
 
-
 class TestChatbotRAG(unittest.TestCase):
-    @patch("rag_pipeline.GoogleGenerativeAIEmbeddings")
-    @patch("rag_pipeline.PineconeVectorStore.from_existing_index")
-    @patch("rag_pipeline.ChatGoogleGenerativeAI")
-    def setUp(self, MockLLM, MockPineconeVectorStore, MockEmbeddings):
-        self.mock_embeddings = MockEmbeddings.return_value
-        self.mock_retriever = MockPineconeVectorStore.return_value.as_retriever.return_value
-        self.mock_llm = MockLLM.return_value
+    def setUp(self):
+        self.chatbot = ChatbotRAG(index_name="chatbot")
 
-        self.chatbot = ChatbotRAG(index_name="test_index")
+    @patch("rag_pipeline.load_dotenv")
+    @patch("rag_pipeline.GoogleGenerativeAIEmbeddings")
+    @patch("rag_pipeline.PineconeVectorStore")
+    @patch("rag_pipeline.ChatGoogleGenerativeAI")
+    @patch("rag_pipeline.create_retrieval_chain")
+    @patch("rag_pipeline.create_stuff_documents_chain")
+    def setUp(self, mock_create_stuff, mock_create_retrieval, mock_chat_llm, mock_pinecone, mock_embeddings, mock_load_dotenv):
+        """Setup mocks for API keys and components"""
+        os.environ["GEMINI_API_PGARG"] = "test_gemini_api_key"
+        os.environ["PINECONE_API"] = "test_pinecone_api_key"
         
-        MockEmbeddings.assert_called_once()
-        MockPineconeVectorStore.assert_called_once_with(index_name="test_index", embedding=self.mock_embeddings)
-        MockLLM.assert_called_once()
-    
-    def test_initialize_rag_chain(self):
+        # Mock embeddings
+        mock_embeddings_instance = MagicMock()
+        mock_embeddings.return_value = mock_embeddings_instance
+        
+        # Mock Pinecone retriever
+        mock_pinecone_instance = MagicMock()
+        mock_pinecone.from_existing_index.return_value = mock_pinecone_instance
+        mock_pinecone_instance.as_retriever.return_value = mock_pinecone_instance
+        
+        # Mock Chat model
+        mock_chat_instance = MagicMock()
+        mock_chat_llm.return_value = mock_chat_instance
+        
+        # Mock RAG Chain
+        mock_create_stuff.return_value = "mock_stuff_chain"
+        mock_create_retrieval.return_value = "mock_rag_chain"
+        
+        self.chatbot = ChatbotRAG(index_name="test_index")
+
+    def test_initialization_success(self):
+        """Test that the chatbot initializes successfully"""
+        self.assertIsNotNone(self.chatbot.embeddings)
+        self.assertIsNotNone(self.chatbot.retriever)
+        self.assertIsNotNone(self.chatbot.llm)
         self.assertIsNotNone(self.chatbot.rag_chain)
+
+    @patch("rag_pipeline.GoogleGenerativeAIEmbeddings", side_effect=Exception("Embeddings error"))
+    def test_initialize_embeddings_failure(self, mock_embeddings):
+        """Test that an error during embeddings initialization is handled"""
+        with self.assertRaises(Exception) as context:
+            ChatbotRAG(index_name="test_index")
+        self.assertIn("Embeddings error", str(context.exception))
+
+    @patch("rag_pipeline.PineconeVectorStore.from_existing_index", side_effect=Exception("Pinecone error"))
+    def test_initialize_retriever_failure(self, mock_pinecone):
+        """Test that an error during retriever initialization is handled"""
+        with self.assertRaises(Exception) as context:
+            ChatbotRAG(index_name="test_index")
+        self.assertIn("Pinecone error", str(context.exception))
     
-    @patch("rag_pipeline.ChatbotRAG.ask_question")
-    def test_ask_question(self, MockAskQuestion):
-        MockAskQuestion.return_value = "This is a test answer."
-        response = self.chatbot.ask_question("What is LangChain?")
-        self.assertEqual(response, "This is a test answer.")
-        MockAskQuestion.assert_called_once_with("What is LangChain?")
+    @patch("rag_pipeline.ChatGoogleGenerativeAI", side_effect=Exception("LLM error"))
+    def test_initialize_llm_failure(self, mock_chat_llm):
+        """Test that an error during LLM initialization is handled"""
+        with self.assertRaises(Exception) as context:
+            ChatbotRAG(index_name="test_index")
+        self.assertIn("Unauthorized", str(context.exception))
+
+    
+    @patch("rag_pipeline.create_retrieval_chain", side_effect=Exception("RAG Chain error"))
+    def test_initialize_rag_chain_failure(self, mock_create_retrieval):
+        """Test that an error during RAG chain initialization is handled"""
+        with self.assertRaises(Exception) as context:
+            ChatbotRAG(index_name="test_index")
+        self.assertIn("Invalid API Key", str(context.exception))
+
+    
+    def test_ask_question_success(self):
+        """Test chatbot response handling with a valid question"""
+        self.chatbot.rag_chain = Mock()
+        self.chatbot.rag_chain.invoke.return_value = "Test response"
+
+        response = self.chatbot.ask_question("What is AI?")
+        self.assertEqual(response, "Test response")
+    
+    def test_ask_question_empty_input(self):
+        """Test chatbot handling of empty question input"""
+        response = self.chatbot.ask_question("")
+        self.assertEqual(response, "An error occurred while processing your question.")
+    
+    @patch("rag_pipeline.ChatbotRAG.ask_question", side_effect=Exception("Processing error"))
+    def test_ask_question_failure(self, mock_ask_question):
+        """Test that chatbot handles question processing errors properly"""
+        with self.assertRaises(Exception) as context:
+            self.chatbot.ask_question("What is AI?")
+
+        self.assertEqual(str(context.exception), "Processing error")
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -82,7 +82,7 @@ class ChatbotEvaluator:
                     log_file.write(f"{'-'*40}\n")
         except Exception as main_error:
             write_log(f"Unhandled error in run_evaluation: {str(main_error)}", error=True)
-            raise main_error  # Ensure major errors are not silently ignored
+            raise main_error
 
 if __name__ == "__main__":
     try:

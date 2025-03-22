@@ -64,6 +64,3 @@ class VisaRequirementScraper:
         self.scrape_data()
         self.save_to_file()
 
-if __name__ == "__main__":
-    scraper = VisaRequirementScraper()
-    scraper.start_scraping()
