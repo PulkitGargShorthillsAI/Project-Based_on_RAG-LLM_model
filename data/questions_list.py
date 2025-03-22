@@ -1210,15 +1210,6 @@ international_countries = [
     "What are the best ways to travel sustainably?"
 ]
 
-print(len(international_countries))
-
-s1 = set()
-
-
-for cnt in international_countries:
-    s1.add(cnt)
-print(len(s1))
-
 
 
 

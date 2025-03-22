@@ -1,26 +1,25 @@
 import streamlit as st
 import csv
 from rag_pipeline import chatbot
+from datetime import datetime
 
+# Function to get response from the RAG pipeline
 def get_rag_response(user_input: str) -> str:
-    """
-    Takes user input, retrieves relevant documents using the RAG chain,
-    and returns the generated response.
-    """
     response = chatbot.ask_question(user_input)
     return response["answer"]
 
+# Function to log interaction
 def log_interaction(question: str, answer: str):
-    """Logs the user query and response in both a text file and a CSV file."""
-    with open("logging/log_chatbot.txt", "a") as txt_file:
-        txt_file.write(f"Q: {question}\nA: {answer}\n{'-'*40}\n")
-    
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open("logging/log_chatbot.log", "a") as txt_file:
+        txt_file.write(f"{timestamp}\nQ: {question}\nA: {answer}\n{'-'*40}\n")
+
     with open("logging/log_chatbot.csv", "a", newline="") as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow([question, answer])
 
+# Function to load chat history
 def load_chat_history():
-    """Loads previous chat history from the log file."""
     history = []
     try:
         with open("logging/log_chatbot.csv", "r") as csv_file:
@@ -32,25 +31,39 @@ def load_chat_history():
         pass
     return history
 
-st.title("GlobeGuide AI")
+# Streamlit UI
+st.set_page_config(page_title="GlobeGuide AI", page_icon="🌍", layout="wide")
 
-chat_history = load_chat_history()
+st.markdown("<h1 style='text-align: center; color: #4CAF50;'>GlobeGuide AI 🌍</h1>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: 18px;'>Your AI-powered travel assistant</p>", unsafe_allow_html=True)
 
-# Display previous chat history
-st.subheader("Chat History")
-for chat in chat_history:
-    with st.expander(f"Q: {chat['question']}"):
-        st.write(f"**A:** {chat['answer']}")
+# Sidebar with chat history
+with st.sidebar:
+    st.subheader("📜 Chat History")
+    chat_history = load_chat_history()
+    for chat in chat_history[::-1]:  # Show latest first
+        with st.expander(f"🔹 {chat['question']}"):
+            st.write(f"**Answer:** {chat['answer']}")
 
-# User input
-user_query = st.text_input("Ask me anything:")
+# Chat interface
+st.subheader("💬 Ask your travel questions")
 
-if st.button("Submit") and user_query:
-    answer = get_rag_response(user_query)
-    st.write("**Answer:**", answer)
-    
-    # Log question and answer
-    log_interaction(user_query, answer)
-    
-    # Refresh chat history
-    chat_history.append({"question": user_query, "answer": answer})
+# User input field
+user_query = st.text_area("Type your question here:", height=100, placeholder="e.g., What are the best places to visit in Paris?")
+
+if st.button("Submit"):
+    if user_query.strip():
+        with st.spinner("Thinking... 🤔"):
+            answer = get_rag_response(user_query)
+
+        # Display chat message
+        with st.chat_message("user"):
+            st.write(user_query)
+
+        with st.chat_message("assistant"):
+            st.write(answer)
+
+        # Log the interaction
+        log_interaction(user_query, answer)
+    else:
+        st.warning("Please enter a question before submitting.")

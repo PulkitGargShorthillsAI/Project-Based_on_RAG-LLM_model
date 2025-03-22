@@ -4,7 +4,7 @@ import pandas as pd
 column_names = ["question", "expected_answer", "generated_answer", "Precision", "Recall", "F1"]
 
 # Load the CSV file without a header and assign column names
-file_path = "logging/log_queries.csv"  # Ensure the file is in the correct directory
+file_path = "logging/log_queries.csv"
 df = pd.read_csv(file_path, names=column_names, header=None)
 
 # Compute the averages

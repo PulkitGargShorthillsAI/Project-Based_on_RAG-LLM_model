@@ -1,0 +1,176 @@
+2025-03-22 08:34:08 - Checking if Pinecone index 'chatbot' exists...
+2025-03-22 08:34:09 - Index already exists.
+2025-03-22 08:34:13 - Current index contains 9916 vectors.
+2025-03-22 08:34:13 - Index already contains data. Skipping re-upload.
+----------------------------------------
+2025-03-22 08:47:29 - Checking if Pinecone index 'chatbot1' exists...
+2025-03-22 08:47:30 - Creating a new Pinecone index: chatbot1
+2025-03-22 08:47:39 - Current index contains 0 vectors.
+2025-03-22 08:47:39 - Uploading documents to Pinecone...
+2025-03-22 08:48:28 - Checking if Pinecone index 'chatbot1' exists...
+2025-03-22 08:48:30 - Index already exists.
+2025-03-22 08:48:34 - Current index contains 0 vectors.
+2025-03-22 08:48:34 - Uploading documents to Pinecone...
+2025-03-22 08:53:45 - Documents successfully stored in Pinecone.
+----------------------------------------
+2025-03-22 09:21:20 - INFO: Checking if Pinecone index 'chatbot1' exists...
+2025-03-22 09:21:22 - INFO: Index already exists.
+2025-03-22 09:21:25 - INFO: Current index contains 12635 vectors.
+2025-03-22 09:21:25 - INFO: Index already contains data. Skipping re-upload.
+----------------------------------------
+2025-03-22 09:21:50 - INFO: Checking if Pinecone index 'chatbot1' exists...
+2025-03-22 09:21:52 - INFO: Index already exists.
+2025-03-22 09:21:55 - INFO: Current index contains 12635 vectors.
+2025-03-22 09:21:55 - INFO: Index already contains data. Skipping re-upload.
+----------------------------------------
+2025-03-22 09:22:14 - INFO: Checking if Pinecone index 'chatbot2' exists...
+2025-03-22 09:22:16 - INFO: Creating a new Pinecone index: chatbot2
+2025-03-22 09:25:44 - INFO: Current index contains 0 vectors.
+2025-03-22 09:25:44 - INFO: Uploading documents to Pinecone...
+2025-03-22 09:25:44 - ERROR: Error during Pinecone upload: You haven't specified an Api-Key.
+2025-03-22 09:25:44 - ERROR: Error uploading documents to Pinecone: You haven't specified an Api-Key.
+2025-03-22 09:25:44 - ERROR: Unhandled error in main execution: You haven't specified an Api-Key.
+2025-03-22 09:26:44 - INFO: Checking if Pinecone index 'chatbot2' exists...
+2025-03-22 09:26:45 - INFO: Index already exists.
+2025-03-22 09:26:48 - INFO: Current index contains 0 vectors.
+2025-03-22 09:26:48 - INFO: Uploading documents to Pinecone...
+2025-03-22 09:30:52 - INFO: Documents successfully stored in Pinecone.
+----------------------------------------
+2025-03-22 09:32:34 - INFO: Checking if Pinecone index 'chatbot2' exists...
+2025-03-22 09:32:36 - INFO: Index already exists.
+2025-03-22 09:32:38 - INFO: Current index contains 8638 vectors.
+2025-03-22 09:32:38 - INFO: Index already contains data. Skipping re-upload.
+----------------------------------------
+2025-03-22 09:32:57 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 09:32:58 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 09:33:12 - INFO: Current index contains 0 vectors.
+2025-03-22 09:33:12 - INFO: Uploading documents to Pinecone...
+2025-03-22 09:33:12 - ERROR: Error during Pinecone upload: You haven't specified an Api-Key.
+2025-03-22 09:33:12 - ERROR: Error uploading documents to Pinecone: You haven't specified an Api-Key.
+2025-03-22 09:33:12 - ERROR: Unhandled error in main execution: You haven't specified an Api-Key.
+----------------------------------------
+
+
+2025-03-22 12:22:11 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-22 12:22:26
+Q: What activities can one enjoy in Goa?
+Actual Answer: Goa offers pristine beaches, water sports like snorkeling, and historical sites like Aguada Fort. Its vibrant nightlife and local markets are also popular attractions.
+A: In Goa, one can enjoy pristine beaches and lush greenery. You can also engage in beach and water activities, including snorkeling and sunbathing. Additionally, you can explore ancient forts and experience Goa's vibrant nightlife.
+P: 0.4104394018650055
+R: 0.48954495787620544
+F1: 0.4505975842475891
+2025-03-22 12:22:26 - INFO: Successfully evaluated: What activities can one enjoy in Goa?
+----------------------------------------
+2025-03-22 12:22:36
+Q: What makes the Andaman Islands a paradise for adventurers?
+Actual Answer: The Andaman Islands boast turquoise waters, rich underwater life, and opportunities for scuba diving and cruising. Hidden caves and coral reefs enhance the adventurous experience.
+A: The Andaman Islands are a paradise for adventurers due to their turquoise waters and rich underwater life, making it ideal for water activities like scuba diving and cruising. Adventurers can explore hidden caves and coral reefs for a thrilling experience. The islands also boast immaculate beaches, crystal-clear waters, and diverse ecosystems, making them alluring to tourists seeking wonder and exploration.
+P: 0.4620736837387085
+R: 0.7779583930969238
+F1: 0.6161556839942932
+2025-03-22 12:22:36 - INFO: Successfully evaluated: What makes the Andaman Islands a paradise for adventurers?
+----------------------------------------
+
+2025-03-22 14:26:32 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:26:32 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:26:32 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:26:32 - INFO: Index already exists.
+2025-03-22 14:26:32 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:26:32 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:26:32 - INFO: Current index contains 0 vectors.
+2025-03-22 14:26:32 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:26:32 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:26:32 - INFO: Current index contains 10 vectors.
+2025-03-22 14:26:32 - ERROR: Failed to initialize PineconeHandler: API failure
+2025-03-22 14:26:32 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:26:32 - INFO: Index already exists.
+2025-03-22 14:26:32 - ERROR: Error loading text files: File read error
+2025-03-22 14:26:32 - ERROR: Error processing text files: File read error
+2025-03-22 14:26:32 - ERROR: Error splitting text: 'str' object has no attribute 'page_content'
+2025-03-22 14:26:32 - ERROR: Error processing text files: 'str' object has no attribute 'page_content'
+2025-03-22 14:26:32 - ERROR: Error initializing GoogleGenerativeAIEmbeddings: API Error
+2025-03-22 14:26:32 - INFO: Index already contains data. Skipping re-upload.
+2025-03-22 14:26:32 - INFO: Uploading documents to Pinecone...
+2025-03-22 14:26:32 - INFO: Documents successfully stored in Pinecone.
+2025-03-22 14:31:56 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:31:56 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:31:56 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:31:56 - INFO: Index already exists.
+2025-03-22 14:31:56 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:31:56 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:31:56 - INFO: Current index contains 0 vectors.
+2025-03-22 14:31:56 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:31:56 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:31:56 - INFO: Current index contains 10 vectors.
+2025-03-22 14:31:56 - ERROR: Failed to initialize PineconeHandler: API failure
+2025-03-22 14:31:56 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:31:56 - INFO: Index already exists.
+2025-03-22 14:31:56 - ERROR: Error loading text files: File read error
+2025-03-22 14:31:56 - ERROR: Error processing text files: File read error
+2025-03-22 14:31:56 - ERROR: Error loading text files: 'list' object has no attribute 'load'
+2025-03-22 14:31:56 - ERROR: Error processing text files: 'list' object has no attribute 'load'
+2025-03-22 14:31:56 - ERROR: Error initializing GoogleGenerativeAIEmbeddings: API Error
+2025-03-22 14:31:56 - INFO: Index already contains data. Skipping re-upload.
+2025-03-22 14:31:56 - INFO: Uploading documents to Pinecone...
+2025-03-22 14:31:56 - INFO: Documents successfully stored in Pinecone.
+2025-03-22 14:32:51 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:32:51 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:32:51 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:32:51 - INFO: Index already exists.
+2025-03-22 14:32:52 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:32:52 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:32:52 - INFO: Current index contains 0 vectors.
+2025-03-22 14:32:52 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:32:52 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:32:52 - INFO: Current index contains 10 vectors.
+2025-03-22 14:32:52 - ERROR: Failed to initialize PineconeHandler: API failure
+2025-03-22 14:32:52 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:32:52 - INFO: Index already exists.
+2025-03-22 14:32:52 - ERROR: Error loading text files: File read error
+2025-03-22 14:32:52 - ERROR: Error processing text files: File read error
+2025-03-22 14:32:52 - ERROR: Error loading text files: 'list' object has no attribute 'load'
+2025-03-22 14:32:52 - ERROR: Error processing text files: 'list' object has no attribute 'load'
+2025-03-22 14:32:52 - ERROR: Error initializing GoogleGenerativeAIEmbeddings: API Error
+2025-03-22 14:32:52 - INFO: Index already contains data. Skipping re-upload.
+2025-03-22 14:32:52 - INFO: Uploading documents to Pinecone...
+2025-03-22 14:32:52 - INFO: Documents successfully stored in Pinecone.
+2025-03-22 14:34:07 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:34:07 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:34:07 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:34:07 - INFO: Index already exists.
+2025-03-22 14:34:07 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:34:07 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:34:07 - INFO: Current index contains 0 vectors.
+2025-03-22 14:34:07 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:34:07 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:34:07 - INFO: Current index contains 10 vectors.
+2025-03-22 14:34:07 - ERROR: Failed to initialize PineconeHandler: API failure
+2025-03-22 14:34:07 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:34:07 - INFO: Index already exists.
+2025-03-22 14:34:07 - ERROR: Error loading text files: File read error
+2025-03-22 14:34:07 - ERROR: Error processing text files: File read error
+2025-03-22 14:34:07 - ERROR: Error initializing GoogleGenerativeAIEmbeddings: API Error
+2025-03-22 14:34:07 - INFO: Index already contains data. Skipping re-upload.
+2025-03-22 14:34:07 - INFO: Uploading documents to Pinecone...
+2025-03-22 14:34:07 - INFO: Documents successfully stored in Pinecone.
+2025-03-22 14:47:54 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:47:54 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:47:54 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:47:54 - INFO: Index already exists.
+2025-03-22 14:47:54 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:47:54 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:47:54 - INFO: Current index contains 0 vectors.
+2025-03-22 14:47:54 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:47:54 - INFO: Creating a new Pinecone index: chatbot3
+2025-03-22 14:47:54 - INFO: Current index contains 10 vectors.
+2025-03-22 14:47:54 - ERROR: Failed to initialize PineconeHandler: API failure
+2025-03-22 14:47:54 - INFO: Checking if Pinecone index 'chatbot3' exists...
+2025-03-22 14:47:54 - INFO: Index already exists.
+2025-03-22 14:47:54 - ERROR: Error loading text files: File read error
+2025-03-22 14:47:54 - ERROR: Error processing text files: File read error
+2025-03-22 14:47:54 - ERROR: Error initializing GoogleGenerativeAIEmbeddings: API Error
+2025-03-22 14:47:54 - INFO: Index already contains data. Skipping re-upload.
+2025-03-22 14:47:54 - INFO: Uploading documents to Pinecone...
+2025-03-22 14:47:54 - INFO: Documents successfully stored in Pinecone.
+
