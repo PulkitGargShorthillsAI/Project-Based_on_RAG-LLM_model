@@ -1,10 +1,10 @@
-from scrape1 import IncredibleIndiaScraper
-from scrape2 import TravelScraper
-from scrape3 import HolidifyScraper
-from scrape4 import FoodCityScraper
-from scrape5 import BucketListScraper
-from scrape6 import DookInternationalScraper
-from scrape7 import VisaRequirementScraper
+from scrapping.incredible_india_scrapper import IncredibleIndiaScraper
+from scrapping.travel_scrapper import TravelScraper
+from scrapping.holidify_scrapper import HolidifyScraper
+from scrapping.food_city_scrapper import FoodCityScraper
+from scrapping.bucket_list_scrapper import BucketListScraper
+from scrapping.dook_international_scrapper import DookInternationalScraper
+from scrapping.visa_requirement_scrapper import VisaRequirementScraper
 
 def safe_scrape(scraper, name):
     try:
