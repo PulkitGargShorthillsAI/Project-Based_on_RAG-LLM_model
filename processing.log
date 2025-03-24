@@ -1,0 +1,424 @@
+2025-03-24 15:55:21 - INFO - Starting processing for folders: data1
+2025-03-24 15:55:21 - INFO - Processing file: sri-harmandir-sahib-golden-temple.txt from data1
+2025-03-24 15:55:21 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:55:27 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:55:27 - INFO - AFC remote call 1 is done.
+2025-03-24 15:55:27 - INFO - Generated 10 Q&A pairs for sri-harmandir-sahib-golden-temple.txt
+2025-03-24 15:55:27 - INFO - Processing file: tirupati.txt from data1
+2025-03-24 15:55:27 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:55:35 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:55:35 - INFO - AFC remote call 1 is done.
+2025-03-24 15:55:35 - INFO - Generated 17 Q&A pairs for tirupati.txt
+2025-03-24 15:55:35 - INFO - Processing file: sri-venkateswara-swamy-vaari-temple.txt from data1
+2025-03-24 15:55:35 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:55:41 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:55:41 - INFO - AFC remote call 1 is done.
+2025-03-24 15:55:41 - INFO - Generated 10 Q&A pairs for sri-venkateswara-swamy-vaari-temple.txt
+2025-03-24 15:55:41 - INFO - Processing file: sanchi-stupa.txt from data1
+2025-03-24 15:55:41 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:55:46 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:55:46 - INFO - AFC remote call 1 is done.
+2025-03-24 15:55:46 - INFO - Generated 10 Q&A pairs for sanchi-stupa.txt
+2025-03-24 15:55:46 - INFO - Processing file: swami-vivekananda-sarovar.txt from data1
+2025-03-24 15:55:46 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:55:51 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:55:51 - INFO - AFC remote call 1 is done.
+2025-03-24 15:55:51 - INFO - Generated 10 Q&A pairs for swami-vivekananda-sarovar.txt
+2025-03-24 15:55:51 - INFO - Processing file: victoria-memorial.txt from data1
+2025-03-24 15:55:51 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:55:58 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:55:58 - INFO - AFC remote call 1 is done.
+2025-03-24 15:55:58 - INFO - Generated 10 Q&A pairs for victoria-memorial.txt
+2025-03-24 15:55:58 - INFO - Processing file: sri-vijaya-puram.txt from data1
+2025-03-24 15:55:58 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:07 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:07 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:07 - INFO - Generated 20 Q&A pairs for sri-vijaya-puram.txt
+2025-03-24 15:56:07 - INFO - Processing file: shore-temple.txt from data1
+2025-03-24 15:56:07 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:13 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:13 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:13 - INFO - Generated 10 Q&A pairs for shore-temple.txt
+2025-03-24 15:56:13 - INFO - Processing file: shanti-stupa.txt from data1
+2025-03-24 15:56:13 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:18 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:18 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:18 - INFO - Generated 10 Q&A pairs for shanti-stupa.txt
+2025-03-24 15:56:18 - INFO - Processing file: taj-mahal.txt from data1
+2025-03-24 15:56:18 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:23 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:23 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:23 - INFO - Generated 10 Q&A pairs for taj-mahal.txt
+2025-03-24 15:56:23 - INFO - Processing file: rohtang-pass.txt from data1
+2025-03-24 15:56:23 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:26 - INFO - Starting processing for folders: data2
+2025-03-24 15:56:26 - INFO - Processing file: patna.txt from data2
+2025-03-24 15:56:26 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:27 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:27 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:27 - INFO - Generated 10 Q&A pairs for rohtang-pass.txt
+2025-03-24 15:56:27 - INFO - Processing file: tawang-monastery.txt from data1
+2025-03-24 15:56:27 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:33 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:33 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:33 - INFO - Generated 10 Q&A pairs for tawang-monastery.txt
+2025-03-24 15:56:33 - INFO - Processing file: the-gateway-of-india.txt from data1
+2025-03-24 15:56:33 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:38 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:38 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:38 - INFO - Generated 10 Q&A pairs for the-gateway-of-india.txt
+2025-03-24 15:56:38 - INFO - Processing file: virupaksha-temple.txt from data1
+2025-03-24 15:56:38 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:56:42 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:42 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:42 - INFO - Generated 9 Q&A pairs for virupaksha-temple.txt
+2025-03-24 15:56:42 - INFO - Q&A data saved: 156 pairs generated.
+2025-03-24 15:56:42 - INFO - Progress saved: 14 files processed.
+2025-03-24 15:56:42 - INFO - Checkpoint reached: 14 files processed. Waiting to avoid timeout.
+2025-03-24 15:56:50 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:56:50 - INFO - AFC remote call 1 is done.
+2025-03-24 15:56:50 - INFO - Generated 26 Q&A pairs for patna.txt
+2025-03-24 15:56:50 - INFO - Processing file: one-places-from-each-state.txt from data2
+2025-03-24 15:56:50 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:13 - INFO - Processing file: sri-jagannath-temple.txt from data1
+2025-03-24 15:57:13 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:15 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:15 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:15 - INFO - Generated 63 Q&A pairs for one-places-from-each-state.txt
+2025-03-24 15:57:15 - INFO - Processing file: mechuka.txt from data2
+2025-03-24 15:57:15 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:17 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:17 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:17 - INFO - Generated 9 Q&A pairs for sri-jagannath-temple.txt
+2025-03-24 15:57:17 - INFO - Processing file: visa_requirements.txt from data1
+2025-03-24 15:57:17 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:19 - INFO - Starting processing for folders: data3
+2025-03-24 15:57:19 - INFO - Processing file: dwarka.txt from data3
+2025-03-24 15:57:19 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:23 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:23 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:23 - INFO - Generated 15 Q&A pairs for mechuka.txt
+2025-03-24 15:57:23 - INFO - Processing file: imphal.txt from data2
+2025-03-24 15:57:23 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:24 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:24 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:24 - INFO - Generated 10 Q&A pairs for visa_requirements.txt
+2025-03-24 15:57:24 - INFO - Processing file: the-french-quarter.txt from data1
+2025-03-24 15:57:24 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:30 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:30 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:30 - INFO - Generated 10 Q&A pairs for the-french-quarter.txt
+2025-03-24 15:57:30 - INFO - Processing file: tsomgo-lake.txt from data1
+2025-03-24 15:57:30 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:35 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:35 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:35 - INFO - Generated 24 Q&A pairs for dwarka.txt
+2025-03-24 15:57:35 - INFO - Processing file: gurugram.txt from data3
+2025-03-24 15:57:35 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:35 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:35 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:35 - INFO - Generated 10 Q&A pairs for tsomgo-lake.txt
+2025-03-24 15:57:35 - INFO - Processing file: udaipur.txt from data1
+2025-03-24 15:57:35 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:41 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:41 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:41 - INFO - Generated 32 Q&A pairs for imphal.txt
+2025-03-24 15:57:41 - INFO - Processing file: monuments-of-india.txt from data2
+2025-03-24 15:57:41 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:46 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:46 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:46 - INFO - Generated 19 Q&A pairs for gurugram.txt
+2025-03-24 15:57:46 - INFO - Processing file: darjeeling.txt from data3
+2025-03-24 15:57:46 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:53 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:53 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:53 - INFO - Generated 12 Q&A pairs for darjeeling.txt
+2025-03-24 15:57:53 - INFO - Processing file: 120_countries_data.txt from data3
+2025-03-24 15:57:53 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:57:56 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:57:56 - INFO - AFC remote call 1 is done.
+2025-03-24 15:57:56 - INFO - Generated 30 Q&A pairs for monuments-of-india.txt
+2025-03-24 15:57:56 - INFO - Processing file: nohsngithiang-falls.txt from data2
+2025-03-24 15:57:56 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:01 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:01 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:01 - INFO - Generated 39 Q&A pairs for udaipur.txt
+2025-03-24 15:58:01 - INFO - Processing file: tulip-garden.txt from data1
+2025-03-24 15:58:01 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:02 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:02 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:02 - INFO - Generated 12 Q&A pairs for nohsngithiang-falls.txt
+2025-03-24 15:58:02 - INFO - Processing file: kochi.txt from data2
+2025-03-24 15:58:02 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:05 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:05 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:05 - INFO - Generated 10 Q&A pairs for tulip-garden.txt
+2025-03-24 15:58:05 - INFO - Processing file: srinagar.txt from data1
+2025-03-24 15:58:05 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:10 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:10 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:10 - INFO - Generated 17 Q&A pairs for 120_countries_data.txt
+2025-03-24 15:58:10 - INFO - Processing file: cherrapunjee.txt from data3
+2025-03-24 15:58:10 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:12 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:12 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:12 - INFO - Generated 21 Q&A pairs for kochi.txt
+2025-03-24 15:58:12 - INFO - Processing file: kamakhya-temple.txt from data2
+2025-03-24 15:58:12 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:15 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:15 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:15 - INFO - Generated 10 Q&A pairs for cherrapunjee.txt
+2025-03-24 15:58:15 - INFO - Processing file: amritsar.txt from data3
+2025-03-24 15:58:15 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:17 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:17 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:17 - INFO - Generated 10 Q&A pairs for kamakhya-temple.txt
+2025-03-24 15:58:17 - INFO - Processing file: netarhat-dam.txt from data2
+2025-03-24 15:58:17 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:20 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:21 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:21 - INFO - Generated 32 Q&A pairs for srinagar.txt
+2025-03-24 15:58:21 - INFO - Processing file: ujjayanta-palace.txt from data1
+2025-03-24 15:58:21 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:23 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:23 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:23 - INFO - Generated 10 Q&A pairs for netarhat-dam.txt
+2025-03-24 15:58:23 - INFO - Processing file: indore.txt from data2
+2025-03-24 15:58:23 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:26 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:26 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:26 - INFO - Generated 10 Q&A pairs for ujjayanta-palace.txt
+2025-03-24 15:58:26 - INFO - Processing file: rock-garden.txt from data1
+2025-03-24 15:58:26 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:30 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:30 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:30 - INFO - Generated 15 Q&A pairs for indore.txt
+2025-03-24 15:58:30 - INFO - Processing file: mahabodhi-temple.txt from data2
+2025-03-24 15:58:30 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:30 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:30 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:30 - INFO - Generated 10 Q&A pairs for rock-garden.txt
+2025-03-24 15:58:30 - INFO - Processing file: red-fort.txt from data1
+2025-03-24 15:58:30 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:33 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:33 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:33 - INFO - Generated 7 Q&A pairs for mahabodhi-temple.txt
+2025-03-24 15:58:33 - INFO - Processing file: rameswaram.txt from data2
+2025-03-24 15:58:33 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:35 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:35 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:35 - INFO - Generated 10 Q&A pairs for red-fort.txt
+2025-03-24 15:58:35 - INFO - Processing file: varanasi.txt from data1
+2025-03-24 15:58:35 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:37 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:37 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:37 - INFO - Generated 34 Q&A pairs for amritsar.txt
+2025-03-24 15:58:37 - INFO - Processing file: diu.txt from data3
+2025-03-24 15:58:37 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:39 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:39 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:39 - INFO - Generated 11 Q&A pairs for rameswaram.txt
+2025-03-24 15:58:39 - INFO - Processing file: kangla-fort.txt from data2
+2025-03-24 15:58:39 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:44 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:44 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:44 - INFO - Generated 10 Q&A pairs for diu.txt
+2025-03-24 15:58:44 - INFO - Processing file: charminar.txt from data3
+2025-03-24 15:58:44 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:45 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:45 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:45 - INFO - Generated 10 Q&A pairs for kangla-fort.txt
+2025-03-24 15:58:45 - INFO - Processing file: haridwar.txt from data2
+2025-03-24 15:58:45 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:48 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:48 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:48 - INFO - Generated 9 Q&A pairs for charminar.txt
+2025-03-24 15:58:48 - INFO - Processing file: 108_famous_locations_in_india.txt from data3
+2025-03-24 15:58:48 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:50 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:50 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:50 - INFO - Generated 27 Q&A pairs for varanasi.txt
+2025-03-24 15:58:50 - INFO - Processing file: serchhip.txt from data1
+2025-03-24 15:58:50 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:58:56 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:56 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:56 - INFO - Generated 13 Q&A pairs for serchhip.txt
+2025-03-24 15:58:56 - INFO - Q&A data saved: 346 pairs generated.
+2025-03-24 15:58:56 - INFO - Progress saved: 26 files processed.
+2025-03-24 15:58:56 - INFO - Final save complete. Processed 26 new files.
+2025-03-24 15:58:59 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:58:59 - INFO - AFC remote call 1 is done.
+2025-03-24 15:58:59 - INFO - Generated 19 Q&A pairs for haridwar.txt
+2025-03-24 15:58:59 - INFO - Q&A data saved: 281 pairs generated.
+2025-03-24 15:58:59 - INFO - Progress saved: 14 files processed.
+2025-03-24 15:58:59 - INFO - Checkpoint reached: 14 files processed. Waiting to avoid timeout.
+2025-03-24 15:59:25 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:59:25 - INFO - AFC remote call 1 is done.
+2025-03-24 15:59:25 - INFO - Generated 0 Q&A pairs for 108_famous_locations_in_india.txt
+2025-03-24 15:59:25 - INFO - Processing file: 32_cities_for_food_in_india.txt from data3
+2025-03-24 15:59:25 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:59:29 - INFO - Processing file: leh.txt from data2
+2025-03-24 15:59:29 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:59:42 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:59:42 - INFO - AFC remote call 1 is done.
+2025-03-24 15:59:42 - INFO - Generated 41 Q&A pairs for 32_cities_for_food_in_india.txt
+2025-03-24 15:59:42 - INFO - Processing file: gangtok.txt from data3
+2025-03-24 15:59:42 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:59:48 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:59:48 - INFO - AFC remote call 1 is done.
+2025-03-24 15:59:48 - INFO - Generated 35 Q&A pairs for leh.txt
+2025-03-24 15:59:48 - INFO - Processing file: mumbai.txt from data2
+2025-03-24 15:59:48 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:59:51 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:59:51 - INFO - AFC remote call 1 is done.
+2025-03-24 15:59:51 - INFO - Generated 18 Q&A pairs for gangtok.txt
+2025-03-24 15:59:51 - INFO - Processing file: chandigarh.txt from data3
+2025-03-24 15:59:51 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 15:59:58 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 15:59:58 - INFO - AFC remote call 1 is done.
+2025-03-24 15:59:58 - INFO - Generated 19 Q&A pairs for mumbai.txt
+2025-03-24 15:59:58 - INFO - Processing file: hyderabad.txt from data2
+2025-03-24 15:59:58 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:00:05 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:00:05 - INFO - AFC remote call 1 is done.
+2025-03-24 16:00:05 - INFO - Generated 23 Q&A pairs for chandigarh.txt
+2025-03-24 16:00:05 - INFO - Processing file: guwahati.txt from data3
+2025-03-24 16:00:05 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:00:10 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:00:10 - INFO - AFC remote call 1 is done.
+2025-03-24 16:00:10 - INFO - Generated 23 Q&A pairs for hyderabad.txt
+2025-03-24 16:00:10 - INFO - Processing file: hampi.txt from data2
+2025-03-24 16:00:10 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:00:14 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:00:14 - INFO - AFC remote call 1 is done.
+2025-03-24 16:00:14 - INFO - Generated 16 Q&A pairs for guwahati.txt
+2025-03-24 16:00:14 - INFO - Processing file: brahma-sarovar.txt from data3
+2025-03-24 16:00:14 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:00:20 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:00:20 - INFO - AFC remote call 1 is done.
+2025-03-24 16:00:20 - INFO - Generated 10 Q&A pairs for brahma-sarovar.txt
+2025-03-24 16:00:20 - INFO - Q&A data saved: 243 pairs generated.
+2025-03-24 16:00:20 - INFO - Progress saved: 28 files processed.
+2025-03-24 16:00:20 - INFO - Checkpoint reached: 14 files processed. Waiting to avoid timeout.
+2025-03-24 16:00:47 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:00:47 - INFO - AFC remote call 1 is done.
+2025-03-24 16:00:47 - INFO - Generated 68 Q&A pairs for hampi.txt
+2025-03-24 16:00:47 - INFO - Processing file: puducherry.txt from data2
+2025-03-24 16:00:47 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:00:50 - INFO - Processing file: goa.txt from data3
+2025-03-24 16:00:50 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:00:59 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:00:59 - INFO - AFC remote call 1 is done.
+2025-03-24 16:00:59 - INFO - Generated 15 Q&A pairs for goa.txt
+2025-03-24 16:00:59 - INFO - Processing file: dzukou-valley.txt from data3
+2025-03-24 16:00:59 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:01 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:01 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:01 - INFO - Generated 27 Q&A pairs for puducherry.txt
+2025-03-24 16:01:01 - INFO - Processing file: manali.txt from data2
+2025-03-24 16:01:01 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:03 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:03 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:03 - INFO - Generated 8 Q&A pairs for dzukou-valley.txt
+2025-03-24 16:01:03 - INFO - Processing file: bangaram.txt from data3
+2025-03-24 16:01:03 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:08 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:08 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:08 - INFO - Generated 10 Q&A pairs for bangaram.txt
+2025-03-24 16:01:08 - INFO - Processing file: anjuna-beach.txt from data3
+2025-03-24 16:01:08 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:09 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:09 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:09 - INFO - Generated 14 Q&A pairs for manali.txt
+2025-03-24 16:01:09 - INFO - Processing file: ranchi.txt from data2
+2025-03-24 16:01:09 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:11 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:11 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:11 - INFO - Generated 7 Q&A pairs for anjuna-beach.txt
+2025-03-24 16:01:11 - INFO - Processing file: agartala.txt from data3
+2025-03-24 16:01:11 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:19 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:19 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:19 - INFO - Generated 18 Q&A pairs for ranchi.txt
+2025-03-24 16:01:19 - INFO - Processing file: naida-caves.txt from data2
+2025-03-24 16:01:19 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:20 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:20 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:20 - INFO - Generated 15 Q&A pairs for agartala.txt
+2025-03-24 16:01:20 - INFO - Processing file: dwarkadhish-temple.txt from data3
+2025-03-24 16:01:20 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:23 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:23 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:23 - INFO - Generated 10 Q&A pairs for naida-caves.txt
+2025-03-24 16:01:23 - INFO - Processing file: har-ki-pauri.txt from data2
+2025-03-24 16:01:23 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:25 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:25 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:25 - INFO - Generated 9 Q&A pairs for dwarkadhish-temple.txt
+2025-03-24 16:01:25 - INFO - Processing file: chidiya-tapu.txt from data3
+2025-03-24 16:01:25 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:29 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:29 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:29 - INFO - Generated 10 Q&A pairs for har-ki-pauri.txt
+2025-03-24 16:01:29 - INFO - Processing file: khawnglung-wildlife-sanctuary.txt from data2
+2025-03-24 16:01:29 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:30 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:30 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:30 - INFO - Generated 10 Q&A pairs for chidiya-tapu.txt
+2025-03-24 16:01:30 - INFO - Processing file: delhi.txt from data3
+2025-03-24 16:01:30 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:34 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:34 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:34 - INFO - Generated 10 Q&A pairs for khawnglung-wildlife-sanctuary.txt
+2025-03-24 16:01:34 - INFO - Processing file: kavaratti.txt from data2
+2025-03-24 16:01:34 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:45 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:45 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:45 - INFO - Generated 19 Q&A pairs for kavaratti.txt
+2025-03-24 16:01:45 - INFO - Processing file: raipur.txt from data2
+2025-03-24 16:01:45 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:51 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:51 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:51 - INFO - Generated 33 Q&A pairs for delhi.txt
+2025-03-24 16:01:51 - INFO - Processing file: best_locations_in_india.txt from data3
+2025-03-24 16:01:51 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:52 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:52 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:52 - INFO - Generated 14 Q&A pairs for raipur.txt
+2025-03-24 16:01:52 - INFO - Processing file: hawa-mahal.txt from data2
+2025-03-24 16:01:52 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:56 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:56 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:56 - INFO - Generated 10 Q&A pairs for hawa-mahal.txt
+2025-03-24 16:01:56 - INFO - Processing file: international_locations.txt from data2
+2025-03-24 16:01:56 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:01:57 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:01:57 - INFO - AFC remote call 1 is done.
+2025-03-24 16:01:57 - INFO - Generated 10 Q&A pairs for best_locations_in_india.txt
+2025-03-24 16:01:57 - INFO - Processing file: bhubaneswar.txt from data3
+2025-03-24 16:01:57 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:02:07 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:02:07 - INFO - AFC remote call 1 is done.
+2025-03-24 16:02:07 - INFO - Generated 20 Q&A pairs for bhubaneswar.txt
+2025-03-24 16:02:07 - INFO - Processing file: cherai-beach.txt from data3
+2025-03-24 16:02:07 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:02:11 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:02:11 - INFO - AFC remote call 1 is done.
+2025-03-24 16:02:11 - INFO - Generated 9 Q&A pairs for cherai-beach.txt
+2025-03-24 16:02:11 - INFO - Processing file: dimapur.txt from data3
+2025-03-24 16:02:11 - INFO - AFC is enabled with max remote calls: 10.
+2025-03-24 16:02:21 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:02:21 - INFO - AFC remote call 1 is done.
+2025-03-24 16:02:21 - INFO - Generated 48 Q&A pairs for international_locations.txt
+2025-03-24 16:02:21 - INFO - Q&A data saved: 606 pairs generated.
+2025-03-24 16:02:21 - INFO - Progress saved: 28 files processed.
+2025-03-24 16:02:21 - INFO - Checkpoint reached: 28 files processed. Waiting to avoid timeout.
+2025-03-24 16:02:22 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent "HTTP/1.1 200 OK"
+2025-03-24 16:02:22 - INFO - AFC remote call 1 is done.
+2025-03-24 16:02:22 - INFO - Generated 22 Q&A pairs for dimapur.txt
+2025-03-24 16:02:22 - INFO - Q&A data saved: 411 pairs generated.
+2025-03-24 16:02:22 - INFO - Progress saved: 40 files processed.
+2025-03-24 16:02:22 - INFO - Final save complete. Processed 26 new files.
+2025-03-24 16:02:51 - INFO - Q&A data saved: 606 pairs generated.
+2025-03-24 16:02:51 - INFO - Progress saved: 28 files processed.
+2025-03-24 16:02:51 - INFO - Final save complete. Processed 28 new files.

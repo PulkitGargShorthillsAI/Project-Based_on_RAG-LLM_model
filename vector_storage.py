@@ -37,7 +37,7 @@ except Exception as e:
     raise e
 
 class PineconeHandler:
-    def __init__(self, index_name="chatbot3"):
+    def __init__(self, index_name="chatbot4"):
         self.index_name = index_name
         self.pc = None
         self.index = None
@@ -101,7 +101,7 @@ class TextProcessor:
     
     def _split_text(self, documents):
         try:
-            text_splitter = RecursiveCharacterTextSplitter(chunk_size=600, chunk_overlap=50)
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
             return text_splitter.split_documents(documents)
         except Exception as e:
             write_log(f"Error splitting text: {str(e)}", error=True)

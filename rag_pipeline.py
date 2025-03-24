@@ -8,7 +8,7 @@ from langchain.chains.retrieval import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 
 # Define log file path
-LOG_FILE = "logging/log_queries.log"
+LOG_FILE = "logging/test_log_queries.log"
 
 def write_log(message, error=False):
     """Writes log messages with timestamps. Errors are marked separately."""
@@ -107,9 +107,9 @@ class ChatbotRAG:
 
 
 try:
-    chatbot = ChatbotRAG(index_name="chatbot")
+    chatbot = ChatbotRAG(index_name="chatbot4")
 except Exception as main_error:
-    write_log(f"Unhandled error in main execution: {str(main_error)}", error=True)
+    write_log(f"Unhandled error in main executio)n: {str(main_error)}", error=True)
     with open(LOG_FILE, "a") as log_file:
         log_file.write(f"{'-'*40}\n")
     raise main_error

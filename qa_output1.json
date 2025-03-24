@@ -1,0 +1,2078 @@
+[
+    {
+        "question": "Where is the Golden Temple located?",
+        "answer": "The Golden Temple is located in Amritsar, Punjab.",
+        "expected_context": "Nestled in the heart of Amritsar, Punjab, the Golden Temple stands as a beacon of spirituality, unity, and service.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Golden Temple also known as?",
+        "answer": "The Golden Temple is also known as Harmandir Sahib.",
+        "expected_context": "As you approach the gurdwara, also known as Harmandir Sahib, you are struck by its majestic golden dome shimmering in the sunlight, drawing you closer to its sacred embrace.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What does 'Harmandir' signify?",
+        "answer": "'Harmandir' is derived from ‘Hari’, signifying God, and ‘mandir’, meaning temple.",
+        "expected_context": "The name, Shri Harmandir Sahib, however, comes from ‘Harmandir’ derived from ‘Hari’, signifying God, and ‘mandir’, meaning temple.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who founded the Golden Temple?",
+        "answer": "The Golden Temple was founded by Guru Ramdas Sahib.",
+        "expected_context": "While the temple was founded by Guru Ramdas Sahib, the 4th of 10 Sikh gurus, the construction of the temple and its pool was continued by Guru Arjan Dev, the fifth Sikh Guru, in 1588.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who continued the construction of the Golden Temple and its pool?",
+        "answer": "Guru Arjan Dev, the fifth Sikh Guru, continued the construction of the temple and its pool in 1588.",
+        "expected_context": "While the temple was founded by Guru Ramdas Sahib, the 4th of 10 Sikh gurus, the construction of the temple and its pool was continued by Guru Arjan Dev, the fifth Sikh Guru, in 1588.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What architectural styles does the Golden Temple incorporate?",
+        "answer": "The Golden Temple incorporates a fusion of Islamic and Hindu styles.",
+        "expected_context": "The intricate architecture, a fusion of Islamic and Hindu styles, reflects the inclusive ethos of Sikhism, inviting people from all religions come to seek solace.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who had the temple’s upper floors covered in gold?",
+        "answer": "Maharaja Ranjit Singh had the temple’s upper floors covered in 750 kilos of pure gold.",
+        "expected_context": "Maharaja Ranjit Singh, founder of the Sikh Empire of India (1799-1849) had the temple’s upper floors covered in 750 kilos of pure gold.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What are some of the festivals that are celebrated at the Golden Temple?",
+        "answer": "Baisakhi and Diwali are some of the festivals celebrated at the Golden Temple.",
+        "expected_context": "Plan your visit to coincide with the vibrant festivities hosted at the Golden Temple, such as Baisakhi and Diwali, to experience the Golden Temple at its most vibrant.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How much gold adorns the dome of the Golden Temple?",
+        "answer": "400 kilograms of pure gold leaf adorn the dome of the Golden Temple.",
+        "expected_context": "It owes its name to the astonishing 400 kilograms of pure gold leaf adorning the dome.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is the Golden Temple considered a symbol of Sikh philosophy?",
+        "answer": "The Golden Temple is a symbol of Sikh philosophy because it emphasizes the equality of all people, regardless of caste, creed, or gender.",
+        "expected_context": "But beyond its stunning beauty, the Golden Temple is also a symbol of Sikh philosophy, which emphasises the equality of all people, regardless of caste, creed, or gender.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Where is Tirupati located?",
+        "answer": "Tirupati is located in the southern state of Andhra Pradesh, India.",
+        "expected_context": "Tirupati, a name that resonates with divine grace, spiritual fervour, and timeless devotion, is a sacred destination nestled in the southern state of Andhra Pradesh, India.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Sri Venkateswara Swamy Vaari Temple also known as?",
+        "answer": "Sri Venkateswara Swamy Vaari Temple is also known as the Tirumala Temple or Tirupati Balaji Temple.",
+        "expected_context": "Welcome to Sri Venkateswara Swamy Vaari Temple, also known as the Tirumala Temple or Tirupati Balaji Temple.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the significance of the seven peaks of the Seshachalam Hills range where Sri Venkateswara Swamy Vaari Temple is located?",
+        "answer": "The seven peaks symbolize the seven heads of Adishesha.",
+        "expected_context": "One of the wealthiest temples in the world is situated in the Tirumala Hills, a part of the Seshachalam Hills range with seven peaks, symbolizing the seven heads of Adishesha.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is the Tirumala Temple called 'Kaliyuga Vaikuntha'?",
+        "answer": "The Tirumala Temple is called 'Kaliyuga Vaikuntha' because it is believed to save mankind from the trials of Kali Yuga.",
+        "expected_context": "Dedicated to Venkateswara, a form of Vishnu, this temple in Tirupati is believed to save mankind from the trials of Kali Yuga, earning it the name ‘Kaliyuga Vaikuntha’ and its deity is known as ‘Kaliyuga Prathyaksha Daivam’.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Who built Chandragiri Fort?",
+        "answer": "Chandragiri Fort was originally established in the 11th century by the Yadava Naidu rulers and later fortified by the Vijayanagara Empire in the 15th century.",
+        "expected_context": "Originally established in the 11th century by the Yadava Naidu rulers of the Yaduvada Nadudu state, it was later fortified by the Vijayanagara Empire in the 15th century.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the meaning of Chandragiri?",
+        "answer": "The name Chandragiri means 'hill of the moon'.",
+        "expected_context": "The name Chandragiri, meaning 'hill of the moon,' was inspired by a part of the fort's unique design.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What are some of the attractions in Sri Venkateswara National Park?",
+        "answer": "Sri Venkateswara National Park boasts of three majestic waterfalls among other attractions.",
+        "expected_context": "Spread across the Kadapa and Chittoor districts of Andhra Pradesh, this park boasts of three majestic waterfalls among other attractions.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Sthala Vriksha in Srikalahasti Temple, and what is believed about it?",
+        "answer": "The Sthala Vriksha in Srikalahasti Temple is a sacred Banyan tree, and it is believed to grant the wishes of worshippers.",
+        "expected_context": "A sacred Banyan tree, known as the Sthala Vriksha, is located within the premises of the Srikalahasti temple. It is believed to grant the wishes of worshippers, so visitors tie threads around the tree and pray for their needs and desires.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Srikalahasti Temple located?",
+        "answer": "Srikalahasti Temple is located in the town of Srikalahasti in the Tirupati district of Andhra Pradesh.",
+        "expected_context": "Srikalahasti Temple, also known as Srikalahasteeswara Temple, is located in the town of Srikalahasti in the Tirupati district of Andhra Pradesh.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How tall is Talakona Waterfall?",
+        "answer": "Talakona Waterfall plunges from an incredible height of 270 feet.",
+        "expected_context": "Suddenly, the thunderous waterfall is revealed, its sparkling waters plunging from an incredible height of 270 feet, resembling a shimmering thread woven into the lush forest underneath.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What adds a spiritual aura to Kailasakona Waterfall?",
+        "answer": "A temple dedicated to Lord Shiva and Parvathi, near the main waterfall, adds a spiritual aura to the already enchanting atmosphere.",
+        "expected_context": "Near the main waterfall, there is a temple dedicated to Lord Shiva and Parvathi, which adds a spiritual aura to the already enchanting atmosphere.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How tall is Kailasakona Waterfall?",
+        "answer": "The water tumbles down from a height of around 40 feet.",
+        "expected_context": "The water tumbles down from a height of around 40 feet, creating a mesmerising symphony of sound and motion.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is Tirupati considered a holy place?",
+        "answer": "Tirupati is revered as one of the holiest pilgrimage sites in Hinduism, drawing devotees seeking divine blessings, spiritual solace, and the chance to pay homage to Lord Venkateswara.",
+        "expected_context": "Revered as one of the holiest pilgrimage sites in Hinduism, Tirupati beckons millions of devotees from around the world, drawn by the promise of divine blessings, spiritual solace, and the opportunity to pay homage to the Supreme Lord Venkateswara.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "How often is the Tirumala Temple visited?",
+        "answer": "The temple is one of the most visited religious sites globally, with footfall surpassing 60,000 daily and reaching over a hundred thousand during festivals and holidays.",
+        "expected_context": "The temple is one of the most visited religious sites globally, with footfall surpassing 60,000 daily and reaching over a hundred thousand during festivals and holidays.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What are some of the architectural features of the Sri Venkateswara Swamy Vaari Temple?",
+        "answer": "The temple complex with South Indian architecture includes modern Queue buildings, Annaprasadam complex, and lodging sites for pilgrims.",
+        "expected_context": "The temple complex with South Indian architecture includes modern Queue buildings, Annaprasadam complex, and lodging sites for pilgrims.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the weather like in Tirupati in December?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Is there a connection between the height of a waterfall and the level of peace it provides?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "What is the name of the temple located in the Tirumala Hills?",
+        "answer": "The temple is called Sri Venkateswara Swamy Vaari Temple, also known as the Tirumala Temple or Tirupati Balaji Temple.",
+        "expected_context": "Welcome to Sri Venkateswara Swamy Vaari Temple, also known as the Tirumala Temple or Tirupati Balaji Temple.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "To whom is the Sri Venkateswara Swamy Vaari Temple dedicated?",
+        "answer": "The temple is dedicated to Venkateswara, a form of Vishnu.",
+        "expected_context": "Dedicated to Venkateswara, a form of Vishnu, this temple in Tirupati is believed to save mankind from the trials of Kali Yuga, earning it the name ‘Kaliyuga Vaikuntha’ and its deity is known as ‘Kaliyuga Prathyaksha Daivam’.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is the Sri Venkateswara Swamy Vaari Temple also known as 'Kaliyuga Vaikuntha'?",
+        "answer": "The temple is known as 'Kaliyuga Vaikuntha' because it is believed to save mankind from the trials of Kali Yuga.",
+        "expected_context": "Dedicated to Venkateswara, a form of Vishnu, this temple in Tirupati is believed to save mankind from the trials of Kali Yuga, earning it the name ‘Kaliyuga Vaikuntha’ and its deity is known as ‘Kaliyuga Prathyaksha Daivam’.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Who built the Sri Venkateswara Swamy Vaari Temple, and who reformed it?",
+        "answer": "The temple was built by a Thondaman king and reformed by Cholas, Pandyas, and Vijayanagara rulers.",
+        "expected_context": "Built by a Thondaman king around 300 CE, the temple has been periodically reformed by Cholas, Pandyas, and Vijayanagara rulers.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How many people visit the Sri Venkateswara Swamy Vaari Temple daily?",
+        "answer": "The temple has footfall surpassing 60,000 daily and reaching over a hundred thousand during festivals and holidays.",
+        "expected_context": "The temple is one of the most visited religious sites globally, with footfall surpassing 60,000 daily and reaching over a hundred thousand during festivals and holidays.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is the presiding deity, Venkateswara, located within the temple?",
+        "answer": "The presiding deity, Venkateswara, stands in the Garbhagruha (Sanctum Sanctorum), facing east.",
+        "expected_context": "The presiding deity, Venkateswara, stands in the Garbhagruha (Sanctum Sanctorum), facing east.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What architectural style is prominent in the Sri Venkateswara Swamy Vaari Temple complex?",
+        "answer": "The temple complex features South Indian architecture.",
+        "expected_context": "The temple complex with South Indian architecture includes modern Queue buildings, Annaprasadam complex, and lodging sites for pilgrims.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What range of hills is the Sri Venkateswara Swamy Vaari Temple a part of?",
+        "answer": "The Tirumala Hills, where the temple is located, are a part of the Seshachalam Hills range.",
+        "expected_context": "One of the wealthiest temples in the world is situated in the Tirumala Hills, a part of the Seshachalam Hills range with seven peaks, symbolizing the seven heads of Adishesha.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the seventh peak of the Seshachalam Hills called, and what is its significance?",
+        "answer": "The seventh peak is called Venkatadri, and the Sri Venkateswara Swamy Vaari Temple is located on it.",
+        "expected_context": "This temple is called as the ‘Temple of Seven Hills’, with its location on the seventh peak—Venkatadri.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How does the text describe the deity's duration of stay at Tirumala?",
+        "answer": "The deity will remain throughout the present Kali Yuga.",
+        "expected_context": "Legends abound about the temple's deity manifestation in Tirumala, with one stating that the deity will remain throughout the present Kali Yuga.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Sanchi Stupa located?",
+        "answer": "Sanchi Stupa is located 56 kilometres northwest of Bhopal.",
+        "expected_context": "56 kilometres northwest of bustling Bhopal, Sanchi Stupa emerges as an enchanting marvel of historical architecture.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was Sanchi Stupa recognized as a UNESCO World Heritage Site?",
+        "answer": "Sanchi Stupa was recognized as a UNESCO World Heritage Site since 1989.",
+        "expected_context": "Recognised as a UNESCO World Heritage Site since 1989, this sacred enclave cradles the revered relics of Buddha and his devoted followers, and stands as an unparalleled testament to Buddhist art and architecture.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who ordered the construction of Sanchi Stupa and when?",
+        "answer": "The Mauryan Emperor Ashoka ordered the construction of Sanchi Stupa in the 3rd century BCE.",
+        "expected_context": "The tale of Sanchi Stupa unfolds in the 3rd century BCE when the visionary Mauryan Emperor Ashoka ordered its construction, an ode to Buddhism following the horrors of war, thereby illustrating an impressive testament of spiritual devotion.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What do the toranas of Sanchi Stupa symbolize?",
+        "answer": "The toranas of Sanchi Stupa symbolize harmony, faith, and bravery.",
+        "expected_context": "Adorning the stupas are majestic toranas, symbolic of harmony, faith, and bravery, infusing the surroundings with spiritual reverence.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why did Emperor Ashoka order the construction of the Sanchi Stupa?",
+        "answer": "Emperor Ashoka ordered the construction of Sanchi Stupa as an ode to Buddhism following the horrors of war.",
+        "expected_context": "The tale of Sanchi Stupa unfolds in the 3rd century BCE when the visionary Mauryan Emperor Ashoka ordered its construction, an ode to Buddhism following the horrors of war, thereby illustrating an impressive testament of spiritual devotion.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "How did the Satavahanas, Guptas, and Kushanas contribute to Sanchi Stupa?",
+        "answer": "The Satavahanas, Guptas, and Kushanas added stone casings, intricately carved railings, and mesmerizing gateways to Sanchi Stupa.",
+        "expected_context": "Rulers like the Satavahanas, Guptas, and Kushanas left their mark, adding stone casings, intricately carved railings, and mesmerising gateways, enhancing its beauty—testaments to ancient India's exquisite craftsmanship.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who rediscovered Sanchi Stupa and when?",
+        "answer": "Sir Alexander Cunningham discovered the remains of Sanchi Stupa during a 19th-century archaeological expedition.",
+        "expected_context": "Sanchi Stupa received a resurgence of interest when Sir Alexander Cunningham discovered its remains during a 19th-century archaeological expedition.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Compare the original structure of Sanchi Stupa to its later form.",
+        "answer": "Sanchi Stupa evolved from a modest brick structure to an exquisite masterpiece with stone casings, intricately carved railings, and mesmerizing gateways added over centuries.",
+        "expected_context": "Over centuries, from a modest brick structure to an exquisite masterpiece, Sanchi evolved. Rulers like the Satavahanas, Guptas, and Kushanas left their mark, adding stone casings, intricately carved railings, and mesmerising gateways, enhancing its beauty—testaments to ancient India's exquisite craftsmanship.",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "What is the spiritual significance of Sanchi Stupa?",
+        "answer": "Sanchi Stupa cradles the revered relics of Buddha and his devoted followers, and its carved doorways narrate the sacred tales of Lord Buddha's life and the profound teachings encapsulated in Buddhist Jataka stories, making it a testament to Buddhist art and architecture, filled with spiritual energy.",
+        "expected_context": "Recognised as a UNESCO World Heritage Site since 1989, this sacred enclave cradles the revered relics of Buddha and his devoted followers, and stands as an unparalleled testament to Buddhist art and architecture. The magnificence of Sanchi transcends mere architectural grandeur; its intricately carved doorways narrate the sacred tales of Lord Buddha's life and the profound teachings encapsulated in Buddhist Jataka stories. Adorning the stupas are majestic toranas, symbolic of harmony, faith, and bravery, infusing the surroundings with spiritual reverence. ... Through tireless excavation and restoration efforts, it now magnetises visitors globally, drawing them to experience the spiritual energy within its ancient walls.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "How has Sanchi Stupa influenced modern architecture in Europe?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "What is the common name for Swami Vivekananda Sarovar?",
+        "answer": "Locals lovingly refer to it as Budha Talab, which translates to \"old lake.\"",
+        "expected_context": "Locals lovingly refer to it as Budha Talab, which translates to \"old lake.\"",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Swami Vivekananda Sarovar located?",
+        "answer": "Swami Vivekananda Sarovar is located in the heart of Raipur, Chhattisgarh.",
+        "expected_context": "Have you ever heard of Swami Vivekananda Sarovar? Well, if you haven't, let me introduce you to this hidden gem located right in the heart of Raipur, Chhattisgarh.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How tall is the statue of Swami Vivekananda at the Sarovar?",
+        "answer": "The statue of Swami Vivekananda at the Sarovar is 37 feet tall.",
+        "expected_context": "This place isn't just a pretty sight; it's a tribute to Swami Vivekananda, featuring a towering 37-foot statue of the revered Indian philosopher and spiritual leader.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What kind of leader is Swami Vivekananda?",
+        "answer": "Swami Vivekananda is a revered Indian philosopher and spiritual leader.",
+        "expected_context": "This place isn't just a pretty sight; it's a tribute to Swami Vivekananda, featuring a towering 37-foot statue of the revered Indian philosopher and spiritual leader.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Describe the atmosphere of Swami Vivekananda Sarovar.",
+        "answer": "It is a tranquil lake surrounded by lush greenery, offering a serene oasis amidst the urban chaos.",
+        "expected_context": "Imagine a tranquil lake surrounded by lush greenery, right in the midst of the bustling city. It's like stumbling upon a serene oasis amidst the urban chaos.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the purpose of Swami Vivekananda Sarovar?",
+        "answer": "The Sarovar serves as a tribute to Swami Vivekananda and provides a tranquil escape from the city.",
+        "expected_context": "This place isn't just a pretty sight; it's a tribute to Swami Vivekananda, featuring a towering 37-foot statue of the revered Indian philosopher and spiritual leader.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "Why should someone visit Swami Vivekananda Sarovar?",
+        "answer": "According to the document, one should visit to take a break from the urban chaos and immerse themselves in the natural beauty and rich history of the site.",
+        "expected_context": "So, why not take a break from the urban chaos and immerse yourself in the natural beauty and rich history of this enchanting site? Trust me; it's worth it.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Is the Sarovar a modern or ancient site?",
+        "answer": "The locals call it 'old lake,' but it is referred to as a 'hidden gem' with nothing old or ordinary about the place, suggesting it is a revitalized or timeless place.",
+        "expected_context": "Locals lovingly refer to it as Budha Talab, which translates to \"old lake.\" But let me tell you, there's nothing old or ordinary about this place.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What can one experience at the Sarovar?",
+        "answer": "One can experience natural beauty, rich history, and a break from urban chaos.",
+        "expected_context": "So, why not take a break from the urban chaos and immerse yourself in the natural beauty and rich history of this enchanting site? Trust me; it's worth it.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "How does the Swami Vivekananda Sarovar compare to other Raipur attractions?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "Who built the Victoria Memorial and in memory of whom?",
+        "answer": "Lord Curzon built the Victoria Memorial in memory of the late Queen Victoria, the first Empress of British India.",
+        "expected_context": "Victoria Memorial, the masterpiece of marble stands like a vision of serenity on Strand Road, Kolkata. Though the monument has been an emblem of pride for the city, it was built by Lord Curzon in memory of the late Queen Victoria, the first Empress of British India.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What can visitors see inside the Victoria Memorial?",
+        "answer": "Visitors can see genuine artefacts that once belonged to the Queen, paintings, original manuscripts, and memorabilia.",
+        "expected_context": "After the colonizers left, this memorial was transformed into the most fascinating museum with genuine artefacts that once belonged to the Queen. Apart from her personal belongings, the museum also hosts paintings, original manuscripts, and memorabilia.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How was the Victoria Memorial transformed after the colonizers left?",
+        "answer": "After the colonizers left, the memorial was transformed into a museum.",
+        "expected_context": "After the colonizers left, this memorial was transformed into the most fascinating museum with genuine artefacts that once belonged to the Queen.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Besides British royalty, what else does the Victoria Memorial showcase after Independence?",
+        "answer": "After Independence, the Victoria Memorial included new halls showcasing the struggle of Indian freedom fighters, the injustice of the colonizers, and stories of local prince and princely states.",
+        "expected_context": "After Independence, the Government included new halls in the museum which showcased the struggle of Indian freedom fighters, the injustice of the colonizers and many more stories of the local prince and princely states.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Describe the area surrounding the Victoria Memorial.",
+        "answer": "The area surrounding the Victoria Memorial has sprawling greens, intricately-manicured lawns, flower beds and sculptures.",
+        "expected_context": "The sprawling greens that lay in front of Victoria Memorial is a sight to behold. It has intricately-manicured lawns, flower beds and sculptures, where one can spend hours during the sunny wintry morning and enjoy a slice of peace in the middle of a buzzing town.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is recommended for visitors who want to fully appreciate the Victoria Memorial?",
+        "answer": "It is suggested that visitors begin early and take their time to enjoy the blend of British royalty and Indian life.",
+        "expected_context": "So, if you are thinking of soaking in every bit of the monument, we suggest you begin early and take your own sweet time to enjoy a blend of British royalty and the brave Indian life.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is the Victoria Memorial considered a 'treasure trove'?",
+        "answer": "The Victoria Memorial is considered a 'treasure trove' because it houses genuine artifacts, paintings, original manuscripts, and memorabilia related to Queen Victoria and also showcases Indian history and freedom fighters.",
+        "expected_context": "VICTORIA-MEMORIAL\nA treasure trove of Kolkata’s heritage\nVictoria Memorial, the masterpiece of marble stands like a vision of serenity on Strand Road, Kolkata. ... After the colonizers left, this memorial was transformed into the most fascinating museum with genuine artefacts that once belonged to the Queen. Apart from her personal belongings, the museum also hosts paintings, original manuscripts, and memorabilia. ... After Independence, the Government included new halls in the museum which showcased the struggle of Indian freedom fighters, the injustice of the colonizers and many more stories of the local prince and princely states.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "Compare the exhibits before and after Independence at the Victoria Memorial.",
+        "answer": "Before Independence, the Victoria Memorial showcased artifacts related to British royalty, particularly Queen Victoria. After Independence, new halls were added to showcase the struggle of Indian freedom fighters and other aspects of Indian history.",
+        "expected_context": "After the colonizers left, this memorial was transformed into the most fascinating museum with genuine artefacts that once belonged to the Queen. Apart from her personal belongings, the museum also hosts paintings, original manuscripts, and memorabilia. After Independence, the Government included new halls in the museum which showcased the struggle of Indian freedom fighters, the injustice of the colonizers and many more stories of the local prince and princely states.",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "What does the text suggest about the best time to visit the grounds of Victoria Memorial?",
+        "answer": "The text suggests that the sunny wintry morning is a good time to visit the grounds of Victoria Memorial.",
+        "expected_context": "It has intricately-manicured lawns, flower beds and sculptures, where one can spend hours during the sunny wintry morning and enjoy a slice of peace in the middle of a buzzing town.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Is the Victoria Memorial located in Mumbai?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "What was Sri Vijaya Puram formerly known as?",
+        "answer": "Port Blair",
+        "expected_context": "Sri Vijaya Puram, formerly known as Port Blair, the capital of the Andaman and Nicobar Islands, is far more than a typical beach destination.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who was Sri Vijaya Puram named after?",
+        "answer": "Captain Archibald Blair of the East India Company",
+        "expected_context": "Established in 1789 and named after Captain Archibald Blair of the East India Company, this city has witnessed the establishment of penal colonies by the Britishers where convicts, primarily political prisoners, were subjected to life imprisonment under inhumane conditions.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Mahatma Gandhi Marine National Park known for?",
+        "answer": "Serving as a haven for marine life, coral reefs, and endangered species.",
+        "expected_context": "Covering an expansive area of 281.5 square kilometres, the Mahatma Gandhi Marine National Park, established on the Andaman Islands near Wandoor, is a protected sanctuary and serves as a haven for marine life, coral reefs, and endangered species.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Chidiya Tapu located?",
+        "answer": "On the southernmost tip of South Andaman Island, around 28 kilometres from Sri Vijaya Puram.",
+        "expected_context": "Chidiya Tapu, 'Bird Island'. Nestled on the southernmost tip of South Andaman Island, around 28 kilometres from Sri Vijaya Puram, this little haven boasts a rich history whispered by the rustling mangroves and the calls of exotic birds.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Chidiya Tapu also known as?",
+        "answer": "Bird Island",
+        "expected_context": "Chidiya Tapu, 'Bird Island'. Nestled on the southernmost tip of South Andaman Island, around 28 kilometres from Sri Vijaya Puram, this little haven boasts a rich history whispered by the rustling mangroves and the calls of exotic birds.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why was Mount Harriet National Park renamed?",
+        "answer": "In the honour of the cultural heritage of Manipur and the “significant contribution” the Northeastern state had made in resisting the British, especially during the historic 1891 Anglo-Manipur war.",
+        "expected_context": "Renamed from Mount Harriet National Park to Manipur National Park in the honour of the cultural heritage of Manipur and the “significant contribution” the Northeastern state had made in resisting the British, especially during the historic 1891 Anglo-Manipur war.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "When did Barren Island last erupt?",
+        "answer": "2017",
+        "expected_context": "Situated in the Andaman Sea, Barren Island is approximately 138 kilometres northeast of Sri Vijaya Puram, the capital city of the Andaman and Nicobar Islands. It is renowned for being South Asia's only active volcano, which last erupted in 2017.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is unique about Barren Island?",
+        "answer": "It is renowned for being South Asia's only active volcano.",
+        "expected_context": "Situated in the Andaman Sea, Barren Island is approximately 138 kilometres northeast of Sri Vijaya Puram, the capital city of the Andaman and Nicobar Islands. It is renowned for being South Asia's only active volcano, which last erupted in 2017.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Corbyn's Cove located in relation to Sri Vijaya Puram?",
+        "answer": "Just a few kilometres south of Sri Vijaya Puram",
+        "expected_context": "Corbyn's Cove, located just a few kilometres south of Sri Vijaya Puram, is one of the most picturesque beaches in the Andaman and Nicobar Islands.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What makes Wandoor Beach a must-visit location?",
+        "answer": "Wandoor Beach serves as a haven for marine biodiversity, making it a must-visit for nature enthusiasts and adventure seekers alike.",
+        "expected_context": "Gateway to Mahatma Gandhi Marine National Park, Wandoor Beach serves as a haven for marine biodiversity, making it a must-visit for nature enthusiasts and adventure seekers alike.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How far is Wandoor Beach from Sri Vijaya Puram?",
+        "answer": "25kms southwest",
+        "expected_context": "With clean white sands and crystal-clear waters, the Beach is easily accessible at just 25kms southwest of Sri Vijaya Puram.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the significance of the Cellular Jail?",
+        "answer": "The Cellular Jail is not just a monument but also a profound testament to the human cost of freedom.",
+        "expected_context": "The Cellular Jail is not just a monument but also a profound testament to the human cost of freedom. It is a place that stirs emotions, compels reflection, and ignites a deep appreciation for the hard-won liberties we enjoy today.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What type of cultivation is most significant in Wandoor?",
+        "answer": "Rubber",
+        "expected_context": "Rubber is one of the most significant cultivations on the island and there are many spots where you can observe the manufacturing process. But, it is best showcased in the vast rubber plantations of Wandoor.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "In which year Netaji Subhash Chandra Bose Island was renamed?",
+        "answer": "December 2018",
+        "expected_context": "In December 2018, this island was renamed as Netaji Subhash Chandra Bose Island as a fitting tribute to his contributions towards the Indian freedom struggle, honouring the indomitable spirit of the Indian freedom fighter.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What was the former name of Netaji Subhash Chandra Bose Island?",
+        "answer": "Ross Island",
+        "expected_context": "Netaji Subhash Chandra Bose Island, formerly known as the Ross Island provides an intriguing window into India's colonial history as well as freedom struggle.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How is Shaheed Dweep described?",
+        "answer": "A paradise that has managed to remain untouched by the ravages of time and the footprints of mass tourism.",
+        "expected_context": "About 37 kiometres to the south of the Andaman Islands lies a paradise that has managed to remain untouched by the ravages of time and the footprints of mass tourism. Welcome to Shaheed Dweep formerly known as the Neil Island.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the height of Mount Manipur?",
+        "answer": "1,257 feet",
+        "expected_context": "Mount Manipur, the crown jewel of the park, is the Andaman and Nicobar archipelago’s third tallest peak, soaring to a majestic 1,257 feet.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the total number of islands in Andaman and Nicobar?",
+        "answer": "572",
+        "expected_context": "Andaman and Nicobar Islands stand out amongst the tranquil waters of Bay of Bengal as an unparalleled beauty, boasting 572 stunning islands that captivate travellers through immaculate beaches, crystal-clear waters and diverse ecosystems.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What can be found at the center of Andaman and Nicobar Islands?",
+        "answer": "Sri Vijaya Puram",
+        "expected_context": "At its centre lies Sri Vijaya Puram - its vibrant capital city offering insights into this idyllic destination's captivating history and mesmerising landscapes, making this destination truly alluring to tourists seeking wonder and exploration.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Compare the beaches of Sri Vijaya Puram and Wandoor.",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "Where is the Shore Temple located?",
+        "answer": "The Shore Temple is located in Mamallapuram, south of Chennai in Tamil Nadu, along the Coromandel Coast.",
+        "expected_context": "Along the Coromandel Coast, where the Bay of Bengal whispers secrets to the sun-kissed shores, rises the Shore Temple of Mamallapuram. Also known as Mahabalipuram and located south of Chennai in Tamil Nadu, this picturesque village is blessed with the sentinel boasting of pyramidal towers that pierce the sky like sharpened prayers.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Shore Temple also known as?",
+        "answer": "The Shore Temple is also known as Mahabalipuram.",
+        "expected_context": "Along the Coromandel Coast, where the Bay of Bengal whispers secrets to the sun-kissed shores, rises the Shore Temple of Mamallapuram. Also known as Mahabalipuram and located south of Chennai in Tamil Nadu, this picturesque village is blessed with the sentinel boasting of pyramidal towers that pierce the sky like sharpened prayers.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What architectural style is the Shore Temple known for, in contrast to other structures of its time?",
+        "answer": "The Shore Temple is carved from granite, unlike the more prevalent rock-cut caves of the era.",
+        "expected_context": "In a stark contrast to the more prevalent rock-cut caves of the era, this UNESCO World Heritage Site is carved from granite over thirteen centuries ago.",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "What dynasty's architectural prowess is embodied by the Shore Temple?",
+        "answer": "The Shore Temple embodies the architectural prowess of the Pallava dynasty.",
+        "expected_context": "Famous for its intricate carvings and weathered beauty, the temple complex embodies the architectural prowess of the Pallava dynasty.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "To which deities are the three shrines of the Shore Temple dedicated?",
+        "answer": "The three shrines of the Shore Temple are dedicated to Lord Shiva (the destroyer) and Lord Vishnu (the preserver).",
+        "expected_context": "The Shore Temple symbolises the artistic genius of those times with its unique tripartite structure – three separate shrines dedicated to both Lord Shiva, the destroyer and Lord Vishnu, the preserver.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is the Shore Temple historically significant in South Indian architecture?",
+        "answer": "The Shore Temple is one of the earliest examples of structural temples in South India.",
+        "expected_context": "The Shore Temple is one of the earliest examples of structural temples in South India, standing resolute against the relentless waves.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Describe the structure of the Shore Temple.",
+        "answer": "The Shore Temple has a unique tripartite structure consisting of three separate shrines. It also features pyramidal towers.",
+        "expected_context": "The Shore Temple symbolises the artistic genius of those times with its unique tripartite structure – three separate shrines dedicated to both Lord Shiva, the destroyer and Lord Vishnu, the preserver. ...this picturesque village is blessed with the sentinel boasting of pyramidal towers that pierce the sky like sharpened prayers.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "How old is the Shore Temple?",
+        "answer": "The Shore Temple was carved from granite over thirteen centuries ago.",
+        "expected_context": "In a stark contrast to the more prevalent rock-cut caves of the era, this UNESCO World Heritage Site is carved from granite over thirteen centuries ago.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What does the text say about the people who built the Shore Temple?",
+        "answer": "It's a glorious example of the ability of the Tamil people to craft breath-taking monuments that continue to inspire awe centuries after their creation.",
+        "expected_context": "It's a glorious example of the ability of the Tamil people to craft breath-taking monuments that continue to inspire awe centuries after their creation.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the capital of Tamil Nadu?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Where is Shanti Stupa located?",
+        "answer": "Shanti Stupa is located atop the Chanspa hill that overlooks the picturesque Ladakh Valley.",
+        "expected_context": "Atop the Chanspa hill that overlooks the picturesque Ladakh Valley is Shanti Stupa, a stunning white domed monument rising against the freezing blue sky, which is a symbol of world peace.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the main purpose of Shanti Stupa?",
+        "answer": "Shanti Stupa is a symbol of world peace.",
+        "expected_context": "Atop the Chanspa hill that overlooks the picturesque Ladakh Valley is Shanti Stupa, a stunning white domed monument rising against the freezing blue sky, which is a symbol of world peace.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was Shanti Stupa built?",
+        "answer": "The stupa was built in 1991.",
+        "expected_context": "The stupa was built in 1991 under the guidance of Bhikshu Gyomyo Nakamura, a revered Buddhist Bhikshu from Japan, culminating with its grand unveiling by Tenzin Gyatso, the Dalai Lama.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who unveiled the Shanti Stupa?",
+        "answer": "Tenzin Gyatso, the Dalai Lama, unveiled the Shanti Stupa.",
+        "expected_context": "The stupa was built in 1991 under the guidance of Bhikshu Gyomyo Nakamura, a revered Buddhist Bhikshu from Japan, culminating with its grand unveiling by Tenzin Gyatso, the Dalai Lama.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why do tourists and devotees visit Shanti Stupa?",
+        "answer": "Tourists and devotees visit Shanti Stupa because of its religious significance and the views it offers.",
+        "expected_context": "Perched above the town of Leh, this beautiful stupa draws thousands of tourists and devotees because of its religious significance and the views it offers.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Who first imagined the idea of Shanti Stupa?",
+        "answer": "Nichidatsu Fujii, also known as Fuji Guruji, first imagined the idea.",
+        "expected_context": "The idea behind constructing this grand building dates back to Nichidatsu Fujii, also known as Fuji Guruji. He first imagined the idea in 1914 to commemorate 2500 years of Buddhism.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How many steps are required to reach Shanti Stupa?",
+        "answer": "You need to climb 500 steps to reach this place.",
+        "expected_context": "You need to climb 500 steps to reach this place, but once you do, you're in for a visual treat, for suddenly, the stunning vistas of Leh's beautiful township and the majestic peaks of the Himalayas materialise before you.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "In what year did Nichidatsu Fujii first imagine the idea for the Shanti Stupa, and what was the occasion it was meant to commemorate?",
+        "answer": "Nichidatsu Fujii first imagined the idea in 1914 to commemorate 2500 years of Buddhism.",
+        "expected_context": "The idea behind constructing this grand building dates back to Nichidatsu Fujii, also known as Fuji Guruji. He first imagined the idea in 1914 to commemorate 2500 years of Buddhism.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What color is Shanti Stupa?",
+        "answer": "Shanti Stupa is a stunning white domed monument.",
+        "expected_context": "Atop the Chanspa hill that overlooks the picturesque Ladakh Valley is Shanti Stupa, a stunning white domed monument rising against the freezing blue sky, which is a symbol of world peace.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What types of snacks are sold near Shanti Stupa?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Who commissioned the Taj Mahal?",
+        "answer": "Emperor Shah Jahan commissioned the Taj Mahal.",
+        "expected_context": "Welcome to the Taj Mahal, one of the Seven Wonders of the World, commissioned by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, this ivory-white marble mausoleum has captivated hearts worldwide for generations.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Taj Mahal made of?",
+        "answer": "The Taj Mahal is made of ivory-white marble.",
+        "expected_context": "Welcome to the Taj Mahal, one of the Seven Wonders of the World, commissioned by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, this ivory-white marble mausoleum has captivated hearts worldwide for generations.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why was the Taj Mahal commissioned?",
+        "answer": "The Taj Mahal was commissioned in memory of Emperor Shah Jahan's beloved wife, Mumtaz Mahal.",
+        "expected_context": "Welcome to the Taj Mahal, one of the Seven Wonders of the World, commissioned by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, this ivory-white marble mausoleum has captivated hearts worldwide for generations.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "What is the Taj Mahal considered to be?",
+        "answer": "The Taj Mahal is considered to be one of the Seven Wonders of the World.",
+        "expected_context": "Welcome to the Taj Mahal, one of the Seven Wonders of the World, commissioned by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, this ivory-white marble mausoleum has captivated hearts worldwide for generations.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How does the Taj Mahal's beauty manifest itself?",
+        "answer": "Its breathtaking beauty is manifest in every detail - from the graceful symmetry of its design to the intricate inlay work adorning its walls.",
+        "expected_context": "Its breathtaking beauty is manifest in every detail - from the graceful symmetry of its design to the intricate inlay work adorning its walls.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is the Taj Mahal located?",
+        "answer": "The Taj Mahal is located in the heart of India.",
+        "expected_context": "Imagine a monument so exquisite, it has inspired poets, artists, and dreamers for centuries. A place where love and beauty are forever enshrined in marble, standing as a testament to the heights of human creativity and devotion. This is no flight of fancy, but a reality that awaits you in the heart of India.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What kind of emotion does the Taj Mahal invite?",
+        "answer": "The Taj Mahal invites you to step into a world where beauty and emotion are eternally intertwined in stone.",
+        "expected_context": "As you approach the Taj Mahal, you're greeted by a vision of perfection that seems to defy time itself, inviting you to step into a world where beauty and emotion are eternally intertwined in stone.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How does the Taj Mahal defy time?",
+        "answer": "As you approach the Taj Mahal, you're greeted by a vision of perfection that seems to defy time itself.",
+        "expected_context": "As you approach the Taj Mahal, you're greeted by a vision of perfection that seems to defy time itself, inviting you to step into a world where beauty and emotion are eternally intertwined in stone.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the color of the mausoleum?",
+        "answer": "The mausoleum is ivory-white.",
+        "expected_context": "Welcome to the Taj Mahal, one of the Seven Wonders of the World, commissioned by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, this ivory-white marble mausoleum has captivated hearts worldwide for generations.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What building material is used?",
+        "answer": "The building material used is marble.",
+        "expected_context": "Imagine a monument so exquisite, it has inspired poets, artists, and dreamers for centuries. A place where love and beauty are forever enshrined in marble, standing as a testament to the heights of human creativity and devotion. This is no flight of fancy, but a reality that awaits you in the heart of India.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Rohtang Pass?",
+        "answer": "Rohtang Pass is a breathtaking high mountain pass located about 51 km from Manali in Himachal Pradesh.",
+        "expected_context": "Rohtang Pass, perched on the eastern Pir Panjal range of the Himalayas, is a breathtaking high mountain pass located about 51 km from Manali in Himachal Pradesh.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Rohtang Pass located?",
+        "answer": "Rohtang Pass is located about 51 km from Manali in Himachal Pradesh.",
+        "expected_context": "Rohtang Pass, perched on the eastern Pir Panjal range of the Himalayas, is a breathtaking high mountain pass located about 51 km from Manali in Himachal Pradesh.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the elevation of Rohtang Pass?",
+        "answer": "The elevation of Rohtang Pass is 3,978 meters.",
+        "expected_context": "At an elevation of 3,978 meters, it forms a crucial link between the Kullu Valley and the desolate landscapes of Lahaul and Spiti, offering a panoramic view that captivates every visitor.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What valleys does Rohtang Pass connect?",
+        "answer": "Rohtang Pass connects the Kullu Valley and the landscapes of Lahaul and Spiti.",
+        "expected_context": "At an elevation of 3,978 meters, it forms a crucial link between the Kullu Valley and the desolate landscapes of Lahaul and Spiti, offering a panoramic view that captivates every visitor.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "In which mountain range is Rohtang Pass situated?",
+        "answer": "Rohtang Pass is situated on the eastern Pir Panjal range of the Himalayas.",
+        "expected_context": "Rohtang Pass, perched on the eastern Pir Panjal range of the Himalayas, is a breathtaking high mountain pass located about 51 km from Manali in Himachal Pradesh.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is Rohtang Pass considered a geographical marvel?",
+        "answer": "The document states it offers a panoramic view that captivates every visitor.",
+        "expected_context": "At an elevation of 3,978 meters, it forms a crucial link between the Kullu Valley and the desolate landscapes of Lahaul and Spiti, offering a panoramic view that captivates every visitor.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "What is the weather like in Rohtang Pass during summer?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "How does the altitude of Rohtang Pass compare to other mountain passes in the Himalayas?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "What impact does Rohtang Pass have on tourism in Himachal Pradesh?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Complex"
+    },
+    {
+        "question": "Elephants pink fly when houses are purple, Rohtang?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "What is the name of the largest monastery in India?",
+        "answer": "Tawang Monastery is the largest monastery in India.",
+        "expected_context": "Tawang Monastery is a magnificent example of Mahayana Buddhism and is the largest monastery in India.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Tawang Monastery located?",
+        "answer": "Tawang Monastery is located in Arunachal Pradesh.",
+        "expected_context": "Nestled in the misty mountains of the eastern Himalayan range in Arunachal Pradesh, it was founded in the 17th century by Merak Lama Lodre Gyatso in accordance with the wishes of the 5th Dalai Lama.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was Tawang Monastery founded?",
+        "answer": "Tawang Monastery was founded in the 17th century.",
+        "expected_context": "Nestled in the misty mountains of the eastern Himalayan range in Arunachal Pradesh, it was founded in the 17th century by Merak Lama Lodre Gyatso in accordance with the wishes of the 5th Dalai Lama.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who founded the Tawang Monastery?",
+        "answer": "Merak Lama Lodre Gyatso founded the Tawang Monastery.",
+        "expected_context": "Nestled in the misty mountains of the eastern Himalayan range in Arunachal Pradesh, it was founded in the 17th century by Merak Lama Lodre Gyatso in accordance with the wishes of the 5th Dalai Lama.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the meaning of Gaden Namgyal Lhatse?",
+        "answer": "Gaden Namgyal Lhatse means \"the divine paradise of complete victory.\"",
+        "expected_context": "Also known as Gaden Namgyal Lhatse, which means \"the divine paradise of complete victory,\" the monastery is situated at an elevation of over 10,000 feet and overlooks the picturesque Tawang Valley.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the approximate length of the compound wall enclosing Tawang Monastery?",
+        "answer": "The compound wall enclosing Tawang Monastery is 925 feet (282 m) long.",
+        "expected_context": "The three-story high monastery is enclosed by a 925-foot (282 m) long compound wall and consists of 65 residential buildings.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What type of scriptures are housed in the library of Tawang Monastery?",
+        "answer": "The library houses valuable old scriptures, mainly Kangyur and Tengyur.",
+        "expected_context": "Its library houses valuable old scriptures, mainly Kangyur and Tengyur.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why was the Tawang Monastery founded?",
+        "answer": "Tawang Monastery was founded in accordance with the wishes of the 5th Dalai Lama.",
+        "expected_context": "Nestled in the misty mountains of the eastern Himalayan range in Arunachal Pradesh, it was founded in the 17th century by Merak Lama Lodre Gyatso in accordance with the wishes of the 5th Dalai Lama.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Describe the architectural layout of the Tawang Monastery.",
+        "answer": "The Tawang Monastery is a three-story high structure enclosed by a 925-foot (282 m) long compound wall. It consists of 65 residential buildings, and its library houses valuable old scriptures, mainly Kangyur and Tengyur.",
+        "expected_context": "The three-story high monastery is enclosed by a 925-foot (282 m) long compound wall and consists of 65 residential buildings. Its library houses valuable old scriptures, mainly Kangyur and Tengyur.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What does the surrounding landscape of Tawang Monastery look like?",
+        "answer": "The Tawang Monastery overlooks the picturesque Tawang Valley and is situated at an elevation of over 10,000 feet in the misty mountains of the eastern Himalayan range.",
+        "expected_context": "Also known as Gaden Namgyal Lhatse, which means \"the divine paradise of complete victory,\" the monastery is situated at an elevation of over 10,000 feet and overlooks the picturesque Tawang Valley.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the height of the Gateway of India?",
+        "answer": "The Gateway of India stands at a height of 26 meters.",
+        "expected_context": "Standing proudly at a height of 26 meters, the arch is crafted from vibrant yellow basalt and concrete and adorned with a myriad of intricate Muslim and Hindu motifs that tell tales of a rich cultural tapestry.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What materials were used to construct the Gateway of India?",
+        "answer": "The Gateway of India is crafted from vibrant yellow basalt and concrete.",
+        "expected_context": "Standing proudly at a height of 26 meters, the arch is crafted from vibrant yellow basalt and concrete and adorned with a myriad of intricate Muslim and Hindu motifs that tell tales of a rich cultural tapestry.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What types of motifs adorn the Gateway of India?",
+        "answer": "The Gateway of India is adorned with intricate Muslim and Hindu motifs.",
+        "expected_context": "Standing proudly at a height of 26 meters, the arch is crafted from vibrant yellow basalt and concrete and adorned with a myriad of intricate Muslim and Hindu motifs that tell tales of a rich cultural tapestry.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the diameter of the central dome of the Gateway of India?",
+        "answer": "The central dome has a diameter of 48 feet.",
+        "expected_context": "The central dome, a testament to Muslim architectural grace, captures the gaze with its impressive 48-foot diameter and an apex that reaches a staggering 83 feet.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the apex height of the central dome?",
+        "answer": "The apex of the central dome reaches a height of 83 feet.",
+        "expected_context": "The central dome, a testament to Muslim architectural grace, captures the gaze with its impressive 48-foot diameter and an apex that reaches a staggering 83 feet.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What architectural style is the central dome a testament to?",
+        "answer": "The central dome is a testament to Muslim architectural grace.",
+        "expected_context": "The central dome, a testament to Muslim architectural grace, captures the gaze with its impressive 48-foot diameter and an apex that reaches a staggering 83 feet.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What does the Gateway of India symbolize?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "How does the architecture of the Gateway of India reflect the cultural landscape of Mumbai?",
+        "answer": "The Gateway of India is adorned with a myriad of intricate Muslim and Hindu motifs that tell tales of a rich cultural tapestry.",
+        "expected_context": "Standing proudly at a height of 26 meters, the arch is crafted from vibrant yellow basalt and concrete and adorned with a myriad of intricate Muslim and Hindu motifs that tell tales of a rich cultural tapestry.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "Why was yellow basalt used in the construction of the Gateway of India?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Compare the height of the arch to the apex height of the central dome.",
+        "answer": "The arch is 26 meters tall, while the apex of the central dome reaches 83 feet.",
+        "expected_context": "Standing proudly at a height of 26 meters... The central dome...captures the gaze with its impressive 48-foot diameter and an apex that reaches a staggering 83 feet.",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "What is the Virupaksha Temple also known as, according to the document?",
+        "answer": "The Virupaksha Temple is dedicated to Lord Shiva in his form as Virupaksha, meaning “eyes without form.”",
+        "expected_context": "It is dedicated to Lord Shiva in his form as Virupaksha, meaning “eyes without form.”",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is the Virupaksha Temple located?",
+        "answer": "The Virupaksha Temple is located at the heart of Hampi.",
+        "expected_context": "At the heart of Hampi lies an ancient temple steeped in legend and boundless magnificence.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is the Virupaksha Temple significant?",
+        "answer": "The Virupaksha temple is a pilgrimage site that holds immense religious significance for Hindus and has the distinction of being a UNESCO World Heritage Site.",
+        "expected_context": "The Virupaksha temple is a pilgrimage site that holds immense religious significance for Hindus, drawing devotees from far and wide. And a temple that has the distinction of being a UNESCO World Heritage Site.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When did the Virupaksha Temple originate as a modest shrine?",
+        "answer": "The Virupaksha Temple originated as a modest shrine in the 7th century.",
+        "expected_context": "From humble origins as a modest shrine in the 7th century, it blossomed into a magnificent complex under the reign of the Vijayanagara rulers, who added their own touches to the temple, making this structure truly one-of-a-kind.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How did the Vijayanagara rulers contribute to the Virupaksha Temple?",
+        "answer": "The Vijayanagara rulers added their own touches to the Virupaksha Temple, transforming it into a magnificent complex.",
+        "expected_context": "From humble origins as a modest shrine in the 7th century, it blossomed into a magnificent complex under the reign of the Vijayanagara rulers, who added their own touches to the temple, making this structure truly one-of-a-kind.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Is the Virupaksha temple a modern structure or an ancient one?",
+        "answer": "The Virupaksha temple is an ancient temple.",
+        "expected_context": "At the heart of Hampi lies an ancient temple steeped in legend and boundless magnificence.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Can this temple be considered a historical site and why?",
+        "answer": "Yes, the temple can be considered a historical site because it has a rich history that spans over 1000 years and it is also a UNESCO World Heritage Site.",
+        "expected_context": "A temple with a rich history that spans over 1000 years. And a temple that has the distinction of being a UNESCO World Heritage Site.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "Does the document provide information on the architectural style of the Virupaksha Temple?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Why did the Virupaksha Temple become so magnificent?",
+        "answer": "The Virupaksha Temple became a magnificent complex because the Vijayanagara rulers added their own touches to it.",
+        "expected_context": "From humble origins as a modest shrine in the 7th century, it blossomed into a magnificent complex under the reign of the Vijayanagara rulers, who added their own touches to the temple, making this structure truly one-of-a-kind.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Where is the Jagannath Temple located?",
+        "answer": "The Jagannath Temple is located in Puri, on the eastern coast of India.",
+        "expected_context": "On the eastern coast of India, lies the sacred town of Puri, a name synonymous with the iconic Jagannath Temple.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was the Jagannath Temple built?",
+        "answer": "The Jagannath Temple was built in the 12th century AD.",
+        "expected_context": "Built in the 12th century AD, the temple stands as the beating heart of the Jagannath cult, its towering spire a beacon of faith visible for miles around.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What distinguishes the Jagannath Temple from other temples in the region?",
+        "answer": "Unlike other temples in the region, the walls of Jagannath Temple are adorned predominantly with divine figures, creating a celestial pantheon in stone.",
+        "expected_context": "Unlike other temples in the region, the walls of Jagannath Temple are adorned predominantly with divine figures, creating a celestial pantheon in stone.",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "What are the two concentric walls that enclose the Jagannath Temple complex called?",
+        "answer": "The two concentric walls are called the Kuruma Bheda and Meghnad Pachira.",
+        "expected_context": "The entire complex, enclosed within two concentric walls known as the Kuruma Bheda and Meghnad Pachira, tells a story of continuous evolution, with additions enhancing its grandeur well into the 16th century.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Describe the Singhadwara and its significance.",
+        "answer": "The Singhadwara is the grand main entrance on the eastern face of the Jagannath Temple. It marks a space where ancient traditions are vibrantly alive and where every stone resonates with centuries of faith and cultural heritage.",
+        "expected_context": "As you approach the main entrance, the grand Singhadwara on the eastern face, you step into a space where ancient traditions remain vibrantly alive, and where every stone resonates with centuries of faith and cultural heritage.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is the Jagannath Temple important?",
+        "answer": "The Jagannath Temple is a beacon of faith and the beating heart of the Jagannath cult, drawing pilgrims and seekers from across the world for nearly a millennium.",
+        "expected_context": "This ancient shrine, dedicated to Lord Jagannath has been drawing pilgrims and seekers from across the world for nearly a millennium. Built in the 12th century AD, the temple stands as the beating heart of the Jagannath cult, its towering spire a beacon of faith visible for miles around.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "What happened in the 17th century at the temple?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "How has the Jagannath Temple evolved over time?",
+        "answer": "The Jagannath Temple has continuously evolved with additions enhancing its grandeur well into the 16th century.",
+        "expected_context": "The entire complex, enclosed within two concentric walls known as the Kuruma Bheda and Meghnad Pachira, tells a story of continuous evolution, with additions enhancing its grandeur well into the 16th century.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What color is the Jagannath Temple?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Which countries' residency permits allow UAE visa on arrival in 2025?",
+        "answer": "In 2025, holders of a valid residency permit from Singapore, Japan, South Korea, Australia, New Zealand, and Canada can get a visa on arrival in the UAE.",
+        "expected_context": "2025 United Arab Emirates extends visa on arrival to holders of a valid residency permit from Singapore, Japan, South Korea, Australia, New Zealand, and Canada, effective 13 February 2025.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When did Malaysia extend visa-free entry for Indians until?",
+        "answer": "Malaysia extends visa-free entry for Indians until 31 December 2026.",
+        "expected_context": "Malaysia extends visa-free for Indians until 31 December 2026.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the maximum stay allowed for Indian citizens with a US, UK, or EU visa arriving in the UAE?",
+        "answer": "The maximum stay allowed is up to 14 days, with the option to extend for an additional 14 days.",
+        "expected_context": "The UAE has implemented a visa-on-arrival option for Indian citizens holding a valid US, UK, or EU visit or residence visa, or a USA Green Card. This allows for a stay of up to 14 days, with the option to extend for an additional 14 days.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When did Sri Lanka first announce visa-free travel for Indian citizens, according to the document?",
+        "answer": "Sri Lanka first announced visa-free travel for Indian citizens from October 2024.",
+        "expected_context": "Sri Lanka has announced visa-free travel for Indian citizens from October 2024.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the duration of Thailand's visa-free entry for tourism, and when did it start?",
+        "answer": "Thailand implemented visa-free entry for tourism, with stays up to 60 days, starting from 15 July 2024 and lasting for six months.",
+        "expected_context": "Thailand implemented visa-free entry for tourism, with stays up to 60 days. This will be in effect for six months starting from 15 July 2024 .",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How many countries were included in Angola's visa-free travel announcement in 2023, and was India one of them?",
+        "answer": "Angola announced a list of 98 countries, including India, whose citizens can travel visa-free for 30 days, effective 29 September 2023.",
+        "expected_context": "Angola has announced a list of 98 countries, including India, whose citizens can travel visa-free for 30 days (w.e.f 29 September 2023).",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What conditions were required for Belarus visa-free travel for Indians?",
+        "answer": "Belarus announced visa-free travel for Indians (with EU countries and Schengen area visa holders), provided they are not transiting to or from (including airside) Russia and are arriving at Minsk International Airport.",
+        "expected_context": "Belarus announced visa-free travel for Indians (with EU countries and Schengen area visa holders), provided they are not transiting to or from (including airside) Russia and are arriving at Minsk International Airport.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Which countries could Indian passport holders residing in apply for a single entry e-Visa for tourism purposes to Japan in July 2023?",
+        "answer": "Japan announced in July 2023 that Indian passport-holders who reside in Brazil, Cambodia, Canada, Saudi Arabia, Singapore, South Africa, Taiwan, UAE, UK, US can apply for a single entry e-Visa for tourism purposes only.",
+        "expected_context": "Japan announced in July 2023 that Indian passport-holders who reside in Brazil, Cambodia, Canada, Saudi Arabia, Singapore, South Africa, Taiwan, UAE, UK, US can apply for a single entry e-Visa for tourism purposes only.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the duration of the single entry e-Visa launched by Russia in August 2023?",
+        "answer": "Russia launched a single entry e-Visa for 16 days from the 1st of August 2023.",
+        "expected_context": "Russia launched a single entry e-Visa for 16 days from the 1st of August 2023.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When did South Africa launch an e-visa system for all Indian travelers?",
+        "answer": "South Africa finally launched an e-visa system for all Indian travellers in February 2022.",
+        "expected_context": "South Africa finally launched an e-visa system for all Indian travellers in February 2022.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the French Quarter of Puducherry also known as?",
+        "answer": "The French Quarter is also known as White Town or Ville Blanche.",
+        "expected_context": "This captivating \"White Town,\" or Ville Blanche as locals often refer to it, stands as an irresistibly charming reminder of Puducherry's rich colonial heritage, where its distinctive blend of French and Indian architecture creates an incredible ambiance.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Which colonial powers had control over Puducherry?",
+        "answer": "Puducherry had been passed between several colonial powers such as Dutch, Portuguese, English and - most notably - French colony during its history.",
+        "expected_context": "Puducherry had been passed between several colonial powers such as Dutch, Portuguese, English and - most notably - French colony during its history, eventually becoming part of India in 1954 and the Union Territory of Puducherry in 1963.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When did Puducherry become part of India?",
+        "answer": "Puducherry became part of India in 1954.",
+        "expected_context": "Puducherry had been passed between several colonial powers such as Dutch, Portuguese, English and - most notably - French colony during its history, eventually becoming part of India in 1954 and the Union Territory of Puducherry in 1963.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When did Puducherry become a Union Territory?",
+        "answer": "Puducherry became the Union Territory of Puducherry in 1963.",
+        "expected_context": "Puducherry had been passed between several colonial powers such as Dutch, Portuguese, English and - most notably - French colony during its history, eventually becoming part of India in 1954 and the Union Territory of Puducherry in 1963.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Does French influence still exist in Puducherry?",
+        "answer": "Even today there remains strong French influence within Puducherry despite becoming part of India as an Indian State.",
+        "expected_context": "Even today there remains strong French influence within Puducherry despite becoming part of India as an Indian State.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Describe the architecture in Puducherry's French Quarter.",
+        "answer": "The architecture is a distinctive blend of French and Indian styles.",
+        "expected_context": "This captivating \"White Town,\" or Ville Blanche as locals often refer to it, stands as an irresistibly charming reminder of Puducherry's rich colonial heritage, where its distinctive blend of French and Indian architecture creates an incredible ambiance.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What makes the French Quarter a captivating destination?",
+        "answer": "The French Quarter takes you on an amazing journey back in time, and it stands as an irresistibly charming reminder of Puducherry's rich colonial heritage.",
+        "expected_context": "Welcome to Puducherry's charming French Quarter, a captivating destination that takes you on an amazing journey back in time. This captivating \"White Town,\" or Ville Blanche as locals often refer to it, stands as an irresistibly charming reminder of Puducherry's rich colonial heritage, where its distinctive blend of French and Indian architecture creates an incredible ambiance.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How did the colonial powers other than the French influence Puducherry differently?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "Why does Puducherry have a blend of French and Indian architecture?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Given its colonial history, what are some of the cultural impacts that still persists in Puducherry today, other than architecture and language?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What is the name of the lake described in the document?",
+        "answer": "The lake described in the document is called Tsomgo Lake.",
+        "expected_context": "TSOMGO-LAKE\nA Himalayan spectacle\nNestled amidst the cradle of the Himalayas, Tsomgo Lake emerges like a sparkling jewel, captivating travelers with its ethereal beauty and sacred allure.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Tsomgo Lake located?",
+        "answer": "Tsomgo Lake is nestled amidst the cradle of the Himalayas.",
+        "expected_context": "Nestled amidst the cradle of the Himalayas, Tsomgo Lake emerges like a sparkling jewel, captivating travelers with its ethereal beauty and sacred allure.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How is Tsomgo Lake described in the document?",
+        "answer": "Tsomgo Lake is described as a sparkling jewel, captivating travelers with its ethereal beauty and sacred allure.",
+        "expected_context": "Nestled amidst the cradle of the Himalayas, Tsomgo Lake emerges like a sparkling jewel, captivating travelers with its ethereal beauty and sacred allure.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What kind of experience does Tsomgo Lake offer?",
+        "answer": "Tsomgo Lake offers an unforgettable experience.",
+        "expected_context": "Join us as we dive into the enchanting allure of this high-altitude oasis, where pristine waters, dramatic vistas, and tales of local folklore converge to create an unforgettable experience.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Does the document mention the depth of Tsomgo Lake?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Describe Tsomgo Lake's allure based on pristine waters, dramatic vistas and tales of local folklore.",
+        "answer": "Tsomgo Lake's allure is based on pristine waters, dramatic vistas, and tales of local folklore converging to create an unforgettable experience.",
+        "expected_context": "Join us as we dive into the enchanting allure of this high-altitude oasis, where pristine waters, dramatic vistas, and tales of local folklore converge to create an unforgettable experience.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "Why is Tsomgo Lake captivating to travelers?",
+        "answer": "Tsomgo Lake is captivating to travelers because of its ethereal beauty and sacred allure.",
+        "expected_context": "Nestled amidst the cradle of the Himalayas, Tsomgo Lake emerges like a sparkling jewel, captivating travelers with its ethereal beauty and sacred allure.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Is Tsomgo Lake considered a high-altitude oasis?",
+        "answer": "Yes, Tsomgo Lake is described as a high-altitude oasis.",
+        "expected_context": "Join us as we dive into the enchanting allure of this high-altitude oasis, where pristine waters, dramatic vistas, and tales of local folklore converge to create an unforgettable experience.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How do pristine waters, dramatic vistas, and tales of local folklore relate to the experience at Tsomgo Lake?",
+        "answer": "Pristine waters, dramatic vistas, and tales of local folklore converge to create an unforgettable experience at Tsomgo Lake.",
+        "expected_context": "Join us as we dive into the enchanting allure of this high-altitude oasis, where pristine waters, dramatic vistas, and tales of local folklore converge to create an unforgettable experience.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What does the document suggest the purpose of mentioning Tsomgo Lake is?",
+        "answer": "The document suggests the purpose of mentioning Tsomgo Lake is to invite readers to dive into the enchanting allure of this high-altitude oasis and learn more about its beauty and sacred allure.",
+        "expected_context": "Join us as we dive into the enchanting allure of this high-altitude oasis, where pristine waters, dramatic vistas, and tales of local folklore converge to create an unforgettable experience.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What is Udaipur also known as, and why?",
+        "answer": "Udaipur is known as the ‘City of Lakes’ because of its abundance of lakes. It is also called ‘Venice of the East’.",
+        "expected_context": "Known as the ‘City of Lakes,’ Udaipur is renowned for its Rajputana grandeur, romantic vistas, and timeless charm that beckon travellers from across the globe. The abundance of lakes has also earned Udaipur the nickname ‘Venice of the East.’",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Which James Bond film showcased Udaipur's beauty?",
+        "answer": "The James Bond film Octopussy showcased Udaipur's ethereal beauty to the world.",
+        "expected_context": "This picturesque setting has made Udaipur a favourite among filmmakers, with the James Bond film Octopussy famously showcasing its ethereal beauty to the world.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Describe Badi Lake. Who constructed it, when, and in whose honor was it named?",
+        "answer": "Badi Lake, or Jiyan Sagar, is an artificial freshwater lake located on the outskirts of Udaipur. It sprawls over an area of 155 square kms. It was constructed between 1652 and 1680 by Maharana Raj Singh and named in honour of his mother, Jana Devi.",
+        "expected_context": "Located on the outskirts of Udaipur, Badi Lake, or Jiyan Sagar, sprawls over an impressive area of 155 square kms. Constructed between 1652 and 1680 by Maharana Raj Singh, this artificial freshwater lake was named in honour of his mother, Jana Devi.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Jag Mandir Palace also known as, and what purposes has it served throughout history?",
+        "answer": "The Jag Mandir Palace, also known as the Lake Garden Palace, has functioned as a popular summer retreat for royal family members and a venue for grand festivities and celebrations.",
+        "expected_context": "The Jag Mandir Palace, more commonly known as the Lake Garden Palace, is an architectural masterpiece built by three Maharajas of the Sisodia Rajputs of Mewar and dates to the early 1600s. Throughout history, the palace has functioned as a popular summer retreat for royal family members and a venue for grand festivities and celebrations.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What architectural styles does the Jag Mandir Palace combine, and what monument is it said to have inspired?",
+        "answer": "The Jag Mandir Palace is renowned for its impressive carvings and graceful architecture combining Hindu and Mughal styles. It is said to be the source of inspiration for designing the world-famous monument - the Taj Mahal.",
+        "expected_context": "Renowned for its impressive carvings and graceful architecture combining Hindu and Mughal styles, the palace is said to be the source of inspiration for designing the world-famous monument - the Taj Mahal.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What kind of flora and fauna are unique to the Sajjangarh Biological Park?",
+        "answer": "The Sajjangarh Biological Park contains a rich tapestry of flora and fauna unique to the Aravalli hills, including Bengal tigers and leopards.",
+        "expected_context": "As you meander through the park's winding trails, you will face a rich tapestry of flora and fauna unique to the Aravalli hills. ... From majestic Bengal tigers to elusive leopards, the park is home to a diverse array of wildlife species, each playing an important role in the delicate balance of the ecosystem.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Describe the history and purpose of Saheliyon Ki Bari.",
+        "answer": "Saheliyon Ki Bari, or Garden of the Maidens, was constructed in the 18th century by Maharana Sangram Singh as a peaceful retreat for the Queen of Udaipur and her maidens, where they could enjoy privacy and relaxation.",
+        "expected_context": "Constructed in the 18th century by Maharana Sangram Singh, the garden was designed as a peaceful retreat for the Queen of Udaipur and her maidens. It was a gift of leisure where they could escape the protocols of the royal court and enjoy moments of privacy and relaxation amidst fountains, lotus pools, marble pavilions, and more.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Moti Magri, and what is it most famous for?",
+        "answer": "Moti Magri (or Pearl Hill) is a hill overlooking the serene Fateh Sagar Lake. This hill is most famous for a timeless memorial dedicated to the renowned Mewar ruler Maharana Pratap and his beloved horse Chetak.",
+        "expected_context": "Standing proudly amidst the culturally rich city of Udaipur, Moti Magri (or Pearl Hill) is a hill overlooking the serene Fateh Sagar Lake. This hill is most famous for a timeless memorial dedicated to the renowned Mewar ruler Maharana Pratap and his beloved horse Chetak, who played a vital role in the battle of Haldighati against the Mughals.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was Jagdish Temple built, and who commissioned it?",
+        "answer": "Jagdish Temple was built in 1651 and commissioned by Maharana Jagat Singh I.",
+        "expected_context": "Standing tall since 1651, commissioned by Maharana Jagat Singh I, Jagdish Temple is an architectural marvel that continues to be a landmark in Udaipur.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What architectural style does the Jagdish Temple showcase?",
+        "answer": "The Jagdish Temple showcases the beauty of Indo-Aryan architecture.",
+        "expected_context": "Dedicated to Lord Vishnu, the temple showcases the beauty of Indo-Aryan architecture.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Kumbhalgarh Fort known for, and when was it constructed?",
+        "answer": "The Kumbhalgarh Fort is known for possessing the world's second-longest wall, after the Great Wall of China. It was constructed in the 15th century AD by Rana Kumbha.",
+        "expected_context": "The Kumbhalgarh Fort, known for possessing the world's second-longest wall, after the Great Wall of China, is a UNESCO World Heritage site. It is nestled 84 kilometres north of Udaipur amidst the beauty of the wilderness. Considered to be the second most significant citadel in the Mewar region after Chittorgarh, this majestic fort was constructed in the 15th century AD by Rana Kumbha.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is the Bird Park located, and what kind of birds can you find there?",
+        "answer": "The Bird Park is located within the sprawling oasis of Gulab Bagh, also known as Sajjan Niwas Garden. You can spot vibrantly coloured parrots, elegant macaws, majestic pelicans, and captivating cockatoos there.",
+        "expected_context": "Nestled within the sprawling oasis of Gulab Bagh, also known as Sajjan Niwas Garden, this park offers a delightful escape into a world of vibrant feathers and fascinating birds. ... Imagine strolling through carefully manicured gardens, where you can spot everything from vibrantly coloured parrots and elegant macaws to majestic pelicans and captivating cockatoos.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was the Lake Palace constructed, and what was its original purpose?",
+        "answer": "The Lake Palace was constructed in the 17th century by Maharana Jagat Singh II of the Mewar dynasty as a summer retreat.",
+        "expected_context": "The story of the Lake Palace began in the 17th century when Maharana Jagat Singh II of the Mewar dynasty commissioned its construction as a summer retreat.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is the Shree Charbhuja Nath Ji Mandir located, and to which deity is it dedicated?",
+        "answer": "The Shree Charbhuja Nath Ji Mandir is located a two-hour drive north of Udaipur and is dedicated to Lord Vishnu.",
+        "expected_context": "The Shree Charbhuja Nath Ji Mandir, also revered as the Charbhuja Temple, is a hidden gem nestled just a two-hour drive north of Udaipur. ... Dedicated to Lord Vishnu, the preserver of the universe, the temple was constructed as a symbol of devotion and piety.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What was the original intended purpose of the Monsoon Palace, and who commissioned it?",
+        "answer": "Originally intended to serve as an astronomical centre, the Monsoon Palace was commissioned by Maharana Sajjan Singh.",
+        "expected_context": "Originally intended to serve as an astronomical centre, the Sajjangarh palace's grandiose plan was tragically cut short by the untimely demise of its visionary builder, Maharana Sajjan Singh.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is the Ambika Mata Temple located, and when was it believed to have been built?",
+        "answer": "The Ambika Mata Temple is located in the village of Jagat, about 50 kilometres from Udaipur, and is believed to have been built in 961 AD.",
+        "expected_context": "While Udaipur is famous for its lakes and majestic palaces, there’s a hidden gem waiting just a short drive (around 50 kilometres) from the city. Behold the Ambika Mata Temple in the village of Jagat! ... This ancient temple is believed to have been built in 961 AD, a time when the famed Laxman Mandir at Khajuraho was taking shape.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is Dudh Talai Lake called the 'milk pond'?",
+        "answer": "Dudh Talai Lake is called the 'milk pond' because it once served as a vital resource for the cows in the area, providing water for drinking, bathing, and grazing for the cows that provided milk for the royal kitchen.",
+        "expected_context": "The name ‘Doodh Talai’ translates to ‘milk pond.’ According to local lore, this quaint lake once served as a vital resource for the cows in the area. These cows, housed in government shelters, provided milk for the royal kitchen. The lake fulfilled their daily needs, offering water for drinking, bathing, and grazing. Thus, Dudh Talai became synonymous with sustenance and nourishment.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "When was Lake Pichola created, and who expanded it?",
+        "answer": "Lake Pichola was created in 1362 AD during Maharana Lakha's reign, and it was expanded by Maharana Udai Singh II.",
+        "expected_context": "Lake Pichola boasts an impressive lineage, being one of Udaipur's oldest and largest lakes. Its creation in 1362 AD, during Maharana Lakha's reign, was the first spark that ignited Udaipur's story. Centuries later, Maharana Udai Singh II further expanded the lake, flooding Picholi village, which lends its name to this breathtaking expanse.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who is Karni Mata, and where is the Shri Manshapurna Karni Mata Temple located?",
+        "answer": "Karni Mata is a revered female Hindu sage and manifestation of the powerful Goddess Durga. The Shri Manshapurna Karni Mata Temple is located atop the picturesque Machla Magra Hills, near the serene Doodh Talai Lake.",
+        "expected_context": "Deeply rooted in local folklore and religious beliefs, this revered temple is dedicated to Karni Mata, a revered female Hindu sage and manifestation of the powerful Goddess Durga. ... Located atop the picturesque Machla Magra Hills, near the serene Doodh Talai Lake, the temple houses a sacred stone idol of Karni Mata and offers a breathtaking view of the city.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "To whom is the Rishabhdeo Temple dedicated, and what are some of its distinguishing features?",
+        "answer": "The Rishabhdeo Temple is dedicated to Lord Rishabhadeva, the first Jain Tirthankara. It features 52 Jinalayas and 1100 pillars.",
+        "expected_context": "Dedicated to Lord Rishabhadeva, the first Jain Tirthankara (spiritual leader), the Rishabhdeo Temple is a significant pilgrimage site for Jains of both the Digambara and Swetambara sects. ... Marvel at the intricate carvings and the sheer scale of the temple, adorned with a staggering 52 Jinalayas (shrines dedicated to Jain Tirthankaras) and a staggering 1100 pillars!",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What kind of artifacts can be found at the Ahar Museum, and what time period do they represent?",
+        "answer": "The Ahar Museum boasts an assortment of treasures from pottery to sculptures, metal artefacts and inscriptions dating back to 4th-century BC Ahar culture.",
+        "expected_context": "At the core of Udaipur lies the Ahar Museum, an intriguing collection dating back to 4th-century BC Ahar culture and artefacts from their history. This museum boasts an intriguing assortment of treasures from pottery to sculptures, metal artefacts and inscriptions; providing an incredible insight into Ahar culture's ancient past and present lifestyle.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What are the Ahar Cenotaphs, and what do they represent?",
+        "answer": "The Ahar Cenotaphs are monuments that pay homage to the revered rulers of the Mewar Dynasty, immortalizing their noble lives through exquisite craftsmanship adorning every dome and pillar.",
+        "expected_context": "In the heart of Udaipur stands a tribute to the valorous Maharajas of the Mewar Kingdom—the magnificent Ahar Cenotaphs. These awe-inspiring monuments pay homage to the revered rulers of the Mewar Dynasty, immortalizing their noble lives through exquisite craftsmanship adorning every dome and pillar.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is another name for the Sahastrabahu Temples, and what do these names mean?",
+        "answer": "The Sahastrabahu Temples are also known as the Sas Bahu Temples. Sahastrabahu means ‘one with a thousand arms’, referring to Lord Vishnu, while Sas Bahu translates to ‘mother-in-law’ and ‘daughter-in-law’ respectively.",
+        "expected_context": "Just a scenic 22-kilometer drive from the regal city of Udaipur awaits a hidden treasure – the Sahastrabahu Temples, also known as the Sas Bahu Temples. ... Legend has it that the original name of the temples, Sahastrabahu, meaning ‘one with a thousand arms’, refers to Lord Vishnu. However, over time, this name morphed into the more easily pronounced ‘Sas Bahu,’ which translates to ‘mother-in-law’ and ‘daughter-in-law’ respectively.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Describe the Juna Mahal in Dungarpur. What are some of its notable features?",
+        "answer": "The Juna Mahal in Dungarpur is a 13th-century palace fort with seven stories. It features vibrant frescoes, intricate carvings, and dazzling mirror work.",
+        "expected_context": "As you approach this city, the magnificent Juna Mahal rises from the earth like a colossus of stone, its seven stories a testament to the architectural prowess of a bygone era. This 13th-century palace fort, perched atop a massive rock, stands as a silent sentinel, guarding the secrets of centuries past within its weathered walls. Step inside, and you'll find yourself mesmerised by a kaleidoscope of vibrant frescoes, intricate carvings, and dazzling mirror work - a feast for the eyes that rivals the finest artistic treasures of Rajasthan.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Shilpgram, and what does it represent?",
+        "answer": "Shilpgram is a 70-acre rural arts and crafts complex that embodies the soul of India's vast heritage and artistic richness, showcasing the artistic culture of the western region of India.",
+        "expected_context": "Welcome to Shilpgram, a 70-acre wonderland situated amid the Aravalli Range in Udaipur, Rajasthan. It’s a cultural haven that embodies the very soul of India's vast heritage and artistic richness. ... This rural arts and crafts complex is a captivating journey through the artistic culture of the western region of India.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who commissioned the City Palace, and how was it expanded?",
+        "answer": "The City Palace was commissioned by Maharana Udai Singh II and expanded over four centuries by his successors.",
+        "expected_context": "Commissioned by Maharana Udai Singh II, the City Palace was expanded over four centuries by his successors.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is Haldighati known as 'Haldighati'?",
+        "answer": "Haldighati is named for its yellow-colored soil (reminiscent of turmeric).",
+        "expected_context": "Located in the Aravalli Hills of Rajasthan and named for its yellow-coloured soil (reminiscent of turmeric), Haldighati is an indelible part of history—immortalised as the site of the famous battle between the King of Mewar, Maharana Pratap, and Emperor Akbar's forces in 1576.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What event made Haldighati an important historical site?",
+        "answer": "Haldighati is the site of the famous battle between Maharana Pratap and Emperor Akbar's forces in 1576.",
+        "expected_context": "Located in the Aravalli Hills of Rajasthan and named for its yellow-coloured soil (reminiscent of turmeric), Haldighati is an indelible part of history—immortalised as the site of the famous battle between the King of Mewar, Maharana Pratap, and Emperor Akbar's forces in 1576.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is special about Fateh Sagar Lake?",
+        "answer": "Fateh Sagar Lake is encircled by hills and maintained walkways, making it a favorite among locals and tourists for its serene and open environment. It is a splendid example of beauty and engineering marvel.",
+        "expected_context": "Fateh Sagar Lake, located in the scenic city of Udaipur, Rajasthan, is a splendid example of beauty and engineering marvel. This artificial lake, to the northwest of Udaipur, is encircled by hills and maintained walkways, making it a favourite among locals and tourists for its serene and open environment.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is Udaipur often called India's 'second Kashmir'?",
+        "answer": "Udaipur is often called India’s ‘second Kashmir’ because of Fateh Sagar Lake.",
+        "expected_context": "Udaipur is often called India’s ‘second Kashmir’, and Fateh Sagar Lake is a big reason why!",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was Udai Sagar Lake built, and what was its strategic purpose?",
+        "answer": "Udai Sagar Lake was built in 1559 by Maharana Udai Singh. A dam on the Berach River ensured a steady water supply for his kingdom.",
+        "expected_context": "Built in 1559 by Maharana Udai Singh, the lake was a strategic marvel. A dam on the Berach River ensured a steady water supply for his kingdom.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What historical event took place on the shores of Udai Sagar Lake in 1573?",
+        "answer": "In 1573, on the shores of Udai Sagar, Maharana Pratap Singh famously refused to surrender to the Mughal emperor Akbar.",
+        "expected_context": "In 1573, on the shores of Udai Sagar, Maharana Pratap Singh famously refused to surrender to the Mughal emperor Akbar, a decision that sparked the legendary Battle of Haldighati.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is the Kumbhalgarh Wildlife Sanctuary located, and what does it encircle?",
+        "answer": "The Kumbhalgarh Wildlife Sanctuary is located 65 kilometers from Udaipur and encircles the majestic Kumbhalgarh Fort.",
+        "expected_context": "Just a scenic 65-kilometer drive from Udaipur lies the Kumbhalgarh Wildlife Sanctuary, a hidden gem waiting to be explored. Nestled amidst the Aravalli Range, this sanctuary encircles the majestic Kumbhalgarh Fort, offering a thrilling blend of history and wildlife.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What animals might you see at Kumbhalgarh Wildlife Sanctuary?",
+        "answer": "At the Kumbhalgarh Wildlife Sanctuary, you might see wolves, sloth bears, jungle cats, hyenas, jackals, leopards, and sambhar deer.",
+        "expected_context": "Look for elusive creatures like wolves, sloth bears, jungle cats, hyenas, and jackals. If you're lucky, you might even catch a glimpse of a majestic leopard or a graceful sambhar deer.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Vintage and Classic Car Museum, and how is it related to the Mewar dynasty?",
+        "answer": "The Vintage and Classic Car Museum is a living testament to the opulent lifestyle and rich automotive heritage of the region's erstwhile rulers. The collection housed within the museum results from the passion and vision of His Highness Maharana Sri Bhagwat Singh Mewar, who embarked on a mission to preserve and showcase the magnificent vintage and classic cars that once graced the royal garages.",
+        "expected_context": "The museum is a living testament to the opulent lifestyle and rich automotive heritage of the region's erstwhile rulers. Its history, dating back to the early 20th century, is intricately intertwined with the royal legacy of the Mewar dynasty. The collection housed within the museum results from the passion and vision of His Highness Maharana Sri Bhagwat Singh Mewar, who embarked on a mission to preserve and showcase the magnificent vintage and classic cars that once graced the royal garages.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is the Vintage and Classic Car Museum located in Udaipur?",
+        "answer": "The Vintage and Classic Car Museum is located within the grounds of the City Palace in Udaipur.",
+        "expected_context": "The museum is housed within the grounds of the City Palace, one of Udaipur's most iconic landmarks.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Bagore Ki Haveli, and what kind of performances can you see there?",
+        "answer": "Bagore Ki Haveli is a majestic palace gracing the shores of Lake Pichola at Gangaur Ghat. You can see renowned dance and musical performances within the haveli's courtyard.",
+        "expected_context": "Bagore Ki Haveli, a majestic palace gracing the shores of Lake Pichola at Gangaur Ghat, is a must-visit on any Udaipur itinerary. ... Renowned dance and musical performances come alive within these historic walls, offering a captivating glimpse into the region's rich artistic traditions.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What does 'Jaisamand' mean, and what is another name for Jaisamand Lake?",
+        "answer": "'Jaisamand' means 'Ocean of Victory,' and Jaisamand Lake is also known as Dhebar Lake.",
+        "expected_context": "Jaisamand Lake, also known as Dhebar Lake, is an impressive landmark situated approximately 58 km from Udaipur, Rajasthan. ‘Jaisamand’ means 'Ocean of Victory,' which reflects its grand scale and the ambition behind its creation.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How does the area of Jaisamand Lake compare to other artificial lakes in Asia?",
+        "answer": "Jaisamand Lake is known for being the second-largest artificial lake in Asia.",
+        "expected_context": "Known for being the second-largest artificial lake in Asia, Jaisamand Lake covers an area of 36 square kilometres, stretches 14 kilometres long and 9 kilometres wide, and presents a breathtaking vista of water surrounded by lush greenery and historical edifices.",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "Where is the Indira Gandhi Memorial Tulip Garden located?",
+        "answer": "The Indira Gandhi Memorial Tulip Garden is located at the base of the Zabarwan Mountain.",
+        "expected_context": "Located at the base of the Zabarwan Mountain is the Indira Gandhi Memorial Tulip Garden Asia’s largest tulip garden and a key attraction in Srinagar.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What makes the Indira Gandhi Memorial Tulip Garden notable in Asia?",
+        "answer": "The Indira Gandhi Memorial Tulip Garden is Asia’s largest tulip garden.",
+        "expected_context": "Located at the base of the Zabarwan Mountain is the Indira Gandhi Memorial Tulip Garden Asia’s largest tulip garden and a key attraction in Srinagar.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How many varieties of tulip flowers are in the Indira Gandhi Memorial Tulip Garden?",
+        "answer": "There are 48 varieties of tulip flowers in the Indira Gandhi Memorial Tulip Garden.",
+        "expected_context": "This seven-terraced garden is celebrated for its 48 varieties of tulip flowers, appealing to both adults and children alike.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What other flowers, besides tulips, are found in the Indira Gandhi Memorial Tulip Garden?",
+        "answer": "Besides tulips, the garden also contains daffodils, hyacinths, roses, narcissus, and various ornamental plants.",
+        "expected_context": "The garden is also home to a diverse array of other flowers, including daffodils, hyacinths, roses, narcissus, and various ornamental plants.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What enhances the beauty of the Indira Gandhi Memorial Tulip Garden?",
+        "answer": "A water channel flowing through the terraces enhances the garden’s beauty.",
+        "expected_context": "A water channel flowing through the terraces enhances the garden’s beauty, providing an idyllic setting for memorable photographs.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Is the Tulip Garden a good place to take pictures?",
+        "answer": "Yes, the water channel flowing through the terraces provides an idyllic setting for memorable photographs.",
+        "expected_context": "A water channel flowing through the terraces enhances the garden’s beauty, providing an idyllic setting for memorable photographs.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How many terraces does the Indira Gandhi Memorial Tulip Garden have?",
+        "answer": "The Indira Gandhi Memorial Tulip Garden has seven terraces.",
+        "expected_context": "This seven-terraced garden is celebrated for its 48 varieties of tulip flowers, appealing to both adults and children alike.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Is the tulip garden more appealing to adults or children?",
+        "answer": "The garden appeals to both adults and children alike.",
+        "expected_context": "This seven-terraced garden is celebrated for its 48 varieties of tulip flowers, appealing to both adults and children alike.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is the tulip garden called the Indira Gandhi Memorial Tulip Garden?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Causal"
+    },
+    {
+        "question": "How does the water channel contribute to the overall experience of visiting the Tulip Garden?",
+        "answer": "The water channel flowing through the terraces enhances the garden’s beauty, providing an idyllic setting for memorable photographs.",
+        "expected_context": "A water channel flowing through the terraces enhances the garden’s beauty, providing an idyllic setting for memorable photographs.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What is Srinagar known as?",
+        "answer": "Srinagar is known as the jewel in the crown of Jammu and Kashmir.",
+        "expected_context": "Srinagar, the jewel in the crown of Jammu and Kashmir, is a city that whispers tales of timeless beauty and resilience.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Srinagar located?",
+        "answer": "Srinagar is located in Jammu and Kashmir, India.",
+        "expected_context": "Srinagar, the jewel in the crown of Jammu and Kashmir, is a city that whispers tales of timeless beauty and resilience. As the summer capital of this northernmost Indian state, it paints a mesmerizing picture where nature's grandeur meets centuries of rich culture.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Dal Lake often referred to as?",
+        "answer": "Dal Lake is often referred to as the jewel of Srinagar.",
+        "expected_context": "Dal Lake, often referred to as the jewel of Srinagar, is a sprawling urban lake located in the heart of Kashmir, India.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the area of Dal Lake?",
+        "answer": "Dal Lake spans over 18 square kms.",
+        "expected_context": "Dal Lake, often referred to as the jewel of Srinagar, is a sprawling urban lake located in the heart of Kashmir, India. This iconic water body spans over 18 square kms and is integral to the tourism and economy of the region.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What supports the local commerce of Dal Lake?",
+        "answer": "Dal Lake supports local commerce through industries such as fishing and the harvesting of aquatic plants.",
+        "expected_context": "Affectionately referred to as the \"Lake of Flowers”, the lake is crucial for local commerce, supporting industries such as fishing and the harvesting of aquatic plants.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Shankaracharya Temple located?",
+        "answer": "Shankaracharya Temple is located on the hills of Srinagar.",
+        "expected_context": "High on the hills of Srinagar is Shankaracharya Temple, housing Lord Shiva as the main deity enshrined within a Shivalinga.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What deity is housed within Shankaracharya Temple?",
+        "answer": "Shankaracharya Temple houses Lord Shiva as the main deity enshrined within a Shivalinga.",
+        "expected_context": "High on the hills of Srinagar is Shankaracharya Temple, housing Lord Shiva as the main deity enshrined within a Shivalinga.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What are the other names for Shankaracharya Temple?",
+        "answer": "Shankaracharya Temple is also known as Jyoteshwar Temple or Pas-Bahar.",
+        "expected_context": "High on the hills of Srinagar is Shankaracharya Temple, housing Lord Shiva as the main deity enshrined within a Shivalinga. It sits proudly on the 1000-foot-high Gopadri Hill and is also known as Jyoteshwar Temple or Pas-Bahar.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is housed in Sri Pratap Singh Museum?",
+        "answer": "Sri Pratap Singh Museum houses Kashmir’s cultural and historical heritage.",
+        "expected_context": "In the heart of Srinagar, near Lal Mandi lies the treasure trove of Kashmir’s cultural and historical heritage called the Sri Pratap Singh Museum.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was the Sri Pratap Singh Museum started?",
+        "answer": "The journey of persevering and celebrating the Kashmiri heritage was started in 1898.",
+        "expected_context": "It was in 1898 that the journey of persevering and celebrating the Kashmiri heritage was started.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who commissioned Nishat Bagh and in what year?",
+        "answer": "Nishat Bagh was commissioned by Asif Khan in 1633 AD.",
+        "expected_context": "Nishat Bagh, a terraced garden paradise, is a testament to a bygone era's grandeur and elegance. Commissioned by Asif Khan, the elder brother of Nur Jahan, in 1633 AD, this \"Garden of Delight\" has captivated the hearts of emperors, poets, and travellers alike for centuries.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What do the terraces in Nishat Bagh symbolize?",
+        "answer": "The terraces symbolize the twelve signs of the Zodiac.",
+        "expected_context": "The terraces, rising one above the other, symbolize the twelve signs of the Zodiac, a celestial nod to the cosmic order and harmony that the Mughals sought to replicate on Earth.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who is Salim Ali National Park named after?",
+        "answer": "Salim Ali National Park is named after Dr. Salim Ali.",
+        "expected_context": "Amidst the picturesque landscapes of Srinagar, Jammu and Kashmir, Salim Ali National Park emerges as a sanctuary of ecological richness and avian diversity. Named after the revered ornithologist, Dr. Salim Ali, this protected area spans over 9.07 square kilometres, offering visitors a serene retreat into the heart of nature's splendour.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was Salim Ali National Park established?",
+        "answer": "Salim Ali National Park was established in 1986.",
+        "expected_context": "Established in 1986, Salim Ali National Park was named in honour of Dr. Salim Ali, a pioneering figure in Indian ornithology.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the holy relic at Hazratbal Mosque?",
+        "answer": "The holy relic at Hazratbal Mosque is known as Moi-e-Muqqadas – a strand of Prophet Muhammad's blessed beard.",
+        "expected_context": "It embraces the holy relic known as Moi-e-Muqqadas – a strand of Prophet Muhammad's blessed beard.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What are some other names for the Hazratbal Shrine?",
+        "answer": "Some other names for the Hazratbal Shrine are Assar-e-Sharief, Dargah Sharif, and Madinat-us-Sani.",
+        "expected_context": "Among this lies Hazratbal Shrine which is a symbol of unwavering faith and reverence for Muslims around the world. This masterpiece of marble is also known as Assar-e-Sharief, Dargah Sharif, and Madinat-us-Sani.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Mandi located?",
+        "answer": "Mandi is located in the Poonch district of the Indian Union Territory of Jammu and Kashmir.",
+        "expected_context": "Located in the Poonch district of the Indian Union Territory of Jammu and Kashmir, Mandi is a serene village nestled amidst the majestic Himalayan mountains.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who built Pari Mahal?",
+        "answer": "Pari Mahal was built by Shah Jahan’s eldest son Dara Shikoh.",
+        "expected_context": "It was built by Shah Jahan’s eldest son Dara Shikoh and was primarily used as a palatial residence for Prince Haano's son, Maano.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Pari Mahal located?",
+        "answer": "Pari Mahal is located on the Zabarwan mountain range.",
+        "expected_context": "If you wind your way up the ethereal Zabarwan mountain range, that stands guarding the city of Srinagar and the serene Dal Lake, you will find Pari Mahal or Palace of Fairies.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Nagin Lake known for?",
+        "answer": "Nagin Lake is known as a haven of tranquillity and natural beauty.",
+        "expected_context": "This serene water body, tucked away from the hustle and bustle of the city, is a haven of tranquillity and natural beauty.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who built Shalimar Bagh?",
+        "answer": "Shalimar Bagh was built by Emperor Jahangir for his wife, Empress Nur Jahan.",
+        "expected_context": "Shalimar Bagh, located in Srinagar, Jammu and Kashmir, is a stunning example of Mughal garden design and architecture. Built in the 17th century by Emperor Jahangir for his wife, Empress Nur Jahan, the garden is a masterpiece of symmetry, water features, and lush greenery, making it one of the most beautiful gardens in the world.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Yusmarg located?",
+        "answer": "Yusmarg is located in Jammu & Kashmir.",
+        "expected_context": "Imagine a hidden paradise tucked away in the embrace of the mighty Himalayas, where nature's beauty remains untouched and adventure beckons at every turn. Welcome to Yusmarg, a gem often overlooked in the crown of Jammu & Kashmir.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Dachigam National Park?",
+        "answer": "Dachigam National Park is a dreamy National Park in the Himalayas, 20 km away from Srinagar.",
+        "expected_context": "Imagine this – the majestic Himalayas - gorgeous and beckoning holding a dreamy National Park in its embrace. That is the Dachigam National Park, 20 km away from Srinagar.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What does Dachigam mean in Kashmiri?",
+        "answer": "Dachigam means 'ten villages' in Kashmiri.",
+        "expected_context": "It was when ‘ten villages’ were relocated to form a hunting reserve by the then Maharaja of Kashmir in 1910. That’s why it’s called Dachigam which is ‘ten villages’ in Kashmiri.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Wular Lake located?",
+        "answer": "Wular Lake is located in the Bandipora district of Jammu and Kashmir, near Srinagar.",
+        "expected_context": "Nestled in the Bandipora district of Jammu and Kashmir, near Srinagar, lies the magnificent Wular Lake - one of Asia's largest freshwater lakes and a true marvel of nature.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Wular Lake known for?",
+        "answer": "Wular Lake is known for its ability to transform with the seasons.",
+        "expected_context": "This expansive body of water is renowned not just for its overwhelming beauty, but also for its remarkable ability to transform with the seasons.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Kheer Bhawani Temple located?",
+        "answer": "Kheer Bhawani Temple is located in a beautiful, idyllic town called Tulla Mulla village near Srinagar.",
+        "expected_context": "In a beautiful, idyllic town called Tulla Mulla village near Srinagar is Kheer Bhawani Temple. The visit to this holy place is filled with serene devotion and spiritual grace.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who built Kheer Bhawani Temple?",
+        "answer": "Maharaja Pratap Singh built Kheer Bhawani Temple.",
+        "expected_context": "The beautiful, almost utopic place was built by Maharaja Pratap Singh who dreamt of a sanctuary that would honor Goddess Ragnya Devi.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Shah-I-Hamadan Mosque located?",
+        "answer": "Shah-I-Hamadan Mosque sits on the banks of the Jhelum River in Srinagar.",
+        "expected_context": "Shah-I-Hamadan Mosque sits on the banks of the Jhelum River in Srinagar. It is revered as one of the oldest and most sacred Muslim shrines in the region.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was Shah-I-Hamadan Mosque built?",
+        "answer": "Shah-I-Hamadan Mosque has been standing since 1395.",
+        "expected_context": "But it’s been standing since 1395, was rebuilt again in 1732, and is one of the finest examples of the merging of architectural influences from Buddhist, Hindu, and Islamic influences.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who ordered that Shah-I-Hamadan Mosque be made?",
+        "answer": "Sultan Sikander ordered that Shah-I-Hamadan Mosque be made.",
+        "expected_context": "This piece of brilliance was made by Sultan Sikander who reigned from 1389 to 1413 AD as a dedication to Mir Syed Ali Hamdan.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What kind of questions can I ask about any topic?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Who built the Ujjayanta Palace?",
+        "answer": "Maharaja Radha Kishore Manikya built the Ujjayanta Palace.",
+        "expected_context": "This palace was built by Maharaja Radha Kishore Manikya and stood proud amidst the bustling capital city.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What happened to the Ujjayanta Palace after Tripura became a state of India?",
+        "answer": "After Tripura became a state of India, the Tripura Government purchased the palace, and it became the State Legislative Assembly.",
+        "expected_context": "However, after Tripura became a state of India, the Tripura Government purchased the palace and it became the State Legislative Assembly.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How many acres do the expansive grounds surrounding the Ujjayanta Palace cover?",
+        "answer": "The expansive grounds cover 800 acres.",
+        "expected_context": "Enveloping the heart of Agartala, the expansive grounds cover 800 acres, offering a grand and awe-inspiring sight to behold.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What inspired Rabindranath Tagore regarding the Ujjayanta Palace?",
+        "answer": "The timeless charm of the Ujjayanta Palace inspired Rabindranath Tagore to name the palace and to pen his renowned poem, \"The Palace.\"",
+        "expected_context": "Such was its timeless charm that it not only inspired Nobel Laureate Rabindranath Tagore to name the palace but also to pen his renowned poem, \"The Palace.\"",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Describe the setting of the Ujjayanta Palace's garden.",
+        "answer": "The lush garden is adorned with pools and fountains and flanked by two large artificial ponds, creating a serene and picturesque setting.",
+        "expected_context": "The lush garden is adorned with pools and fountains and flanked by two large artificial ponds, creating a serene and picturesque setting.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why did the Ujjayanta Palace become the State Legislative Assembly?",
+        "answer": "After Tripura became a state of India, the Tripura Government purchased the palace and it became the State Legislative Assembly.",
+        "expected_context": "However, after Tripura became a state of India, the Tripura Government purchased the palace and it became the State Legislative Assembly.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "What is the area of the palace and its compound?",
+        "answer": "The palace is spread over one sq. km, and the palace’s compound stretches across approximately 250 acres.",
+        "expected_context": "Spread over one sq. km, this palace was built by Maharaja Radha Kishore Manikya and stood proud amidst the bustling capital city. The palace’s compound stretches across approximately 250 acres and boasts opulent public rooms such as the throne room, durbar hall, library, and reception hall.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What are some of the opulent public rooms found in the Ujjayanta Palace?",
+        "answer": "Some of the opulent public rooms include the throne room, durbar hall, library, and reception hall.",
+        "expected_context": "The palace’s compound stretches across approximately 250 acres and boasts opulent public rooms such as the throne room, durbar hall, library, and reception hall.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How did the Ujjayanta Palace transform after nightfall, according to the document?",
+        "answer": "As night falls, the palace comes alive under the enchanting glow of floodlights while fountains dance to a symphony of light and water.",
+        "expected_context": "As night falls, witness the palace come alive under the enchanting glow of floodlights while fountains dance to a symphony of light and water.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Can the Ujjayanta Palace be considered a good place to eat tacos?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Who created the Rock Garden?",
+        "answer": "Nek Chand created the Rock Garden.",
+        "expected_context": "Crafted by a former road inspector, Nek Chand, in 1957, this extraordinary garden is also known as Nek Chand's Rock Garden.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How many phases is the Rock Garden divided into?",
+        "answer": "The Rock Garden is divided into three distinct phases.",
+        "expected_context": "Meticulously divided into three distinct phases, each area unveils a unique collection of installations and embellishments, inviting you to embark on a journey through a world where terracotta pots, light fixtures, and even broken toilet pots are reimagined into extraordinary masterpieces.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What year was the Rock Garden created?",
+        "answer": "The Rock Garden was created in 1957.",
+        "expected_context": "Crafted by a former road inspector, Nek Chand, in 1957, this extraordinary garden is also known as Nek Chand's Rock Garden.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Rock Garden also known as?",
+        "answer": "The Rock Garden is also known as Nek Chand's Rock Garden.",
+        "expected_context": "Crafted by a former road inspector, Nek Chand, in 1957, this extraordinary garden is also known as Nek Chand's Rock Garden.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Approximately how many statues adorn the Rock Garden?",
+        "answer": "Over 5,000 statues adorn the Rock Garden.",
+        "expected_context": "With over 5,000 statues adorning its borders, the Rock Garden reflects the transformative power of art.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What types of discarded items are used to create art in the Rock Garden?",
+        "answer": "Terracotta pots, light fixtures, and broken toilet pots are some of the discarded items used to create art in the Rock Garden.",
+        "expected_context": "Meticulously divided into three distinct phases, each area unveils a unique collection of installations and embellishments, inviting you to embark on a journey through a world where terracotta pots, light fixtures, and even broken toilet pots are reimagined into extraordinary masterpieces.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the size of the Rock Garden?",
+        "answer": "The Rock Garden is spread across a massive 40-acre wonderland.",
+        "expected_context": "Spread across a massive 40-acre wonderland, this kaleidoscope of sculptures and a colourful mosaic of art pieces redefines the boundaries of creativity.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Before creating the Rock Garden, what was Nek Chand's occupation?",
+        "answer": "Nek Chand was a former road inspector.",
+        "expected_context": "Crafted by a former road inspector, Nek Chand, in 1957, this extraordinary garden is also known as Nek Chand's Rock Garden.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "In which city is the Rock Garden located?",
+        "answer": "The Rock Garden is located in Chandigarh.",
+        "expected_context": "Amid the modern marvels of Chandigarh's urban landscape, a hidden gem beckons those seeking an enchanting escape into a realm where discarded remnants are transformed into breathtaking works of art.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is celebrated in the open-air exhibition of Rock Garden?",
+        "answer": "The open-air exhibition in the Rock Garden is celebrating the best from waste.",
+        "expected_context": "It is an open-air exhibition celebrating the best from waste, where every turn unveils a fresh interpretation of the mundane elevated into the extraordinary.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Red Fort also known as?",
+        "answer": "The Red Fort is also known as Lal Qila.",
+        "expected_context": "Step back in time and immerse yourself in the grandeur of the Red Fort (or Lal Qila), Delhi's crown jewel and a UNESCO World Heritage site.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "In what year did Shah Jahan order the construction of the Red Fort?",
+        "answer": "Shah Jahan ordered the construction of the Red Fort in 1639.",
+        "expected_context": "In 1639, Shah Jahan decided to move his court from Agra to Delhi and ordered the Red Fort to be built as his majestic new home.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How long did the Red Fort serve as the residence of Mughal emperors?",
+        "answer": "The Red Fort served as the residence of Mughal emperors for almost 200 years.",
+        "expected_context": "It served as the residence of Mughal emperors for almost 200 years!",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What architectural styles influenced the design of the Red Fort?",
+        "answer": "The design of the Red Fort draws from Islamic traditions and seamlessly merges Persian, Timurid, and Hindu influences.",
+        "expected_context": "The palace's design draws from Islamic traditions, yet each pavilion showcases a unique blend of Mughal architecture, seamlessly merging Persian, Timurid, and Hindu influences.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who is credited with the design of the Red Fort?",
+        "answer": "Ustad Ahmad Lahori is credited with the design of the Red Fort.",
+        "expected_context": "The brilliance of its design is credited to the esteemed architect Ustad Ahmad Lahori, who also crafted the iconic Taj Mahal.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why was the Red Fort built?",
+        "answer": "The Red Fort was built as Shah Jahan's new home after he decided to move his court from Agra to Delhi.",
+        "expected_context": "In 1639, Shah Jahan decided to move his court from Agra to Delhi and ordered the Red Fort to be built as his majestic new home.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "What are some of the features that mesmerize visitors exploring the Red Fort?",
+        "answer": "Visitors are mesmerized by its red sandstone facade, intricate carvings, majestic arches, and breathtaking marble structures.",
+        "expected_context": "As you explore, you will be mesmerised by its red sandstone facade, intricate carvings, majestic arches, and breathtaking marble structures.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Nahr-i-Behisht?",
+        "answer": "The Nahr-i-Behisht is the 'Stream of Paradise' connecting the private apartments within the Red Fort.",
+        "expected_context": "Marvel at the intricate private apartments, a series of elegant pavilions connected by the enchanting Nahr-i-Behisht, or ‘Stream of Paradise.’",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How did the Red Fort's architecture impact other regions?",
+        "answer": "The innovative style of the Red Fort has left an indelible mark on architectural practices in Rajasthan, Delhi, Agra, and beyond.",
+        "expected_context": "This innovative style, coupled with its picturesque gardens, has left an indelible mark on architectural practices in Rajasthan, Delhi, Agra, and beyond.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Is the Red Fort located in Mumbai?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "According to Mark Twain, what is older than history?",
+        "answer": "According to Mark Twain, Benares is older than history, tradition, and even legend.",
+        "expected_context": "“Benares is older than history, older than tradition, older even than legend…” - Mark Twain, English author",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What river flows along the sacred banks of Varanasi?",
+        "answer": "The Ganga river flows along the sacred banks of Varanasi.",
+        "expected_context": "Along the sacred banks of the holy river Ganga, Varanasi (also known as Kashi or Banaras) stands as an ancient bastion of spirituality and devotion, with roots tracing back to over 3,500 years.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Why is Varanasi considered a mystical city according to Hindu mythology?",
+        "answer": "Varanasi is considered a mystical city because it is believed to be the very place where the world was created.",
+        "expected_context": "This mystical city holds great importance in Hindu mythology, as it is believed to be the very place where our world was created.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "Describe some of the sensory experiences one might encounter in Varanasi.",
+        "answer": "In Varanasi, one might encounter temple bells echoing through narrow alleyways, the sounds of daily life, the chants of priests, the sight of silk sarees, the fragrance of incense, and the aroma of street food.",
+        "expected_context": "In Varanasi, every sight, sound, and sensation blends to create an unforgettable journey into the heart of India's spirituality. Temple bells echo through narrow alleyways, mingling with the bustling sounds of daily life. Timeless chants of priests performing sacred rituals fall upon your ears like a magic spell. Silk sarees flutter in the bustling markets, inviting you to gaze at their mesmerising patterns. The fragrance of incense mingles with the mouthwatering aroma of freshly prepared street food, enticing visitors to indulge in culinary delights unique to this sacred city.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the significance of Dashashwamedh Ghat?",
+        "answer": "Dashashwamedh Ghat is a sacred riverfront that has stood witness to rituals and mythic enactments for hundreds of years and acts as a conduit between the divine and mortal worlds.",
+        "expected_context": "Behold the revered Dashashwamedh Ghat, a sacred riverfront that has stood witness to rituals and mythic enactments, for hundreds of years. Here, amidst the gentle lapping of holy waters, unfolds the grandeur of the Ganga Aarti, a spectacle that draws thousands of devotees. Steeped in the enchantment that comes alive during the timeless ritual, Dashashwamedh Ghat acts as a conduit between the divine and mortal worlds where prayers ascend to Gods in hopes of fruition.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who constructed Ramnagar Fort and in what style?",
+        "answer": "Ramnagar Fort was constructed in Mughal style by Kashi's ruler, Maharaja Balwant Singh.",
+        "expected_context": "Situated on the eastern bank of the river Ganga, opposite Tulsi Ghat, the 18th-century red sandstone fort was constructed in Mughal style by Kashi's ruler, Maharaja Balwant Singh.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What can visitors see when visiting Ramnagar Fort?",
+        "answer": "Visitors can see a breathtaking view of the river and its surrounding areas, a large courtyard with a lush garden, and antique cannons.",
+        "expected_context": "From the fort, you'll be treated to a breathtaking view of the river and its surrounding areas. Upon entering the large courtyard adorned with a lush garden and antique cannons, you'll feel transported to another era.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the legend associated with Assi Ghat and the Assi River?",
+        "answer": "The legend states that after defeating the monsters Shumbha and Nishumbha, Goddess Durga threw her sword away, and at the site where it struck the earth, the Assi River emerged.",
+        "expected_context": "Legend has it that after defeating the monsters Shumbha and Nishumbha, Goddess Durga threw her sword away. At the site where the weapon struck the earth, a stream emerged, which is known as the Assi River today.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What activities are performed at Assi Ghat in the early morning?",
+        "answer": "The activities performed at Assi Ghat in the early morning include the Subah-e-Banaras spiritual session with Vedic chants and prayers, followed by yoga and meditation.",
+        "expected_context": "The other reason, is of course, the soul-stirring Subah-e-Banaras, an early morning spiritual session featuring Vedic chants and prayers, followed by yoga and meditation.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What notable structures are located on the Banaras Hindu University campus?",
+        "answer": "Besides the university, the campus is home to the New Kashi Vishwanath Temple, the Bharat Kala Bhavan Museum, an airstrip, and other notable structures.",
+        "expected_context": "Besides the university, the campus is home to the New Kashi Vishwanath Temple, the fascinating Bharat Kala Bhavan Museum, an airstrip, and other notable structures, all spread over 1300 acres, making it a must-visit destination in the ancient city.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Who is the Tulsi Manas Temple dedicated to and who is it named after?",
+        "answer": "The Tulsi Manas Temple is dedicated to Lord Rama and named after the revered saint and poet Goswami Tulsidas.",
+        "expected_context": "The Tulsi Manas Temple in Varanasi is a testament to devotion and literary brilliance. The temple is dedicated to Lord Rama and named after the revered saint and poet Goswami Tulsidas.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What epic did Tulsidas write in the vicinity of the Tulsi Manas Temple?",
+        "answer": "Tulsidas penned the epic Ramcharitmanas in the vicinity of the Tulsi Manas Temple.",
+        "expected_context": "Legend has it that Tulsidas penned the epic Ramcharitmanas in the vicinity of this very temple during the 16th century AD.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What are some of the notable features of Kaimoor Wildlife Sanctuary?",
+        "answer": "Some of the notable features include waterfalls cascading through serene valleys, ancient cave paintings, and one of the oldest fossil parks with fossilised plants and animals estimated to be over 1400 million years old.",
+        "expected_context": "Within its boundaries are natural treasures, like the waterfalls cascading through serene valleys, the ancient cave paintings, and one of the oldest fossil parks with fossilised plants and animals estimated to be over 1400 million years old.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was the Dhamek Stupa built, and who commissioned the earlier structure it replaced?",
+        "answer": "The Dhamek Stupa was built in 500 CE, and the earlier structure was commissioned by Mauryan king Ashoka in 249 BCE.",
+        "expected_context": "Built in 500 CE, this 141-foot-tall stupa was made to replace an earlier structure commissioned by the illustrious Mauryan king, Ashoka, in 249 BCE.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Where is Rajghat located and what does it represent?",
+        "answer": "Rajghat is located on the northern outskirts of Varanasi, where the sacred waters of rivers Ganges and Varuna converge. The mounds of Rajghat represent an ancient settlement that once flourished in pre-Mauryan times.",
+        "expected_context": "Rajghat lies on the northern outskirts of Varanasi, where the sacred waters of rivers Ganges and Varuna converge. The mounds of Rajghat represent an ancient settlement that once flourished in pre-Mauryan times.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the origin of the name Chandra Prabha River, according to legend?",
+        "answer": "Legend has it that the Chandra Prabha River emerged from Lord Shiva's tears.",
+        "expected_context": "This sanctuary is named after the Chandra Prabha River, which means 'the luminescence of the moon'. Legend has it that the Chandra Prabha River emerged from Lord Shiva's tears.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "When was Chandra Prabha Wildlife Sanctuary established?",
+        "answer": "Chandra Prabha Wildlife Sanctuary was established in 1957.",
+        "expected_context": "In the early 18th century, this area became a hunting ground for the rulers of Varanasi but eventually, in 1957, the sanctuary was established here.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What earned Durga Temple the nickname 'monkey temple'?",
+        "answer": "The numerous monkeys in the Durga Temple vicinity earned it the nickname of ‘monkey temple’.",
+        "expected_context": "You may also be surprised by the numerous monkeys in the temple vicinity, which have earned it the nickname of ‘monkey temple’.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is unique about the statue of Goddess Durga inside the Durga Temple?",
+        "answer": "The statue of Goddess Durga in the temple was not crafted by human hands, rather it manifested on its own!",
+        "expected_context": "Enshrined within its hallowed walls is also a legend that says that the statue of Goddess Durga in the temple was not crafted by human hands, rather it manifested on its own!",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Manikarnika Ghat known for?",
+        "answer": "Manikarnika Ghat is known as one of the holiest sites for cremation in Hindu tradition.",
+        "expected_context": "Perched along the banks of the river Ganga lies Manikarnika Ghat, a powerful symbol of life and death, as it serves as one of the holiest sites for cremation in Hindu tradition.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Which king commissioned the Chunar Fort?",
+        "answer": "The Chunar Fort was commissioned by Maharaja Vikramaditya, king of Ujjain.",
+        "expected_context": "Located around 40 km from Varanasi, this town in Mirzapur district is adorned with historical treasures, including the Chunar Fort—an architectural masterpiece commissioned by Maharaja Vikramaditya, king of Ujjain.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Name some movies or shows filmed in Chunar.",
+        "answer": "Some movies and shows filmed in Chunar include ‘Chandrakanta’, ‘Gangs of Wasseypur,’ and ‘Mirzapur.’",
+        "expected_context": "From the 90s Doordarshan series ‘Chandrakanta’ to Bollywood hits like ‘Gangs of Wasseypur’ and popular shows like ‘Mirzapur,’ this stunning locale has hosted numerous film productions.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What does the Bharat Mata Temple contain?",
+        "answer": "The Bharat Mata Temple contains an incredible map of Akhand Bharat (pre-independence India) carved from the purest Makrana marble.",
+        "expected_context": "Step inside, and you will be awe-struck by an incredible map of Akhand Bharat (pre-independence India) carved from the purest Makrana marble that stretches nearly 10 meters across.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What does each inch on the map within Bharat Mata Temple correspond to?",
+        "answer": "Each inch on the map within the Bharat Mata Temple corresponds to approximately 6.4 miles of land.",
+        "expected_context": "Despite its size, this masterpiece is filled with intricate details, where each inch corresponds to approximately 6.4 miles of land.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How does the text describe the Ramnagar Fort compared to the Assi Ghat?",
+        "answer": "The Ramnagar Fort is described as majestic and captivating with its grandeur, a testament to Varanasi's rich cultural past, while Assi Ghat is described as a haven of tranquility steeped in legend.",
+        "expected_context": "Step back in time as you enter the majestic Ramnagar Fort which stands as a testament to Varanasi's rich cultural past. [...] While exploring the storied ghats on the banks of the river Ganga, go to the southernmost end and you will arrive at the enchanting Assi Ghat where the river Assi meets Ganga.",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "Why might someone visit Varanasi?",
+        "answer": "One might visit Varanasi to experience its spirituality, witness ancient rituals, explore historical sites, and enrich their mind, body, and soul.",
+        "expected_context": "In Varanasi, every sight, sound, and sensation blends to create an unforgettable journey into the heart of India's spirituality. [...] This is not just a city, it is an enchantment that holds the power to enrich your mind, body, and soul. Welcome, traveller, to Varanasi.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "List three rivers that pass through Uttar Pradesh.",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    },
+    {
+        "question": "Where is Serchhip located?",
+        "answer": "Serchhip is located in the heart of Mizoram.",
+        "expected_context": "In the heart of Mizoram, where the hills cradle secrets and the rivers hum forgotten ballads, Serchhip is a whispered invitation—a secret shared among the wind, the birds, and those who seek solace in the ordinary.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is Vantawng Khawthla?",
+        "answer": "Vantawng Khawthla is Mizoram's highest and most spectacular waterfall.",
+        "expected_context": "Located in the serene Serchhip district, approximately 137 kilometres from Aizawl, Vantawng Khawthla is Mizoram's highest and most spectacular waterfall.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "How high is Vantawng Khawthla?",
+        "answer": "Vantawng Khawthla plunges from a height of about 230 metres.",
+        "expected_context": "The waterfall plunges from a height of about 230 metres, making it one of the most remarkable natural features in the region.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What surrounds Vantawng Khawthla?",
+        "answer": "Vantawng Khawthla is surrounded by dense bamboo forests.",
+        "expected_context": "Surrounded by dense bamboo forests typical of the hills of Mizoram, Vantawng Khawthla offers a refreshing escape into nature's embrace.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the Phawngpui Blue Mountain also known as?",
+        "answer": "The Phawngpui Blue Mountain is also known as the Blue Mountain.",
+        "expected_context": "Nestled in the heart of Mizoram, Phawngpui Blue Mountain National Park, also known as the Blue Mountain, stands tall as the highest peak in the state.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What river does Phawngpui National Park overlook?",
+        "answer": "Phawngpui National Park overlooks the majestic River Chhimtuipui.",
+        "expected_context": "Overlooking the majestic River Chhimtuipui, this national park is a haven for nature lovers and adventure seekers alike.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What can visitors expect to find in Phawngpui National Park?",
+        "answer": "Visitors can expect to find a rich variety of flora and fauna, and a multitude of butterflies in Phawngpui National Park.",
+        "expected_context": "With a rich variety of flora and fauna, and a multitude of butterflies, the park offers a mesmerising experience that will leave you in awe.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Is Serchhip a well-known tourist destination?",
+        "answer": "Serchhip is one of the world's most enchanting yet lesser-known travel destinations.",
+        "expected_context": "Nestled amid serene landscapes, Serchhip remains one of the world's most enchanting yet lesser-known travel destinations.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "Compare and contrast the attractions of Serchhip and Phawngpui National Park.",
+        "answer": "Serchhip offers untouched beauty, tranquil surroundings, and rich cultural heritage, while Phawngpui National Park provides a rich variety of flora and fauna and overlooks the River Chhimtuipui.",
+        "expected_context": "This picturesque locale captivates visitors with its untouched beauty, tranquil surroundings, and rich cultural heritage. ... With a rich variety of flora and fauna, and a multitude of butterflies, the park offers a mesmerising experience that will leave you in awe. Overlooking the majestic River Chhimtuipui, this national park is a haven for nature lovers and adventure seekers alike.",
+        "question_type": "Comparative"
+    },
+    {
+        "question": "Why is Vantawng Khawthla a refreshing escape?",
+        "answer": "Vantawng Khawthla is a refreshing escape because it is surrounded by dense bamboo forests and offers a chance to immerse oneself in nature's embrace.",
+        "expected_context": "Surrounded by dense bamboo forests typical of the hills of Mizoram, Vantawng Khawthla offers a refreshing escape into nature's embrace.",
+        "question_type": "Causal"
+    },
+    {
+        "question": "How far away is Vantawng Khawthla from Aizawl?",
+        "answer": "Vantawng Khawthla is approximately 137 kilometres from Aizawl.",
+        "expected_context": "Located in the serene Serchhip district, approximately 137 kilometres from Aizawl, Vantawng Khawthla is Mizoram's highest and most spectacular waterfall.",
+        "question_type": "Fact-based"
+    },
+    {
+        "question": "What is the main draw of the Phawngpui Blue Mountain National Park, according to the document?",
+        "answer": "The Phawngpui Blue Mountain National Park's main draw is its rich variety of flora and fauna, including a multitude of butterflies, offering a mesmerizing experience.",
+        "expected_context": "With a rich variety of flora and fauna, and a multitude of butterflies, the park offers a mesmerising experience that will leave you in awe.",
+        "question_type": "Complex"
+    },
+    {
+        "question": "What is the capital of Serchhip?",
+        "answer": "This question cannot be answered based on the given document.",
+        "expected_context": "",
+        "question_type": "Edge Case"
+    }
+]

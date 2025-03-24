@@ -1,0 +1,56 @@
+2025-03-24 12:08:12 - ERROR: Error initializing retriever: Retriever error
+2025-03-24 12:08:12 - ERROR: Error initializing chatbot: Retriever error
+2025-03-24 12:11:04 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:11:04 - INFO: Chatbot initialized successfully!
+2025-03-24 12:11:04 - ERROR: Error processing question '  ': Question cannot be empty.
+2025-03-24 12:11:04 - INFO: Chatbot initialized successfully!
+2025-03-24 12:11:04 - ERROR: Error initializing embeddings: Embeddings error
+2025-03-24 12:11:04 - ERROR: Error initializing chatbot: Embeddings error
+2025-03-24 12:11:04 - ERROR: Error initializing LLM: LLM error
+2025-03-24 12:11:04 - ERROR: Error initializing chatbot: LLM error
+2025-03-24 12:11:04 - ERROR: Error initializing RAG chain: RAG chain error
+2025-03-24 12:11:04 - ERROR: Error initializing chatbot: RAG chain error
+2025-03-24 12:11:04 - ERROR: Error initializing retriever: Retriever error
+2025-03-24 12:11:04 - ERROR: Error initializing chatbot: Retriever error
+2025-03-24 12:11:04 - INFO: Chatbot initialized successfully!
+2025-03-24 12:21:08 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:24:01 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:26:12 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:26:39 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:28:42 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:30:07 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:35:02 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:36:58 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:37:38 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:38:26 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:44:03 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:44:52 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:46:19 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:47:06 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:47:53 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:49:36 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:51:13 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:53:38 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:55:01 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-24 12:58:03 - INFO: Chatbot initialized successfully!
+----------------------------------------
