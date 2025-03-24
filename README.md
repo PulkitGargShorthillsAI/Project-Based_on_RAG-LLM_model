@@ -43,24 +43,34 @@ GlobeGuide AI is an advanced travel assistant chatbot that leverages Retrieval-A
 
 ---
 
-## 📊 Evaluation Parameters
+## 📊 Evaluation Parameters  
 
-GlobeGuide AI evaluates chatbot performance using BERTScore, which compares the generated responses with the expected answers based on:
+GlobeGuide AI evaluates chatbot performance using **BERTScore**, **NLI-based Similarity**, and **Cosine Similarity** to compare the generated responses with expected answers.  
 
-- **Precision (P)**: Measures how many relevant words from the actual answer are present in the generated response.
+### **1️⃣ BERTScore Metrics**
+- **Precision (P)**: Measures how many relevant words from the actual answer are present in the generated response.  
+- **Recall (R)**: Measures how many words from the generated response match the actual answer.  
+- **F1-Score**: The harmonic mean of Precision and Recall, providing an overall effectiveness score.  
 
-- **Recall (R)**: Measures how many words from the generated response match the actual answer.
+### **2️⃣ NLI-Based Similarity**  
+Natural Language Inference (NLI) helps determine the relationship between the expected and generated answers:  
+- **Entailment**: The generated response strongly supports the expected answer.  
+- **Contradiction**: The generated response contradicts the expected answer.  
+- **Neutrality**: The generated response is neither supporting nor contradicting the expected answer.  
 
-- **F1-Score**: The harmonic mean of Precision and Recall, providing an overall effectiveness score.
+### **3️⃣ Cosine Similarity**  
+- Measures the semantic similarity between the generated and expected answers by comparing their vector representations.  
+- Helps understand how closely the generated response matches the expected answer in meaning.  
 
-These metrics help improve the chatbot’s accuracy and relevance over time.
+These evaluation metrics help fine-tune GlobeGuide AI, improving accuracy, relevance, and overall chatbot performance. 🚀  
 
 
 
 ---
 
 ## 🖼️ UI Screenshots
-![Screenshot from 2025-03-17 14-56-03](https://github.com/user-attachments/assets/17561a51-7c0f-405b-981f-44d872b5dbd3)
+![chatbot_UI](https://github.com/user-attachments/assets/7565ab1c-20ae-41b7-9485-2b2be29b0867)
+
 
 
 ---
