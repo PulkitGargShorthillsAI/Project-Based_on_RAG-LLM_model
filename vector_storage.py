@@ -15,7 +15,7 @@ PINECONE_API_KEY = os.getenv("PINECONE_API")
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 
 # Define log file path
-LOG_FILE = "logging/log_queries.log"
+LOG_FILE = "logging/test_log_queries.log"
 
 def write_log(message, error=False):
     """Writes log messages with timestamps. Errors are marked separately."""

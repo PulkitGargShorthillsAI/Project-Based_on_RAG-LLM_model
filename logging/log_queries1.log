@@ -10083,3 +10083,15 @@ F1: 0.40276849269866943
 CS: 0.2499495054408202
 2025-03-23 17:23:55 - INFO: Successfully evaluated: What is the story behind Tughlaqabad Fort?
 ----------------------------------------
+2025-03-24 23:35:42 - ERROR: Error evaluating response 'Test response': 'list' object has no attribute 'tolist'
+2025-03-24 23:35:42 - ERROR: Error getting response for question 'What is AI?': Invalid response format: {'wrong_key': 'No answer'}
+2025-03-24 23:35:48 - INFO: Successfully evaluated: What is AI?
+----------------------------------------
+2025-03-24 23:36:36 - ERROR: Error evaluating response 'Test answer': BERTScore error
+2025-03-24 23:36:36 - ERROR: Error getting response for question 'What is AI?': Processing error
+2025-03-24 23:36:42 - INFO: Successfully evaluated: What is AI?
+----------------------------------------
+2025-03-24 23:37:35 - ERROR: Error evaluating response 'Test answer': BERTScore error
+2025-03-24 23:37:35 - ERROR: Error getting response for question 'What is AI?': Processing error
+2025-03-24 23:37:41 - INFO: Successfully evaluated: What is AI?
+----------------------------------------

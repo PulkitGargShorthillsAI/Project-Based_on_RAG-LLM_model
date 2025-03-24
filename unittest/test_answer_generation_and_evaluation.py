@@ -52,7 +52,7 @@ class TestChatbotEvaluator(unittest.TestCase):
         self.evaluator.log_file = log_file
         self.evaluator.log_file_csv = log_csv
         
-        self.evaluator.log_interaction("What is AI?", "Actual answer", "Test answer", 0.9, 0.85, 0.87)
+        self.evaluator.log_interaction("What is AI?", "Actual answer", "Test answer", 0.9, 0.85, 0.87,0.9)
         
         with open(log_file, "r") as file:
             content = file.read()
@@ -61,7 +61,7 @@ class TestChatbotEvaluator(unittest.TestCase):
         with open(log_csv, "r") as file:
             reader = csv.reader(file)
             rows = list(reader)
-            self.assertEqual(rows[-1], ["What is AI?", "Actual answer", "Test answer", "0.9", "0.85", "0.87"])
+            self.assertEqual(rows[-1], ["What is AI?", "Actual answer", "Test answer", "0.9", "0.85", "0.87",'0.9'])
         
         os.remove(log_file)
         os.remove(log_csv)

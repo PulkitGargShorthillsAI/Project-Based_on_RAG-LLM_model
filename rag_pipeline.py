@@ -8,7 +8,7 @@ from langchain.chains.retrieval import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 
 # Define log file path
-LOG_FILE = "logging/test_log_queries.log"
+LOG_FILE = "logging/log_queries2.log"
 
 def write_log(message, error=False):
     """Writes log messages with timestamps. Errors are marked separately."""
@@ -21,7 +21,7 @@ class ChatbotRAG:
     def __init__(self, index_name: str):
         try:
             load_dotenv()
-            self.gemini_api_key = os.getenv("GEMINI_API_PGARG")
+            self.gemini_api_key = os.getenv("GEMINI_API1")
             self.pinecone_api_key = os.getenv("PINECONE_API")
             os.environ["PINECONE_API_KEY"] = self.pinecone_api_key
 
@@ -66,7 +66,7 @@ class ChatbotRAG:
     def _initialize_llm(self):
         try:
             return ChatGoogleGenerativeAI(
-                model="gemini-2.0-flash",
+                model="gemini-1.5-flash",
                 api_key=self.gemini_api_key
             )
         except Exception as e:

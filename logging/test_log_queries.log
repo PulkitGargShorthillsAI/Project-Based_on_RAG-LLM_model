@@ -54,3 +54,614 @@
 ----------------------------------------
 2025-03-24 12:58:03 - INFO: Chatbot initialized successfully!
 ----------------------------------------
+2025-03-24 17:09:13 - ERROR: Error initializing chatbot: API keys are missing. Check your .env file.
+2025-03-24 17:09:13 - ERROR: Unhandled error in main executio)n: API keys are missing. Check your .env file.
+----------------------------------------
+2025-03-24 23:22:01 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:22:02 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:22:03 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '6ffb5e0810ce4a02b6e812c755c3827d', 'date': 'Mon, 24 Mar 2025 17:52:03 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:03 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '6ffb5e0810ce4a02b6e812c755c3827d', 'date': 'Mon, 24 Mar 2025 17:52:03 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:03 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:22:04 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:22:04 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '160c2c545073631443e2d21b29de417b', 'date': 'Mon, 24 Mar 2025 17:52:04 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:04 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '160c2c545073631443e2d21b29de417b', 'date': 'Mon, 24 Mar 2025 17:52:04 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:04 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:22:06 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:22:06 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '0a7853f38a2829b7c1f93ba8e6a4b3e3', 'date': 'Mon, 24 Mar 2025 17:52:06 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:06 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '0a7853f38a2829b7c1f93ba8e6a4b3e3', 'date': 'Mon, 24 Mar 2025 17:52:06 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:06 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:22:07 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:22:07 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '57ef47cdbef6020fbeadaee872cb4e6f', 'date': 'Mon, 24 Mar 2025 17:52:07 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:07 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '57ef47cdbef6020fbeadaee872cb4e6f', 'date': 'Mon, 24 Mar 2025 17:52:07 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:07 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:22:08 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:22:08 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '003db3c3c8d6675210c2904b347556db', 'date': 'Mon, 24 Mar 2025 17:52:08 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:08 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '003db3c3c8d6675210c2904b347556db', 'date': 'Mon, 24 Mar 2025 17:52:08 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:08 - ERROR: Error loading text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:22:08 - ERROR: Error processing text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:22:08 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:22:09 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:22:09 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'b94799c732a1ec0a8e7834bc44fd67df', 'date': 'Mon, 24 Mar 2025 17:52:09 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:09 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'b94799c732a1ec0a8e7834bc44fd67df', 'date': 'Mon, 24 Mar 2025 17:52:09 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:09 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:22:10 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:22:11 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '69bdbf78444ce05b500f4d0904b4b94d', 'date': 'Mon, 24 Mar 2025 17:52:11 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:11 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '69bdbf78444ce05b500f4d0904b4b94d', 'date': 'Mon, 24 Mar 2025 17:52:11 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:11 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:22:18 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:22:18 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '48f04a087203b32f82cf6df553308897', 'date': 'Mon, 24 Mar 2025 17:52:18 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:18 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '48f04a087203b32f82cf6df553308897', 'date': 'Mon, 24 Mar 2025 17:52:18 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:22:18 - ERROR: Test error message
+2025-03-24 23:22:18 - INFO: Test info message
+2025-03-24 23:23:51 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:23:53 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:23:54 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '94f6032e84fdd0add42f017fa1b9c351', 'date': 'Mon, 24 Mar 2025 17:53:54 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:23:54 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '94f6032e84fdd0add42f017fa1b9c351', 'date': 'Mon, 24 Mar 2025 17:53:54 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:23:54 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:23:56 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:23:57 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '92d57bb9a9d8ed5e344c86a5bc62a9a7', 'date': 'Mon, 24 Mar 2025 17:53:57 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:23:57 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '92d57bb9a9d8ed5e344c86a5bc62a9a7', 'date': 'Mon, 24 Mar 2025 17:53:57 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:23:57 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:23:58 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:23:58 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '89b81f336eca462687c416998edf1479', 'date': 'Mon, 24 Mar 2025 17:53:58 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:23:58 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '89b81f336eca462687c416998edf1479', 'date': 'Mon, 24 Mar 2025 17:53:58 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:23:58 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:23:59 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:24:00 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'f39b12ef1ece38cf10d4c3625904bf49', 'date': 'Mon, 24 Mar 2025 17:54:00 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:00 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'f39b12ef1ece38cf10d4c3625904bf49', 'date': 'Mon, 24 Mar 2025 17:54:00 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:00 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:24:01 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:24:02 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '11fbf9b1bc833594a615a2c2be4d9158', 'date': 'Mon, 24 Mar 2025 17:54:02 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:02 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '11fbf9b1bc833594a615a2c2be4d9158', 'date': 'Mon, 24 Mar 2025 17:54:02 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:02 - ERROR: Error loading text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:24:02 - ERROR: Error processing text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:24:02 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:24:03 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:24:04 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '556f2a293ca760651d196801906c1400', 'date': 'Mon, 24 Mar 2025 17:54:04 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:04 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '556f2a293ca760651d196801906c1400', 'date': 'Mon, 24 Mar 2025 17:54:04 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:04 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:24:05 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:24:05 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '397b0a585e78d30a95fc86adbc2cf797', 'date': 'Mon, 24 Mar 2025 17:54:05 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:05 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '397b0a585e78d30a95fc86adbc2cf797', 'date': 'Mon, 24 Mar 2025 17:54:05 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:05 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:24:06 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:24:07 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '9c00a88ee57e3195903e49d284254a1f', 'date': 'Mon, 24 Mar 2025 17:54:07 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:07 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '9c00a88ee57e3195903e49d284254a1f', 'date': 'Mon, 24 Mar 2025 17:54:07 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:24:07 - ERROR: Test error message
+2025-03-24 23:24:07 - INFO: Test info message
+2025-03-24 23:25:41 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:25:43 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:25:43 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '49801b75a1c73ad23579ff4f35d02919', 'date': 'Mon, 24 Mar 2025 17:55:43 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:43 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '49801b75a1c73ad23579ff4f35d02919', 'date': 'Mon, 24 Mar 2025 17:55:43 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:43 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:25:45 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:25:46 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'cc5c7cb46b37ed4ac2e57185f56809bf', 'date': 'Mon, 24 Mar 2025 17:55:46 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:46 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'cc5c7cb46b37ed4ac2e57185f56809bf', 'date': 'Mon, 24 Mar 2025 17:55:46 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:46 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:25:47 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:25:47 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '2bcf8057fff3b07221f072c11f009b0d', 'date': 'Mon, 24 Mar 2025 17:55:47 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:47 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '2bcf8057fff3b07221f072c11f009b0d', 'date': 'Mon, 24 Mar 2025 17:55:47 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:47 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:25:48 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:25:49 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '77d52e2aa5dfccdbd276254c5c8dbc7b', 'date': 'Mon, 24 Mar 2025 17:55:49 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:49 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '77d52e2aa5dfccdbd276254c5c8dbc7b', 'date': 'Mon, 24 Mar 2025 17:55:49 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:49 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:25:50 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:25:51 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'ac620a7c94a8e127d047df41e0b42802', 'date': 'Mon, 24 Mar 2025 17:55:51 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:51 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'ac620a7c94a8e127d047df41e0b42802', 'date': 'Mon, 24 Mar 2025 17:55:51 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:51 - ERROR: Error loading text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:25:51 - ERROR: Error processing text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:25:51 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:25:52 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:25:53 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '3cc2eabfdf47fb46bc7158a36123f628', 'date': 'Mon, 24 Mar 2025 17:55:53 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:53 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '3cc2eabfdf47fb46bc7158a36123f628', 'date': 'Mon, 24 Mar 2025 17:55:53 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:53 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:25:54 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:25:55 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'cde05afbb5016465780dbaf07679be2a', 'date': 'Mon, 24 Mar 2025 17:55:55 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:55 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'cde05afbb5016465780dbaf07679be2a', 'date': 'Mon, 24 Mar 2025 17:55:55 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:55 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:25:57 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:25:57 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '8adcf7a299cecf2434ac9909a57cede5', 'date': 'Mon, 24 Mar 2025 17:55:57 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:57 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '8adcf7a299cecf2434ac9909a57cede5', 'date': 'Mon, 24 Mar 2025 17:55:57 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:25:57 - ERROR: Test error message
+2025-03-24 23:25:57 - INFO: Test info message
+2025-03-24 23:26:36 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:26:38 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:26:38 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '7d82fd50d95a23c56b13c29bc137399f', 'date': 'Mon, 24 Mar 2025 17:56:38 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:38 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '7d82fd50d95a23c56b13c29bc137399f', 'date': 'Mon, 24 Mar 2025 17:56:38 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:38 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:26:40 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:26:41 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'c16b8f892b4f5680668b8d29b1f0f13f', 'date': 'Mon, 24 Mar 2025 17:56:40 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:41 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'c16b8f892b4f5680668b8d29b1f0f13f', 'date': 'Mon, 24 Mar 2025 17:56:40 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:41 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:26:42 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:26:42 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '2da35e97c180a413f41f771640daab17', 'date': 'Mon, 24 Mar 2025 17:56:42 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:42 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '2da35e97c180a413f41f771640daab17', 'date': 'Mon, 24 Mar 2025 17:56:42 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:42 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:26:44 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:26:45 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'e7f2d40444a9d920460e2d12c0263394', 'date': 'Mon, 24 Mar 2025 17:56:44 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:45 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'e7f2d40444a9d920460e2d12c0263394', 'date': 'Mon, 24 Mar 2025 17:56:44 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:45 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:26:47 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:26:48 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '303f1d6df455397915e7945888870f8e', 'date': 'Mon, 24 Mar 2025 17:56:47 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:48 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '303f1d6df455397915e7945888870f8e', 'date': 'Mon, 24 Mar 2025 17:56:47 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:48 - ERROR: Error loading text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:26:48 - ERROR: Error processing text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:26:48 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:26:49 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:26:50 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'eb9c8a378e3b5b3b5ba23b61ec674b38', 'date': 'Mon, 24 Mar 2025 17:56:50 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:50 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'eb9c8a378e3b5b3b5ba23b61ec674b38', 'date': 'Mon, 24 Mar 2025 17:56:50 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:50 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:26:52 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:26:53 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'd0ff71e0d8ba427b5d1eecfd0a82069c', 'date': 'Mon, 24 Mar 2025 17:56:53 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:53 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'd0ff71e0d8ba427b5d1eecfd0a82069c', 'date': 'Mon, 24 Mar 2025 17:56:53 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:53 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:26:54 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:26:55 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '355f873439028d2a64f876c21bc8b943', 'date': 'Mon, 24 Mar 2025 17:56:54 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:55 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '355f873439028d2a64f876c21bc8b943', 'date': 'Mon, 24 Mar 2025 17:56:54 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:26:55 - ERROR: Test error message
+2025-03-24 23:26:55 - INFO: Test info message
+2025-03-24 23:27:34 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:36 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:36 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '17b067c30282535fd2e8f1d0c9ce592b', 'date': 'Mon, 24 Mar 2025 17:57:36 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:36 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '17b067c30282535fd2e8f1d0c9ce592b', 'date': 'Mon, 24 Mar 2025 17:57:36 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:36 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:38 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:38 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '1992b66693e5644814575cd131d08ec2', 'date': 'Mon, 24 Mar 2025 17:57:38 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:38 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '1992b66693e5644814575cd131d08ec2', 'date': 'Mon, 24 Mar 2025 17:57:38 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:38 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:39 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:39 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '89f6e1400b60a0e59e0b1a78d980f156', 'date': 'Mon, 24 Mar 2025 17:57:39 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:39 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '89f6e1400b60a0e59e0b1a78d980f156', 'date': 'Mon, 24 Mar 2025 17:57:39 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:39 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:40 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:41 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '734a07ddc237877744ea1d6d11bed884', 'date': 'Mon, 24 Mar 2025 17:57:40 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:41 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '734a07ddc237877744ea1d6d11bed884', 'date': 'Mon, 24 Mar 2025 17:57:40 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:41 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:42 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:43 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '56ac2d2a0377b16e8f2170cdb0f8e51f', 'date': 'Mon, 24 Mar 2025 17:57:43 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:43 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '56ac2d2a0377b16e8f2170cdb0f8e51f', 'date': 'Mon, 24 Mar 2025 17:57:43 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:43 - ERROR: Error loading text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:27:43 - ERROR: Error processing text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:27:43 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:45 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:45 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'ba57d4f16ecc396d31ab15cf08938877', 'date': 'Mon, 24 Mar 2025 17:57:45 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:45 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'ba57d4f16ecc396d31ab15cf08938877', 'date': 'Mon, 24 Mar 2025 17:57:45 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:45 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:46 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:47 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'c3065bb08c327024834107d13f3d6013', 'date': 'Mon, 24 Mar 2025 17:57:47 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:47 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'c3065bb08c327024834107d13f3d6013', 'date': 'Mon, 24 Mar 2025 17:57:47 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:47 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:48 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:49 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'df62ec5969c34593fa0983f8419209ac', 'date': 'Mon, 24 Mar 2025 17:57:48 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:49 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'df62ec5969c34593fa0983f8419209ac', 'date': 'Mon, 24 Mar 2025 17:57:48 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:49 - ERROR: Test error message
+2025-03-24 23:27:49 - INFO: Test info message
+2025-03-24 23:27:54 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:56 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:56 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '2762c1f7bddc46db93093d41471d26a6', 'date': 'Mon, 24 Mar 2025 17:57:56 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:56 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '2762c1f7bddc46db93093d41471d26a6', 'date': 'Mon, 24 Mar 2025 17:57:56 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:56 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:27:58 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:27:58 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '13283e9e7efda80b923a0b78574257af', 'date': 'Mon, 24 Mar 2025 17:57:58 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:58 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '13283e9e7efda80b923a0b78574257af', 'date': 'Mon, 24 Mar 2025 17:57:58 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:27:58 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:28:00 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:28:00 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'd73272af299a6c22dbf23a7f71f31b04', 'date': 'Mon, 24 Mar 2025 17:58:00 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:00 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'd73272af299a6c22dbf23a7f71f31b04', 'date': 'Mon, 24 Mar 2025 17:58:00 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:00 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:28:01 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:28:02 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '74ed6059300ee7f5d6816c715ffca97b', 'date': 'Mon, 24 Mar 2025 17:58:02 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:02 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '74ed6059300ee7f5d6816c715ffca97b', 'date': 'Mon, 24 Mar 2025 17:58:02 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:02 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:28:04 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:28:04 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'b6de95c6abe5b62092be95440cea28e2', 'date': 'Mon, 24 Mar 2025 17:58:04 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:04 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'b6de95c6abe5b62092be95440cea28e2', 'date': 'Mon, 24 Mar 2025 17:58:04 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:04 - ERROR: Error loading text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:28:04 - ERROR: Error processing text files: Directory not found: 'non_existent_folder'
+2025-03-24 23:28:04 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:28:05 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:28:05 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '76120bf181dc072fe1fe8f4d2bec6a9a', 'date': 'Mon, 24 Mar 2025 17:58:05 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:05 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '76120bf181dc072fe1fe8f4d2bec6a9a', 'date': 'Mon, 24 Mar 2025 17:58:05 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:05 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:28:06 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:28:07 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '89d84e68594e8ee5a965945c1d799ac9', 'date': 'Mon, 24 Mar 2025 17:58:07 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:07 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': '89d84e68594e8ee5a965945c1d799ac9', 'date': 'Mon, 24 Mar 2025 17:58:07 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:07 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:28:10 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:28:11 - ERROR: Error initializing index 'test_index': (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'cfabc19ba21dbe1c696b4d7668164eb4', 'date': 'Mon, 24 Mar 2025 17:58:10 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:11 - ERROR: Failed to initialize PineconeHandler: (400)
+Reason: Bad Request
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'x-pinecone-api-version': '2024-07', 'x-cloud-trace-context': 'cfabc19ba21dbe1c696b4d7668164eb4', 'date': 'Mon, 24 Mar 2025 17:58:10 GMT', 'server': 'Google Frontend', 'Content-Length': '125', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"INVALID_ARGUMENT","message":"Name must consist of lower case alphanumeric characters or '-'"},"status":400}
+
+2025-03-24 23:28:11 - ERROR: Test error message
+2025-03-24 23:28:11 - INFO: Test info message
+2025-03-24 23:31:15 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:31:15 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:31:15 - INFO: Current index contains 10 vectors.
+2025-03-24 23:31:15 - ERROR: Failed to initialize PineconeHandler: Pinecone init failed
+2025-03-24 23:31:15 - INFO: Checking if Pinecone index 'test_index' exists...
+2025-03-24 23:31:15 - INFO: Creating a new Pinecone index: test_index
+2025-03-24 23:31:15 - INFO: Uploading documents to Pinecone...
+2025-03-24 23:31:15 - INFO: Documents successfully stored in Pinecone.
