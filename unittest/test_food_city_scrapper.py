@@ -6,7 +6,7 @@ import requests
 from bs4 import BeautifulSoup
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__),'..')))
-from scrapping.food_city_scrapper import FoodCityScraper  # Replace 'scrapping' if needed
+from scrapping.food_city_scrapper import FoodCityScraper
 
 class TestFoodCityScraper(unittest.TestCase):
 

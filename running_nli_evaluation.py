@@ -106,39 +106,32 @@ class ChatbotEvaluator:
 
 
 
-
-
-
     def run_evaluation(self):
         """Runs the chatbot evaluation for all questions and logs errors if they occur."""
         try:
             json_filename = "golden_dataset_generation/merged.json"
             with open(json_filename, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            i = 0
             for question_data in data:
                 try:
-                    if i >= 450:
-                        question = question_data.get('question', '').strip()
-                        actual_answer = question_data.get('answer', '').strip()
+                    question = question_data.get('question', '').strip()
+                    actual_answer = question_data.get('answer', '').strip()
 
-                        if not question:
-                            raise ValueError("Question is missing or empty.")
+                    if not question:
+                        raise ValueError("Question is missing or empty.")
 
-                        generated_answer = self.get_response(question)
-                        time.sleep(6)  # Prevent rate limiting
-                        
-                        P, R, F1 = self.evaluate_response(generated_answer, actual_answer)
-
-                        CS = self.calculate_cosine_similarity(generated_answer, actual_answer)
-
-                        NC,NN,NE = self.classify_nli(generated_answer,actual_answer)
-                        self.log_interaction(question, actual_answer, generated_answer, P, R, F1,CS,NC,NN,NE)
-                        
-                        print(f"Evaluated: {question}")
-                        write_log(f"Successfully evaluated: {question}")
+                    generated_answer = self.get_response(question)
+                    time.sleep(6)  # Prevent rate limiting
                     
-                    i += 1
+                    P, R, F1 = self.evaluate_response(generated_answer, actual_answer)
+
+                    CS = self.calculate_cosine_similarity(generated_answer, actual_answer)
+
+                    NC,NN,NE = self.classify_nli(generated_answer,actual_answer)
+                    self.log_interaction(question, actual_answer, generated_answer, P, R, F1,CS,NC,NN,NE)
+                    
+                    print(f"Evaluated: {question}")
+                    write_log(f"Successfully evaluated: {question}")
                 except Exception as e:
                     write_log(f"Error evaluating question '{question}': {str(e)}", error=True)
                 with open(LOG_FILE, "a") as log_file:

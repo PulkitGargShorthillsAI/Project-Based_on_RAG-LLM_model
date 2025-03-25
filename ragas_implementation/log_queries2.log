@@ -1,0 +1,21 @@
+2025-03-25 15:31:28 - INFO: Chatbot initialized successfully!
+----------------------------------------
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.9499395723230641, "answer_correctness": 0.5374848930807661}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.9809740665707867, "answer_correctness": 0.8881006594998395}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.8841600884515262, "answer_correctness": 0.47104002211288154}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.933474973966897, "answer_correctness": 0.7333687434917242}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.9467366044019603, "answer_correctness": 0.73668415110049}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.9499395723230641, "answer_correctness": 0.5374848930807661}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.9809740665707867, "answer_correctness": 0.8881006594998395}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.8841600884515262, "answer_correctness": 0.47104002211288154}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.933474973966897, "answer_correctness": 0.7333687434917242}
+{"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.9467366044019603, "answer_correctness": 0.73668415110049}
+{"context_recall": 0.0, "faithfulness": 0.6666666666666666, "semantic_similarity": 0.8155761619733253, "answer_correctness": 0.20389404049333132}
+{"quetion": "What is the Golden Temple also known as?", "eval": {"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.9499395723230641, "answer_correctness": 0.5374848930807661}}
+{"quetion": "What does 'Harmandir' signify?", "eval": {"context_recall": 1.0, "faithfulness": 1.0, "semantic_similarity": 0.9809740665707867, "answer_correctness": 0.8881006594998395}}
+2025-03-25 16:31:22 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-25 19:22:18 - INFO: Chatbot initialized successfully!
+----------------------------------------
+2025-03-25 21:07:33 - INFO: Chatbot initialized successfully!
+----------------------------------------
