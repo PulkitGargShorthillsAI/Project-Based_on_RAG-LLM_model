@@ -5155,5 +5155,194 @@
             "semantic_similarity": 0.8497392152194818,
             "answer_correctness": 0.5874348038048705
         }
+    },
+    {
+        "question": "Which temple is the Maa Annapurna Temple architecturally reminiscent of?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.8154050132016857,
+            "answer_correctness": 0.20385125330042142
+        }
+    },
+    {
+        "question": "What type of music is Indore the birthplace of?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.9798970405130254,
+            "answer_correctness": 0.9949742601282563
+        }
+    },
+    {
+        "question": "Compare Indore to another city in Madhya Pradesh.",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.8571428571428571,
+            "semantic_similarity": 0.6847996771124543,
+            "answer_correctness": 0.17119991927811357
+        }
+    },
+    {
+        "question": "Why is Indore called the commercial capital of Madhya Pradesh?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.6850596202927273,
+            "answer_correctness": 0.17126490507318182
+        }
+    },
+    {
+        "question": "What are the steps taken by Indore to be the cleanest city in India?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7188258260312232,
+            "answer_correctness": 0.4297064565078058
+        }
+    },
+    {
+        "question": "If Indore is the cleanest city in India, does that mean it has no waste management issues?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.6820918086322483,
+            "answer_correctness": 0.17052295215806207
+        }
+    },
+    {
+        "question": "What type of site is the Mahabodhi Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8990908927590495,
+            "answer_correctness": 0.4390584374754767
+        }
+    },
+    {
+        "question": "Where is the Mahabodhi Temple located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9460373785892495,
+            "answer_correctness": 0.4865093446473124
+        }
+    },
+    {
+        "question": "For whom is the Mahabodhi Temple a pilgrimage site?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.3333333333333333,
+            "semantic_similarity": 0.8938577199755536,
+            "answer_correctness": 0.9734644299938884
+        }
+    },
+    {
+        "question": "What might one discover at the Mahabodhi Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.8888888888888888,
+            "semantic_similarity": 0.7294185860335304,
+            "answer_correctness": 0.7180689322226683
+        }
+    },
+    {
+        "question": "Why should someone consider visiting the Mahabodhi Temple during a trip to India?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7623899422279721,
+            "answer_correctness": 0.378097485556993
+        }
+    },
+    {
+        "question": "Is the Mahabodhi Temple a relatively unknown site, and only popular with locals?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.6839377084345744,
+            "answer_correctness": 0.1709844271086436
+        }
+    },
+    {
+        "question": "If I am interested in history, should I visit the Mahabodhi Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.6723333126589337,
+            "answer_correctness": 0.16808332816473343
+        }
+    },
+    {
+        "question": "What is Rameswaram known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8969426196142056,
+            "answer_correctness": 0.43852136918926565
+        }
+    },
+    {
+        "question": "Which god is the Sri Ramanathaswamy Temple dedicated to?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9492485824465801,
+            "answer_correctness": 0.612312145611645
+        }
+    },
+    {
+        "question": "What makes the Pamban Bridge significant?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9392313071789581,
+            "answer_correctness": 0.5075350995220123
+        }
+    },
+    {
+        "question": "What is the Dr. A. P. J. Abdul Kalam National Memorial?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8836227363509268,
+            "answer_correctness": 0.5780485412305889
+        }
+    },
+    {
+        "question": "How did Dr. Kalam contribute to India's development?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8948893687935706,
+            "answer_correctness": 0.7237223421983927
+        }
+    },
+    {
+        "question": "What can visitors see inside the Sri Ramanathaswamy Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.907937197138752,
+            "answer_correctness": 0.6360752083755971
+        }
+    },
+    {
+        "question": "How is Rameswaram connected to the mainland?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9173581154490833,
+            "answer_correctness": 0.4793395288622708
+        }
+    },
+    {
+        "question": "Why was the Pamban Bridge initially constructed?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9408413110892849,
+            "answer_correctness": 0.6102103277723212
+        }
     }
 ]

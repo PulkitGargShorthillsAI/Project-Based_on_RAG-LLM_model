@@ -8,3 +8,4 @@ beautifulsoup4
 pinecone-client
 bert-score
 scikit-learn
+ragas

@@ -1,31 +1,29 @@
-# import json
-
-# # List of JSON files
-# json_files = ["qa_output1.json", "qa_output2.json", "qa_output3.json"]
-
-# merged_data = []
-
-# for file in json_files:
-#     with open(file, "r", encoding="utf-8") as f:
-#         data = json.load(f)
-        
-#         if isinstance(data, list):
-#             merged_data.extend(data)  # Append lists
-#         else:
-#             print(f"Skipping {file}, not a list!")
-
-# # Save merged JSON
-# with open("merged.json", "w", encoding="utf-8") as f:
-#     json.dump(merged_data, f, indent=4)
-
-# print("Merged JSON saved successfully!")
-
-
-
 import json
 
+# List of JSON files
+json_files = ["qa_output1.json", "qa_output2.json", "qa_output3.json"]
+
+merged_data = []
+
+for file in json_files:
+    with open(file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        
+        if isinstance(data, list):
+            merged_data.extend(data)  # Append lists
+        else:
+            print(f"Skipping {file}, not a list!")
+
+# Save merged JSON
+with open("golden_dataset_generation/merged.json", "w", encoding="utf-8") as f:
+    json.dump(merged_data, f, indent=4)
+
+print("Merged JSON saved successfully!")
+
+
+
 # Load the JSON file
-json_filename = "merged.json"  # Change filename as needed
+json_filename = "golden_dataset_generation/merged.json"
 
 with open(json_filename, "r", encoding="utf-8") as f:
     data = json.load(f)
