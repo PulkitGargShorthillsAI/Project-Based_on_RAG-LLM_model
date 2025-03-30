@@ -1,0 +1,1937 @@
+[
+    {
+        "question": "What activities can one enjoy in Goa?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.972251692664095,
+            "answer_correctness": 0.684239393754259
+        }
+    },
+    {
+        "question": "What makes the Andaman Islands a paradise for adventurers?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9783972579867557,
+            "answer_correctness": 0.844599314496689
+        }
+    },
+    {
+        "question": "Why is Mumbai known as the city that never sleeps?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9657710881075001,
+            "answer_correctness": 0.5943839484974632
+        }
+    },
+    {
+        "question": "What are the highlights of visiting Kerala?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.9230769230769231,
+            "semantic_similarity": 0.9400858552253681,
+            "answer_correctness": 0.4306736377193855
+        }
+    },
+    {
+        "question": "What makes Visakhapatnam a unique coastal vacation spot?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9448287836567146,
+            "answer_correctness": 0.6112071959141787
+        }
+    },
+    {
+        "question": "What spiritual experiences can one have in Gokarna?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9672734282396979,
+            "answer_correctness": 0.4918183570599245
+        }
+    },
+    {
+        "question": "What activities are popular in Diu?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9218424256787896,
+            "answer_correctness": 0.4804606064196974
+        }
+    },
+    {
+        "question": "What is unique about Kanyakumari?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.961501506292977,
+            "answer_correctness": 0.7403753765732443
+        }
+    },
+    {
+        "question": "What natural beauty does Srinagar offer?",
+        "eval": {
+            "context_recall": 0.5,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9259076960717516,
+            "answer_correctness": 0.4457626383036522
+        }
+    },
+    {
+        "question": "What adventure activities are available in Mcleodganj?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9436477417853448,
+            "answer_correctness": 0.6450028445372453
+        }
+    },
+    {
+        "question": "What can visitors experience in Binsar?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9311431716508533,
+            "answer_correctness": 0.5327857929127133
+        }
+    },
+    {
+        "question": "What adventures await in Leh-Ladakh?",
+        "eval": {
+            "context_recall": 0.5,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9399771419521468,
+            "answer_correctness": 0.4849942854880367
+        }
+    },
+    {
+        "question": "What natural attractions does Coorg have?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9626055997394283,
+            "answer_correctness": 0.5053572822877983
+        }
+    },
+    {
+        "question": "What makes Kanatal a popular adventure spot?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9432628418298898,
+            "answer_correctness": 0.664387139028901
+        }
+    },
+    {
+        "question": "What activities are popular in Kasol?",
+        "eval": {
+            "context_recall": 0.75,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9717350245882963,
+            "answer_correctness": 0.7044722176855356
+        }
+    },
+    {
+        "question": "What adventure does Bir Billing offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9616948836689578,
+            "answer_correctness": 0.6154237209172395
+        }
+    },
+    {
+        "question": "What colonial charm does Shimla have?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.798617330732481,
+            "answer_correctness": 0.19965433268312024
+        }
+    },
+    {
+        "question": "What natural beauty can be found in Tirthan Valley?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.928744912000963,
+            "answer_correctness": 0.4196862280002408
+        }
+    },
+    {
+        "question": "What wildlife experiences are available in Jim Corbett?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9509231513153197,
+            "answer_correctness": 0.73773078782883
+        }
+    },
+    {
+        "question": "What makes Ooty a popular hill station?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.952717441696714,
+            "answer_correctness": 0.4524650747098928
+        }
+    },
+    {
+        "question": "What is Shillong known as, and why?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.6,
+            "semantic_similarity": 0.9629772978383897,
+            "answer_correctness": 0.6157443244595975
+        }
+    },
+    {
+        "question": "What natural gifts does Kodaikanal offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9501959009301053,
+            "answer_correctness": 0.666120403803955
+        }
+    },
+    {
+        "question": "What tea is Darjeeling famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9334888664826142,
+            "answer_correctness": 0.40003888328732023
+        }
+    },
+    {
+        "question": "What are the best times to visit Goa?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9730320717380818,
+            "answer_correctness": 0.43075801793452045
+        }
+    },
+    {
+        "question": "What water activities are popular in the Andaman Islands?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9704910036451313,
+            "answer_correctness": 0.8676227509112828
+        }
+    },
+    {
+        "question": "What cultural experiences can you have in Mumbai?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.954329496806071,
+            "answer_correctness": 0.3135823742015178
+        }
+    },
+    {
+        "question": "What makes Kerala a good destination for relaxation?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9546789151819653,
+            "answer_correctness": 0.5720030621288247
+        }
+    },
+    {
+        "question": "What historical sites are there in Visakhapatnam?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.971479892835323,
+            "answer_correctness": 0.7165541837351466
+        }
+    },
+    {
+        "question": "What kind of beaches are in Gokarna?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9621397959858505,
+            "answer_correctness": 0.5934761254670509
+        }
+    },
+    {
+        "question": "What kind of activities are available in Diu?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9301901735548619,
+            "answer_correctness": 0.3904422802308207
+        }
+    },
+    {
+        "question": "What are some must-try street foods in Delhi?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8746883801244891,
+            "answer_correctness": 0.35503573139475864
+        }
+    },
+    {
+        "question": "What sweet delights is Kolkata famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9424616742799911,
+            "answer_correctness": 0.7356154185699978
+        }
+    },
+    {
+        "question": "What seafood options are available in Chennai?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8142093456365458,
+            "answer_correctness": 0.20355233640913645
+        }
+    },
+    {
+        "question": "How has Tibetan culture influenced Dharamsala's food?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9586688446293162,
+            "answer_correctness": 0.989667211157329
+        }
+    },
+    {
+        "question": "What unique dining experience does Alleppey offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9354731045183788,
+            "answer_correctness": 0.5552968475581661
+        }
+    },
+    {
+        "question": "What is Hyderabad most famous for?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8346614028557773,
+            "answer_correctness": 0.20866535071394432
+        }
+    },
+    {
+        "question": "What are some local foods to try in Banaras?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9483234706421306,
+            "answer_correctness": 0.7825354131150781
+        }
+    },
+    {
+        "question": "What are some popular dishes in Mysore?",
+        "eval": {
+            "context_recall": 0.3333333333333333,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.832184257992396,
+            "answer_correctness": 0.42233177878381334
+        }
+    },
+    {
+        "question": "What cuisine is Lucknow famous for?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8605754609136689,
+            "answer_correctness": 0.21514386522841722
+        }
+    },
+    {
+        "question": "What are some Punjabi delights in Amritsar?",
+        "eval": {
+            "context_recall": 0.3333333333333333,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8750508331168085,
+            "answer_correctness": 0.21876270827920213
+        }
+    },
+    {
+        "question": "What is Coorg's signature dish?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9900863554240813,
+            "answer_correctness": 0.914188255522687
+        }
+    },
+    {
+        "question": "What is the famous dish of Patna?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8101158439912441,
+            "answer_correctness": 0.20252896099781104
+        }
+    },
+    {
+        "question": "What vegetarian delights does Ahmedabad offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9309631403724381,
+            "answer_correctness": 0.8327407850931097
+        }
+    },
+    {
+        "question": "What are Mumbai's iconic street foods?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9573886204027865,
+            "answer_correctness": 0.9211653369188784
+        }
+    },
+    {
+        "question": "How does Chandigarh's food compare to Delhi's?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9286653343546216,
+            "answer_correctness": 0.5654996669219887
+        }
+    },
+    {
+        "question": "What are some must-try dishes in Shillong?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.875,
+            "semantic_similarity": 0.9456173915836186,
+            "answer_correctness": 0.6979428094343663
+        }
+    },
+    {
+        "question": "What cuisine blends can be found in Pondicherry?",
+        "eval": {
+            "context_recall": 0.3333333333333333,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8702327866072981,
+            "answer_correctness": 0.4675581966518245
+        }
+    },
+    {
+        "question": "What are some traditional Kashmiri dishes in Srinagar?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.974609951744166,
+            "answer_correctness": 0.8686524879360416
+        }
+    },
+    {
+        "question": "What seafood can one expect in Puri?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9456309613412242,
+            "answer_correctness": 0.7818622857898514
+        }
+    },
+    {
+        "question": "What are some popular street foods and sweets in Jaipur?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9302633887742419,
+            "answer_correctness": 0.9825658471935604
+        }
+    },
+    {
+        "question": "What activities can one engage in at Mussoorie?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9742721998130348,
+            "answer_correctness": 0.7729798146591409
+        }
+    },
+    {
+        "question": "What is Manali known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9340388014879134,
+            "answer_correctness": 0.5147597003719784
+        }
+    },
+    {
+        "question": "Why is Mukteshwar popular?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.8571428571428571,
+            "semantic_similarity": 0.9270221562104647,
+            "answer_correctness": 0.7317555390526161
+        }
+    },
+    {
+        "question": "What makes Auli a unique destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9646883047899539,
+            "answer_correctness": 0.7027105377359499
+        }
+    },
+    {
+        "question": "What are the highlights of visiting Agumbe?",
+        "eval": {
+            "context_recall": 0.75,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.955971966472007,
+            "answer_correctness": 0.7607321220527843
+        }
+    },
+    {
+        "question": "Why should one visit Kausani?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9559863360777503,
+            "answer_correctness": 0.8639965840194376
+        }
+    },
+    {
+        "question": "What can visitors experience in Gangtok?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8788974088541114,
+            "answer_correctness": 0.21972435221352785
+        }
+    },
+    {
+        "question": "What is Munnar famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9218112101776144,
+            "answer_correctness": 0.4447385168301179
+        }
+    },
+    {
+        "question": "What activities are available in Alleppey?",
+        "eval": {
+            "context_recall": 0.75,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.953343092484462,
+            "answer_correctness": 0.699874234659577
+        }
+    },
+    {
+        "question": "Why is Ranikhet a popular destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9515670241255447,
+            "answer_correctness": 0.8941417560313862
+        }
+    },
+    {
+        "question": "What are the attractions in Madikeri?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9172517842966489,
+            "answer_correctness": 0.5626462794074956
+        }
+    },
+    {
+        "question": "What makes Shimoga a unique hill station?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9065179111012232,
+            "answer_correctness": 0.4766294777753058
+        }
+    },
+    {
+        "question": "What can one see in Sonamarg?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9359032395684567,
+            "answer_correctness": 0.6089758098921142
+        }
+    },
+    {
+        "question": "What is Spiti Valley known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9562171599324607,
+            "answer_correctness": 0.5203042899831152
+        }
+    },
+    {
+        "question": "What are the highlights of visiting Chopta?",
+        "eval": {
+            "context_recall": 0.75,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9329358076808623,
+            "answer_correctness": 0.44751966620592987
+        }
+    },
+    {
+        "question": "What is Khajjiar known for and at what altitude is it situated?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9221248605502409,
+            "answer_correctness": 0.6591026437089887
+        }
+    },
+    {
+        "question": "What architectural style is Dalhousie famous for, and who founded it?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9257276325032263,
+            "answer_correctness": 0.6600033366972352
+        }
+    },
+    {
+        "question": "Why is Meghalaya called the 'Scotland of the East', and what activities does it offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9281659718489195,
+            "answer_correctness": 0.4276936668752733
+        }
+    },
+    {
+        "question": "What makes Lonavala a popular tourist destination in Maharashtra?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9710972389688961,
+            "answer_correctness": 0.7620050789729933
+        }
+    },
+    {
+        "question": "What is Coonoor famous for, and what can tourists experience there?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9687907024808151,
+            "answer_correctness": 0.7421976756202037
+        }
+    },
+    {
+        "question": "Why is Wayanad considered nature's abode, and what activities are popular there?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9930860960004307,
+            "answer_correctness": 0.7482715240001077
+        }
+    },
+    {
+        "question": "What is Gulmarg known for, and what are its highlights?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9376760506316323,
+            "answer_correctness": 0.7344190126579081
+        }
+    },
+    {
+        "question": "What natural features surround Ranchi, and what activities can visitors enjoy?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9234826389079709,
+            "answer_correctness": 0.3246206597269927
+        }
+    },
+    {
+        "question": "Why is Haridwar a significant pilgrimage site, and what is its most famous ghat?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8911107855252849,
+            "answer_correctness": 0.5040276963813213
+        }
+    },
+    {
+        "question": "What activities make Rishikesh a popular destination, and what are its famous landmarks?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9680582983992747,
+            "answer_correctness": 0.6170145745998187
+        }
+    },
+    {
+        "question": "What cultural and spiritual experiences does Varanasi offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9392718661490063,
+            "answer_correctness": 0.6098179665372516
+        }
+    },
+    {
+        "question": "What natural attractions and agricultural products make Mahabaleshwar a picturesque destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.94892798948161,
+            "answer_correctness": 0.7372319973704025
+        }
+    },
+    {
+        "question": "What historical significance and attractions does Mahabalipuram hold?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.875,
+            "semantic_similarity": 0.9766473993468919,
+            "answer_correctness": 0.6727332784081516
+        }
+    },
+    {
+        "question": "What is Mathura known for, and what religious experiences can visitors have?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9608745410235671,
+            "answer_correctness": 0.5214686352558917
+        }
+    },
+    {
+        "question": "What natural beauty and spiritual experiences does Sikkim offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9100423912389073,
+            "answer_correctness": 0.334653454952584
+        }
+    },
+    {
+        "question": "Why is Tirupati a famous pilgrimage center, and what is its main attraction?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9318802974007632,
+            "answer_correctness": 0.7329700743501907
+        }
+    },
+    {
+        "question": "What makes Vaishno Devi a significant holy site, and how do devotees reach the temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9374133376349807,
+            "answer_correctness": 0.8593533344087452
+        }
+    },
+    {
+        "question": "What is Manikaran famous for, and what religious significance does it hold?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9551267938536192,
+            "answer_correctness": 0.8950316984634049
+        }
+    },
+    {
+        "question": "Why is Bodh Gaya a significant Buddhist pilgrimage site, and what is its main attraction?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9761776835929761,
+            "answer_correctness": 0.744044420898244
+        }
+    },
+    {
+        "question": "What makes Kedarnath a sacred pilgrimage site, and what natural features surround it?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9522253855573467,
+            "answer_correctness": 0.7380563463893367
+        }
+    },
+    {
+        "question": "What is the Amarnath Cave Temple known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9258148445522764,
+            "answer_correctness": 0.8981203778047359
+        }
+    },
+    {
+        "question": "Why is Amritsar considered a must-visit before turning 30?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9207461978785239,
+            "answer_correctness": 0.6051865494696309
+        }
+    },
+    {
+        "question": "What is the significance of Deoghar?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9752686899282361,
+            "answer_correctness": 0.743817172482059
+        }
+    },
+    {
+        "question": "Why is Shirdi a popular destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9615279565381785,
+            "answer_correctness": 0.7858365345890901
+        }
+    },
+    {
+        "question": "What is Madurai famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9496289392086226,
+            "answer_correctness": 0.7374072348021556
+        }
+    },
+    {
+        "question": "Why is Udaipur called the Venice of the East?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9397046543183417,
+            "answer_correctness": 0.4492118778652997
+        }
+    },
+    {
+        "question": "What makes Jaisalmer the 'Golden City'?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9197855183654353,
+            "answer_correctness": 0.5026736523186315
+        }
+    },
+    {
+        "question": "Why is Jodhpur called the 'Blue City'?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9721602059593561,
+            "answer_correctness": 0.993040051489839
+        }
+    },
+    {
+        "question": "What is Kolkata famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9631790852303024,
+            "answer_correctness": 0.5869486174614218
+        }
+    },
+    {
+        "question": "What is Mysore known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.8888888888888888,
+            "semantic_similarity": 0.9525606497454141,
+            "answer_correctness": 0.6381401624363535
+        }
+    },
+    {
+        "question": "Why is Pondicherry called the French Riviera of the East?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.8571428571428571,
+            "semantic_similarity": 0.8681047790046996,
+            "answer_correctness": 0.5384547661797463
+        }
+    },
+    {
+        "question": "What historical significance does Chittorgarh hold?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9171351422866688,
+            "answer_correctness": 0.42928378557166724
+        }
+    },
+    {
+        "question": "What makes Nalanda a significant site?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9433753513092111,
+            "answer_correctness": 0.5358438378273028
+        }
+    },
+    {
+        "question": "Why is Hampi a UNESCO World Heritage site?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9458484466365107,
+            "answer_correctness": 0.6531287783257944
+        }
+    },
+    {
+        "question": "What blend does New Delhi offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9060474063921954,
+            "answer_correctness": 0.3931785182647155
+        }
+    },
+    {
+        "question": "What is Agra famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9185875600134896,
+            "answer_correctness": 0.4796468900033724
+        }
+    },
+    {
+        "question": "What makes Ajmer a unique destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9471136770836832,
+            "answer_correctness": 0.7055284192709208
+        }
+    },
+    {
+        "question": "Why is Jaipur called the Pink City?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.75,
+            "semantic_similarity": 0.9531861288016152,
+            "answer_correctness": 0.5382965322004039
+        }
+    },
+    {
+        "question": "What is Khajuraho known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9686938693426341,
+            "answer_correctness": 0.6171734673356586
+        }
+    },
+    {
+        "question": "What is Bangalore known for?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9754431939958176,
+            "answer_correctness": 0.7438607984989544
+        }
+    },
+    {
+        "question": "What is Gwalior known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9325062293894316,
+            "answer_correctness": 0.5545551287759293
+        }
+    },
+    {
+        "question": "What is the highlight of Orchha?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.947127242274384,
+            "answer_correctness": 0.611781810568596
+        }
+    },
+    {
+        "question": "Why is Almora a nature lover's dream?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9349548656852696,
+            "answer_correctness": 0.7694530021356031
+        }
+    },
+    {
+        "question": "What is Orissa famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9631334389747475,
+            "answer_correctness": 0.7862379051982322
+        }
+    },
+    {
+        "question": "What makes Hyderabad a popular destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9392573998587213,
+            "answer_correctness": 0.6098143499646803
+        }
+    },
+    {
+        "question": "What is Pushkar known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9815819788762049,
+            "answer_correctness": 0.7908500401735966
+        }
+    },
+    {
+        "question": "What can visitors experience in Pali?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9600921000978556,
+            "answer_correctness": 0.6811994956126991
+        }
+    },
+    {
+        "question": "What is Ranthambore famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.954087008996858,
+            "answer_correctness": 0.5599503236777859
+        }
+    },
+    {
+        "question": "Why is Kutch an offbeat destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9702907980448829,
+            "answer_correctness": 0.9243908813294025
+        }
+    },
+    {
+        "question": "What attractions does Assam offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9553119317618076,
+            "answer_correctness": 0.5849818290942981
+        }
+    },
+    {
+        "question": "What makes the Valley of Flowers special?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9263242674014904,
+            "answer_correctness": 0.777035612304918
+        }
+    },
+    {
+        "question": "What activities are popular at Prashar Lake?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9558377397862535,
+            "answer_correctness": 0.6139594349465634
+        }
+    },
+    {
+        "question": "What can visitors do in Dhanaulti?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9454944560993764,
+            "answer_correctness": 0.5825274601786903
+        }
+    },
+    {
+        "question": "What are the highlights of Cherrapunji?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9612529728660233,
+            "answer_correctness": 0.6153132432165058
+        }
+    },
+    {
+        "question": "What is Jabalpur known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9481414515017338,
+            "answer_correctness": 0.6370353628754335
+        }
+    },
+    {
+        "question": "What is the Tansen Musical Fest?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8246271426843526,
+            "answer_correctness": 0.20615678567108814
+        }
+    },
+    {
+        "question": "What is the significance of the Betwa River in Orchha?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.75,
+            "semantic_similarity": 0.9354729099955744,
+            "answer_correctness": 0.6624396560703222
+        }
+    },
+    {
+        "question": "What is the cultural significance of Hyderabad?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.943232005471922,
+            "answer_correctness": 0.5170580013679804
+        }
+    },
+    {
+        "question": "What is the Rann Utsav Festival?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9466031961643575,
+            "answer_correctness": 0.6366507990410895
+        }
+    },
+    {
+        "question": "What is the attraction of the living root bridges in Cherrapunji?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9407364195082649,
+            "answer_correctness": 0.6442750139679753
+        }
+    },
+    {
+        "question": "What is Ziro famous for besides its music festival?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9654525587666871,
+            "answer_correctness": 0.6163631396916718
+        }
+    },
+    {
+        "question": "How many islands make up Lakshadweep?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9815023408659371,
+            "answer_correctness": 0.8453755852164844
+        }
+    },
+    {
+        "question": "What wildlife can be found in Pahalgam's Overa Aru Wildlife Sanctuary?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8769554916115601,
+            "answer_correctness": 0.5192388729028901
+        }
+    },
+    {
+        "question": "What is Lansdowne known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9182560392416191,
+            "answer_correctness": 0.4795640098104048
+        }
+    },
+    {
+        "question": "Why is Joshimath significant?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9504416830448401,
+            "answer_correctness": 0.9042770874278767
+        }
+    },
+    {
+        "question": "What are some highlights of Tawang?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9657983103606251,
+            "answer_correctness": 0.7101995775901563
+        }
+    },
+    {
+        "question": "What makes Kanha National Park special?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.972907331440086,
+            "answer_correctness": 0.9355345251677138
+        }
+    },
+    {
+        "question": "What is Chandigarh famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9068572351791669,
+            "answer_correctness": 0.3420989241794071
+        }
+    },
+    {
+        "question": "What is unique about Varkala?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9837646150396848,
+            "answer_correctness": 0.8709411537599212
+        }
+    },
+    {
+        "question": "What can visitors experience in Poovar?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9337702643002135,
+            "answer_correctness": 0.49814844842799455
+        }
+    },
+    {
+        "question": "What is Bokaro Steel City known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9282952617145899,
+            "answer_correctness": 0.7320738154286475
+        }
+    },
+    {
+        "question": "What makes Bankura a unique destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9861174153120562,
+            "answer_correctness": 0.9131960204946807
+        }
+    },
+    {
+        "question": "What natural features are found in Hazaribagh?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9472289685757711,
+            "answer_correctness": 0.5368072421439428
+        }
+    },
+    {
+        "question": "Which are some of the top rated tourist destinations in India?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9270798665686595,
+            "answer_correctness": 0.5317699666421649
+        }
+    },
+    {
+        "question": "What are some of the most beautiful places to visit in India?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9317919527549386,
+            "answer_correctness": 0.8996146548554014
+        }
+    },
+    {
+        "question": "What are the best places for a 4 day vacation in India?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.946717770249766,
+            "answer_correctness": 0.7660912072683237
+        }
+    },
+    {
+        "question": "Which cities are among the best places to visit in India?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9094635464772847,
+            "answer_correctness": 0.8273658866193212
+        }
+    },
+    {
+        "question": "What is the most visited place in India and why?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9802726078589902,
+            "answer_correctness": 0.9117348186314143
+        }
+    },
+    {
+        "question": "What are some adventurous places to visit in India?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9306377432715858,
+            "answer_correctness": 0.44694515010361074
+        }
+    },
+    {
+        "question": "What are the best places to visit in India during winter?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9638570153322452,
+            "answer_correctness": 0.8725432012014824
+        }
+    },
+    {
+        "question": "What makes Turkey a unique travel destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9531250802636226,
+            "answer_correctness": 0.6549479367325723
+        }
+    },
+    {
+        "question": "What are some must-visit attractions in Istanbul?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.6,
+            "semantic_similarity": 0.8877620470457567,
+            "answer_correctness": 0.40944051176143914
+        }
+    },
+    {
+        "question": "What is Cappadocia known for?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9341918707471426,
+            "answer_correctness": 0.4643171984560164
+        }
+    },
+    {
+        "question": "What is the significance of the Grand Bazaar?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9320370832230643,
+            "answer_correctness": 0.48300927080576606
+        }
+    },
+    {
+        "question": "What is the Blue Mosque known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9256287020734626,
+            "answer_correctness": 0.6599786040897943
+        }
+    },
+    {
+        "question": "What historical sites are found in Antalya?",
+        "eval": {
+            "context_recall": 0.3333333333333333,
+            "faithfulness": 0.75,
+            "semantic_similarity": 0.8811222504845568,
+            "answer_correctness": 0.4077805626211392
+        }
+    },
+    {
+        "question": "What is Ephesus known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.939973239150141,
+            "answer_correctness": 0.4492790240732495
+        }
+    },
+    {
+        "question": "What is Pamukkale famous for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9062097320839749,
+            "answer_correctness": 0.3765524330209937
+        }
+    },
+    {
+        "question": "What is special about the Galata Tower?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8601158748695539,
+            "answer_correctness": 0.5900289687173885
+        }
+    },
+    {
+        "question": "What is the significance of the Bosphorus Bridge?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8988682155933854,
+            "answer_correctness": 0.6532884824697749
+        }
+    },
+    {
+        "question": "What makes Nepal a popular travel destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9535309381577093,
+            "answer_correctness": 0.5383827345394273
+        }
+    },
+    {
+        "question": "What are the main attractions in Kathmandu?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9605224550878446,
+            "answer_correctness": 0.6151306137719612
+        }
+    },
+    {
+        "question": "What is the importance of Pashupatinath Temple?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.0,
+            "semantic_similarity": 0.8298817899252302,
+            "answer_correctness": 0.20747044748130755
+        }
+    },
+    {
+        "question": "What is the significance of the Grand Bazaar in Istanbul?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9368808423868193,
+            "answer_correctness": 0.3705838469603412
+        }
+    },
+    {
+        "question": "What is the role of the Hagia Sophia?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8743401758899972,
+            "answer_correctness": 0.5400136154010707
+        }
+    },
+    {
+        "question": "What is the allure of Cappadocia's landscape?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9217052430854129,
+            "answer_correctness": 0.4068968990066474
+        }
+    },
+    {
+        "question": "What cultural experiences are available in Turkey?",
+        "eval": {
+            "context_recall": 0.3333333333333333,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8257875798531324,
+            "answer_correctness": 0.2064468949632831
+        }
+    },
+    {
+        "question": "What outdoor activities are popular in Turkey?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8217549294034094,
+            "answer_correctness": 0.39293873235085236
+        }
+    },
+    {
+        "question": "What makes Istanbul a cultural hub?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8917703780441899,
+            "answer_correctness": 0.6515140230824761
+        }
+    },
+    {
+        "question": "What religious sites are prominent in Istanbul?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8871180830775136,
+            "answer_correctness": 0.5432080921979499
+        }
+    },
+    {
+        "question": "What are some of the natural attractions found in Kazakhstan?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9663632012377402,
+            "answer_correctness": 0.7103408003094351
+        }
+    },
+    {
+        "question": "What is the best time to visit Kazakhstan and why?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9463901358166893,
+            "answer_correctness": 0.3944922707962776
+        }
+    },
+    {
+        "question": "What are some of the popular cuisines to try in Kazakhstan?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9653992139028668,
+            "answer_correctness": 0.7868043489302621
+        }
+    },
+    {
+        "question": "What is the First Presidents Park in Almaty?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.970112167475825,
+            "answer_correctness": 0.909194708535623
+        }
+    },
+    {
+        "question": "What is the Shymbulak Ski Resort known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9429808692204755,
+            "answer_correctness": 0.8126682942281958
+        }
+    },
+    {
+        "question": "What is the significance of the Park of 28 Panfilov Guardsmen?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.92087816768127,
+            "answer_correctness": 0.6393104510112265
+        }
+    },
+    {
+        "question": "What is Medeo and why is it famous?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9398754500087341,
+            "answer_correctness": 0.6849688625021835
+        }
+    },
+    {
+        "question": "What is Astana Square in Almaty?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9633623496607314,
+            "answer_correctness": 0.7408405874151829
+        }
+    },
+    {
+        "question": "What is Big Almaty Lake and when is it at its maximum level?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9681028175649611,
+            "answer_correctness": 0.8045257043912402
+        }
+    },
+    {
+        "question": "What is Ile-Alatau National Park known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.945192811576203,
+            "answer_correctness": 0.5487982028940508
+        }
+    },
+    {
+        "question": "What is the significance of the Monument of Independence in Almaty?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9825753643357924,
+            "answer_correctness": 0.8456438410839482
+        }
+    },
+    {
+        "question": "What is the Baiterek Tower in Astana?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9432262336566499,
+            "answer_correctness": 0.7812611038687078
+        }
+    },
+    {
+        "question": "What is the Ak Orda Presidential Palace?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9897327629270178,
+            "answer_correctness": 0.9140998573984211
+        }
+    },
+    {
+        "question": "What is the Nur-Astana mosque?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9718240600762834,
+            "answer_correctness": 0.8429560150190709
+        }
+    },
+    {
+        "question": "What is the Palace of Peace and Reconciliation?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9858840053947326,
+            "answer_correctness": 0.9964710013486832
+        }
+    },
+    {
+        "question": "What is the National Museum of the Republic of Kazakhstan?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9772320055096266,
+            "answer_correctness": 0.8693080013774066
+        }
+    },
+    {
+        "question": "What is Kok Tobe in Almaty?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9732398119738894,
+            "answer_correctness": 0.7048484145319338
+        }
+    },
+    {
+        "question": "What is the Almaty Tower?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9786199427075245,
+            "answer_correctness": 0.7446549856768812
+        }
+    },
+    {
+        "question": "What is Charyn Canyon?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9774530617068383,
+            "answer_correctness": 0.8443632654267097
+        }
+    },
+    {
+        "question": "What is Zenkov Cathedral?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9292515416561778,
+            "answer_correctness": 0.6414037945049536
+        }
+    },
+    {
+        "question": "What is Bhutan known for in terms of tourism?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9528192684407404,
+            "answer_correctness": 0.5911459935807732
+        }
+    },
+    {
+        "question": "What are some popular attractions in Thimphu?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9510222057336639,
+            "answer_correctness": 0.5591841228619874
+        }
+    },
+    {
+        "question": "What is the significance of the Buddha Dordenma?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8813404723510191,
+            "answer_correctness": 0.8631922609448975
+        }
+    },
+    {
+        "question": "What can be found at the National Museum of Bhutan?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8703611216818061,
+            "answer_correctness": 0.7175902804204515
+        }
+    },
+    {
+        "question": "Where is Taktsang Monastery located?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8035131866755005,
+            "answer_correctness": 0.20087829666887513
+        }
+    },
+    {
+        "question": "What is the National Memorial Chhorten in Thimphu?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8827130302793615,
+            "answer_correctness": 0.7206782575698403
+        }
+    },
+    {
+        "question": "What is special about Changangkha Lhakhang?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8750647564417902,
+            "answer_correctness": 0.9687661891104475
+        }
+    },
+    {
+        "question": "What was the historical importance of Punakha Dzong?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8245032432615385,
+            "answer_correctness": 0.7061258108153845
+        }
+    },
+    {
+        "question": "What is the Royal Takin Preserve?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8754910679220822,
+            "answer_correctness": 0.7188727669805206
+        }
+    },
+    {
+        "question": "What is the Folk Heritage Museum?",
+        "eval": {
+            "context_recall": 0.3333333333333333,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.77182454525971,
+            "answer_correctness": 0.1929561363149275
+        }
+    },
+    {
+        "question": "What is Egypt known for historically?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9014156470470567,
+            "answer_correctness": 0.4396396260474784
+        }
+    },
+    {
+        "question": "What are some key attractions in Cairo?",
+        "eval": {
+            "context_recall": 0.3333333333333333,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8195953284397337,
+            "answer_correctness": 0.3923988321099334
+        }
+    },
+    {
+        "question": "What can be found at the Egyptian Museum of Antiquities?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8897981889601843,
+            "answer_correctness": 0.8224495472400462
+        }
+    },
+    {
+        "question": "What is the Great Sphinx of Giza?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8888948259003159,
+            "answer_correctness": 0.6722237064750789
+        }
+    },
+    {
+        "question": "What is the Valley of the Kings?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8906883319498924,
+            "answer_correctness": 0.7226720829874731
+        }
+    },
+    {
+        "question": "What is Luxor Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8370666610400189,
+            "answer_correctness": 0.7717666652600046
+        }
+    },
+    {
+        "question": "What is the Pyramid of Menkaure?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9067979613596011,
+            "answer_correctness": 0.869556633197043
+        }
+    },
+    {
+        "question": "What does the Coptic Museum contain?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8755182440763416,
+            "answer_correctness": 0.3855462276857521
+        }
+    },
+    {
+        "question": "Where is Philae Temple located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8444313083420087,
+            "answer_correctness": 0.711107827085502
+        }
+    },
+    {
+        "question": "What is the Mosque of Muhammad Ali?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.7697697127259895,
+            "answer_correctness": 0.19244242818149737
+        }
+    },
+    {
+        "question": "What is the primary purpose of the Pyramids of Giza?",
+        "eval": {
+            "context_recall": 0.6666666666666666,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8276255653025333,
+            "answer_correctness": 0.5402397246589666
+        }
+    },
+    {
+        "question": "What is the significance of the Al-Azhar Mosque in Cairo?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9296362232760388,
+            "answer_correctness": 0.7324090558190097
+        }
+    },
+    {
+        "question": "What can visitors find in Old Cairo's Coptic Museum?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.955467152333179,
+            "answer_correctness": 0.6479576971742038
+        }
+    },
+    {
+        "question": "Why is the Karnak Temple considered a significant historical site?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9240823923296726,
+            "answer_correctness": 0.4617898288516489
+        }
+    },
+    {
+        "question": "What makes the Red Sea Reef a popular destination?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9577583685217959,
+            "answer_correctness": 0.5855934382842951
+        }
+    },
+    {
+        "question": "Why is a River Nile Cruise a unique way to explore Egypt?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9167428969574571,
+            "answer_correctness": 0.4791857242393643
+        }
+    },
+    {
+        "question": "What is the historical importance of the Abu Simbel temples?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.926095104225965,
+            "answer_correctness": 0.8565237760564912
+        }
+    },
+    {
+        "question": "What is unique about the Siwa Oasis?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9588138996160513,
+            "answer_correctness": 0.8647034749040128
+        }
+    },
+    {
+        "question": "What activities does Dahab offer to tourists?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9531177669824681,
+            "answer_correctness": 0.7739937274599027
+        }
+    },
+    {
+        "question": "Why was the Temple of Philae relocated?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9269391710303786,
+            "answer_correctness": 0.6067347927575947
+        }
+    }
+]

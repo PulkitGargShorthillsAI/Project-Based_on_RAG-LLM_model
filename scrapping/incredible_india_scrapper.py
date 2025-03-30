@@ -56,10 +56,13 @@ class IncredibleIndiaScraper:
                 text += self.scrape_location_data(full_loc_url)
 
             # Save content
-            with open(city_file, "w", encoding="utf-8") as f:
-                f.write(text)
+            try:
+                with open(city_file, "w", encoding="utf-8") as f:
+                    f.write(text)
 
-            print(f"Saved: {city_file}")
+                print(f"Saved: {city_file}")
+            except Exception as e:
+                print(f"Error saving city data for {city_url}: {e}")
         except Exception as e:
             print(f"Error processing city data for {city_url}: {e}")
 
@@ -115,3 +118,6 @@ class IncredibleIndiaScraper:
         print(f"Total web pages visited: {self.web_pages}")
 
 
+# scrapper = IncredibleIndiaScraper(base_url="https://www.incredibleindia.gov.in/en")
+scrapper = IncredibleIndiaScraper(base_url="https://invalid-url.com")
+print(scrapper.get_location_links("https://www.incredibleindia.gov.in/en/city/unknown"))

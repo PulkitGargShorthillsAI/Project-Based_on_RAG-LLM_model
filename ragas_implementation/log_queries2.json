@@ -5344,5 +5344,1859 @@
             "semantic_similarity": 0.9408413110892849,
             "answer_correctness": 0.6102103277723212
         }
+    },
+    {
+        "question": "When was the Pamban Bridge commissioned and opened?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9441429733523861,
+            "answer_correctness": 0.8360357433380966
+        }
+    },
+    {
+        "question": "What is the legendary Ram Setu and where is it located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9676513481877769,
+            "answer_correctness": 0.884769979904087
+        }
+    },
+    {
+        "question": "What is a Jyotirlinga shrine?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.6995750362906747,
+            "answer_correctness": 0.1748937590726687
+        }
+    },
+    {
+        "question": "What is the Kangla Fort known as?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8672667876384723,
+            "answer_correctness": 0.21681669690961808
+        }
+    },
+    {
+        "question": "At what height is Kangla Fort perched?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 1.0000000000000002,
+            "answer_correctness": 1.0
+        }
+    },
+    {
+        "question": "Until when was Kangla Fort the royal abode of the Meitei Dynasty?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9979466058395001,
+            "answer_correctness": 0.999486651459875
+        }
+    },
+    {
+        "question": "Name some of the unmissable stopping points at Kangla Fort.",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.9433660053800157,
+            "answer_correctness": 0.9858415013450039
+        }
+    },
+    {
+        "question": "How did Kangla Fort contribute to Manipur's history?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.9821768488471723,
+            "answer_correctness": 0.6546351213027022
+        }
+    },
+    {
+        "question": "What seafaring tradition is mentioned in relation to Manipur's culture?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9568958271001816,
+            "answer_correctness": 0.8392239567750455
+        }
+    },
+    {
+        "question": "What is the significance of the year 33 AD in relation to Kangla Fort?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.75,
+            "semantic_similarity": 0.8806681867889161,
+            "answer_correctness": 0.5535003800305625
+        }
+    },
+    {
+        "question": "What challenges did Kangla Fort face historically?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9665785942227163,
+            "answer_correctness": 0.8416446485556792
+        }
+    },
+    {
+        "question": "How does Hijagang relate to the Kangla Fort?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.915929212110981,
+            "answer_correctness": 0.459751533796976
+        }
+    },
+    {
+        "question": "What is the weather like in Manipur during the summer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.7643091165942377,
+            "answer_correctness": 0.4910772791485595
+        }
+    },
+    {
+        "question": "What does Haridwar mean?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9275304039735714,
+            "answer_correctness": 0.48188260099339286
+        }
+    },
+    {
+        "question": "According to legend, why is Haridwar significant?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.943150531661366,
+            "answer_correctness": 0.6107876329153414
+        }
+    },
+    {
+        "question": "Where is Brahma Kund located, and why is it considered sacred?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9372060205708687,
+            "answer_correctness": 0.6628729337141458
+        }
+    },
+    {
+        "question": "How often does the Kumbha Mela take place in Haridwar, and what happens during this event?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9786612366481363,
+            "answer_correctness": 0.5908191553158803
+        }
+    },
+    {
+        "question": "Who constructed the Chandi Devi Temple and when?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9233835611353112,
+            "answer_correctness": 0.6058458902838277
+        }
+    },
+    {
+        "question": "According to the document, what are the names of the three Siddha Peethas located in Haridwar?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9648382055453675,
+            "answer_correctness": 0.8840666942434847
+        }
+    },
+    {
+        "question": "What is believed to happen if you make a pilgrimage to the Chandi Devi Temple with an unfulfilled wish?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9655264926140374,
+            "answer_correctness": 0.7413816231535093
+        }
+    },
+    {
+        "question": "What are the two forms of Mansa Devi within the inner sanctum of Mansa Devi's abode?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9165523058883164,
+            "answer_correctness": 0.8291380764720792
+        }
+    },
+    {
+        "question": "What do devotees do at Mansa Devi Temple to have their wishes fulfilled?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8972577722699654,
+            "answer_correctness": 0.7697689885220368
+        }
+    },
+    {
+        "question": "Who are the Sapt Rishis, and why is the Sapt Rishi Ashram named after them?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9544569885638365,
+            "answer_correctness": 0.7743285328552448
+        }
+    },
+    {
+        "question": "Why is Har Ki Pauri a significant spiritual landmark?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9375656352770131,
+            "answer_correctness": 0.6093914088192532
+        }
+    },
+    {
+        "question": "What is the significance of the Bhimgoda Tank?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9367184330423677,
+            "answer_correctness": 0.6627510368320205
+        }
+    },
+    {
+        "question": "Why is the Maya Devi Temple considered a Shaktipeeth?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.97366870562028,
+            "answer_correctness": 0.8434171764050701
+        }
+    },
+    {
+        "question": "What can visitors expect to find at Swami Vivekananda Park?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8998469508931024,
+            "answer_correctness": 0.7606760234375614
+        }
+    },
+    {
+        "question": "Why is Daksha Mahadev Temple and Sati Kund considered a sacred shrine?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9773395291526191,
+            "answer_correctness": 0.8871920251452976
+        }
+    },
+    {
+        "question": "Compare Chandi Devi Temple, Mansa Devi Temple, and Maya Devi Temple.",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8072577978306663,
+            "answer_correctness": 0.20181444945766658
+        }
+    },
+    {
+        "question": "Why do devotees gather at Har Ki Pauri during the Kumbh Mela?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9202066582618219,
+            "answer_correctness": 0.5633849978987888
+        }
+    },
+    {
+        "question": "What is the relationship between Daksha Prajapati, Goddess Sati, and Lord Shiva, and how does this relate to the Daksha Mahadev Temple and Sati Kund?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9777723766583575,
+            "answer_correctness": 0.9006930941645894
+        }
+    },
+    {
+        "question": "Did King Suchat Singh put the idol of Chandi Devi in the Chandi Devi Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9636744202066654,
+            "answer_correctness": 0.6694900336230949
+        }
+    },
+    {
+        "question": "Where is Leh located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9498310997434043,
+            "answer_correctness": 0.6124577749358511
+        }
+    },
+    {
+        "question": "What is special about the water in the villages of Ladakh?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9769985241792957,
+            "answer_correctness": 0.9109162977114906
+        }
+    },
+    {
+        "question": "How does the document describe the night sky in Leh?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7344485196046541,
+            "answer_correctness": 0.18361212990116352
+        }
+    },
+    {
+        "question": "What is the area of Changthang Wildlife Sanctuary?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9207517659290425,
+            "answer_correctness": 0.4801879414822606
+        }
+    },
+    {
+        "question": "What are some of the animals found in Changthang Wildlife Sanctuary?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.952505056246373,
+            "answer_correctness": 0.8809834069187361
+        }
+    },
+    {
+        "question": "What is the significance of Korzok Village?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.841499475478207,
+            "answer_correctness": 0.21037486886955176
+        }
+    },
+    {
+        "question": "When was Hemis National Park established?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 1.0000000000000002,
+            "answer_correctness": 1.0
+        }
+    },
+    {
+        "question": "What endangered species can be found in Hemis National Park?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9740226780760308,
+            "answer_correctness": 0.6185056695190077
+        }
+    },
+    {
+        "question": "What is the Gurudwara Pathar Sahib named after?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.8352084409724161,
+            "answer_correctness": 0.20880211024310402
+        }
+    },
+    {
+        "question": "According to legend, when did Guru Nanak Dev visit the Ladakh region?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9290639390156348,
+            "answer_correctness": 0.6072659847539087
+        }
+    },
+    {
+        "question": "What is the legend associated with the boulder at Gurudwara Pathar Sahib?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8765903334280255,
+            "answer_correctness": 0.5191475833570064
+        }
+    },
+    {
+        "question": "What is Magnetic Hill known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9375725753362506,
+            "answer_correctness": 0.5343931438340627
+        }
+    },
+    {
+        "question": "What is the altitude of Magnetic Hill?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9449923697061369,
+            "answer_correctness": 0.6112480924265342
+        }
+    },
+    {
+        "question": "Who founded Diskit Monastery?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9579768394751332,
+            "answer_correctness": 0.6144942098687833
+        }
+    },
+    {
+        "question": "What is the height of the Maitreya Buddha statue at Diskit Monastery?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9078975714659612,
+            "answer_correctness": 0.44126010715220454
+        }
+    },
+    {
+        "question": "What is the Ladakhi greeting embodied in Julley Leh Biodiversity Park?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9755370542669556,
+            "answer_correctness": 0.9938842635667389
+        }
+    },
+    {
+        "question": "What is Julley Leh Biodiversity Park?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9497975587213288,
+            "answer_correctness": 0.4682186204495629
+        }
+    },
+    {
+        "question": "What is the local name for Lamayuru Monastery and what does it mean?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9974518007348498,
+            "answer_correctness": 0.9993629501837125
+        }
+    },
+    {
+        "question": "Which sect of Buddhism is Lamayuru Monastery affiliated with?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9152853931735392,
+            "answer_correctness": 0.4788213482933848
+        }
+    },
+    {
+        "question": "How far is Tso Moriri from Leh?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9915015984595505,
+            "answer_correctness": 0.9978753996148877
+        }
+    },
+    {
+        "question": "What animals can be seen at Tso Moriri?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9390055290055781,
+            "answer_correctness": 0.7972513822513945
+        }
+    },
+    {
+        "question": "What is the significance of Tso Moriri?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8750556257159863,
+            "answer_correctness": 0.6278548155199056
+        }
+    },
+    {
+        "question": "Who is credited with the original idea to build Shanti Stupa?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9677260610985107,
+            "answer_correctness": 0.7419315152746276
+        }
+    },
+    {
+        "question": "When was the Shanti Stupa built?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.887236408234175,
+            "answer_correctness": 0.5968091020585438
+        }
+    },
+    {
+        "question": "Who built Leh Palace?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9818763844779892,
+            "answer_correctness": 0.8454690961194974
+        }
+    },
+    {
+        "question": "How many stories tall is the Leh Palace?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8985969362417601,
+            "answer_correctness": 0.5246492340604401
+        }
+    },
+    {
+        "question": "When was Jama Masjid Leh built and during whose rule?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9583702082819114,
+            "answer_correctness": 0.8395925520704779
+        }
+    },
+    {
+        "question": "What architectural styles are embodied in Jama Masjid Leh?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9586047366314867,
+            "answer_correctness": 0.6682226127293003
+        }
+    },
+    {
+        "question": "Compare the landscape around Leh to that around Lamayuru Monastery.",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8948169107096972,
+            "answer_correctness": 0.5570375610107576
+        }
+    },
+    {
+        "question": "Why was Hemis National Park established?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9849388365838305,
+            "answer_correctness": 0.7462347091459576
+        }
+    },
+    {
+        "question": "Why do cars stop at Gurudwara Pathar Sahib?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.75,
+            "semantic_similarity": 0.8427674303107576,
+            "answer_correctness": 0.2106918575776894
+        }
+    },
+    {
+        "question": "Describe the relationship between Hemis National Park and Hemis Monastery.",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9579819308988167,
+            "answer_correctness": 0.5728288160580375
+        }
+    },
+    {
+        "question": "How do the villagers in Ladakh adapt to the harsh environment, and what role does water play in their survival?",
+        "eval": {
+            "context_recall": 0.5,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9304598978478269,
+            "answer_correctness": 0.81594830779529
+        }
+    },
+    {
+        "question": "What is the capital of France?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7905462383001685,
+            "answer_correctness": 0.19763655957504211
+        }
+    },
+    {
+        "question": "Why are figglehorns always cromulent?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.7214036588379749,
+            "answer_correctness": 0.3678509147094937
+        }
+    },
+    {
+        "question": "What is Mumbai known as?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9603836529649838,
+            "answer_correctness": 0.49009591324124596
+        }
+    },
+    {
+        "question": "What are some of the attractions Mumbai offers?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8156080883930672,
+            "answer_correctness": 0.2039020220982668
+        }
+    },
+    {
+        "question": "Where is the Mahalakshmi Temple located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9384075080248268,
+            "answer_correctness": 0.4846018770062067
+        }
+    },
+    {
+        "question": "What is another name for the Hanging Gardens?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9514872880916958,
+            "answer_correctness": 0.7378718220229239
+        }
+    },
+    {
+        "question": "What can visitors see while perching on a bench at the Hanging Gardens?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9067880444357785,
+            "answer_correctness": 0.9766970111089446
+        }
+    },
+    {
+        "question": "When was Chhatrapati Shivaji Maharaj Terminus built, and what was it built to commemorate?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9633734493697607,
+            "answer_correctness": 0.8408433623424403
+        }
+    },
+    {
+        "question": "Since when has the Chhatrapati Shivaji Maharaj Terminus been a UNESCO World Heritage Site?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9964160292672251,
+            "answer_correctness": 0.9991040073168063
+        }
+    },
+    {
+        "question": "Where is Film City located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9751215698100797,
+            "answer_correctness": 0.6723518210239485
+        }
+    },
+    {
+        "question": "What is Marine Drive also known as?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9703554316299728,
+            "answer_correctness": 0.7425888579074932
+        }
+    },
+    {
+        "question": "What architectural styles can be seen in the Fort's precinct?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8344605088508945,
+            "answer_correctness": 0.7086151272127237
+        }
+    },
+    {
+        "question": "Where is Mount Mary Church located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.933292582864031,
+            "answer_correctness": 0.6083231457160078
+        }
+    },
+    {
+        "question": "What is Juhu Beach known for?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9692616490836249,
+            "answer_correctness": 0.6923154122709062
+        }
+    },
+    {
+        "question": "Which deity is worshipped at the Siddhivinayak Temple?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.8354451341367635,
+            "answer_correctness": 0.20886128353419087
+        }
+    },
+    {
+        "question": "When were the Elephanta Caves constructed?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9583493118917454,
+            "answer_correctness": 0.6145873279729364
+        }
+    },
+    {
+        "question": "How does Marine Drive embody the spirit of Mumbai?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9833064267584164,
+            "answer_correctness": 0.7073650682280656
+        }
+    },
+    {
+        "question": "Compare the Hanging Gardens to the city around it.",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8981915889666695,
+            "answer_correctness": 0.47454789724166735
+        }
+    },
+    {
+        "question": "How did the Hanging Gardens enhance the city?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9493537891155043,
+            "answer_correctness": 0.799838447278876
+        }
+    },
+    {
+        "question": "Explain why the Chhatrapati Shivaji Maharaj Terminus is significant.",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9371412533589557,
+            "answer_correctness": "N/A"
+        }
+    },
+    {
+        "question": "What is the distance from the Earth to the Sun?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.7378111420381361,
+            "answer_correctness": 0.4844527855095341
+        }
+    },
+    {
+        "question": "What is Hyderabad known as?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9382853681075862,
+            "answer_correctness": 0.5345713420268966
+        }
+    },
+    {
+        "question": "What makes the Spanish Mosque unique?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.8571428571428571,
+            "semantic_similarity": 0.8232832334719572,
+            "answer_correctness": 0.2058208083679893
+        }
+    },
+    {
+        "question": "What is Lumbini Park named after?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9509275279802655,
+            "answer_correctness": 0.8377318819950664
+        }
+    },
+    {
+        "question": "What architectural styles are combined in the Birla Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9495413930961778,
+            "answer_correctness": 0.9873853482740444
+        }
+    },
+    {
+        "question": "When does St. Mary's Church celebrate the Feast of the Assumption of the Blessed Virgin Mary?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9712877407713598,
+            "answer_correctness": 0.54282193519284
+        }
+    },
+    {
+        "question": "What architectural styles does Charminar showcase?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9712278664979076,
+            "answer_correctness": 0.8053069666244768
+        }
+    },
+    {
+        "question": "Who is NTR Park named after?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9896393168540742,
+            "answer_correctness": 0.8099098292135185
+        }
+    },
+    {
+        "question": "When was the Salar Jung Museum inaugurated, and who inaugurated it?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9575543742339457,
+            "answer_correctness": 0.667960022129915
+        }
+    },
+    {
+        "question": "What architectural styles are exhibited in the Paigah Tombs?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9467969384600587,
+            "answer_correctness": 0.7366992346150147
+        }
+    },
+    {
+        "question": "What is the significance of Fateh Darwaza in Golconda Fort?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.75,
+            "semantic_similarity": 0.906182893052978,
+            "answer_correctness": 0.6015457232632445
+        }
+    },
+    {
+        "question": "Which goddess is Sri Ujjaini Mahakali Temple dedicated to?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.8456046233912605,
+            "answer_correctness": 0.21140115584781513
+        }
+    },
+    {
+        "question": "What is unique about the Nehru Zoological Park's animal enclosures?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.943771095377941,
+            "answer_correctness": 0.9859427738444853
+        }
+    },
+    {
+        "question": "When was KBR National Park established, and after whom is it named?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.75,
+            "semantic_similarity": 0.8306155803097122,
+            "answer_correctness": 0.20765389507742804
+        }
+    },
+    {
+        "question": "What river does Nagarjuna Sagar Dam span?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.8686052501841198,
+            "answer_correctness": 0.21715131254602996
+        }
+    },
+    {
+        "question": "What does the name Falaknuma mean, and who conceived the palace?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9984811731265377,
+            "answer_correctness": 0.9996202932816345
+        }
+    },
+    {
+        "question": "What is the meaning of 'Mrugavani'?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.939637348872485,
+            "answer_correctness": 0.7349093372181212
+        }
+    },
+    {
+        "question": "How does the architecture of Charminar showcase cultural harmony?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9522651813778336,
+            "answer_correctness": 0.6471572044353675
+        }
+    },
+    {
+        "question": "What are some endangered species that Nehru Zoological Park is dedicated to protecting?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9527869237140565,
+            "answer_correctness": 0.5381967309285142
+        }
+    },
+    {
+        "question": "Why was Mrugavani National Park declared a wildlife sanctuary?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.6,
+            "semantic_similarity": 0.8812848275348295,
+            "answer_correctness": 0.4703212068837074
+        }
+    },
+    {
+        "question": "How does Falaknuma Palace reflect the Nawab's love for travelling?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9428842029280081,
+            "answer_correctness": 0.985721050732002
+        }
+    },
+    {
+        "question": "What historical events are relevant to the plot of the movie 'Bahubali'?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7907338921427693,
+            "answer_correctness": 0.4976834730356924
+        }
+    },
+    {
+        "question": "What is the capital of Telangana?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 1.0,
+            "answer_correctness": 1.0
+        }
+    },
+    {
+        "question": "In what city is St. Mary's Church located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8888919324887273,
+            "answer_correctness": 0.4722229831221818
+        }
+    },
+    {
+        "question": "What river flows near Hampi?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.885868301270025,
+            "answer_correctness": 0.5214670753175064
+        }
+    },
+    {
+        "question": "From which word is the name 'Hampi' derived?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.915744326209043,
+            "answer_correctness": 0.7914360815522606
+        }
+    },
+    {
+        "question": "What is Hampi's status according to UNESCO?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9454072075492208,
+            "answer_correctness": 0.7363518018873052
+        }
+    },
+    {
+        "question": "Which empire had Hampi as its capital?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.883877054272876,
+            "answer_correctness": 0.520969263568219
+        }
+    },
+    {
+        "question": "Name two notable landmarks in Hampi.",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8468766160812577,
+            "answer_correctness": 0.21171915402031444
+        }
+    },
+    {
+        "question": "Where is the Ganagitti Temple located, and to whom is it dedicated?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9993368339373427,
+            "answer_correctness": 0.9998342084843357
+        }
+    },
+    {
+        "question": "When was the Ganagitti Temple built, and which empire is it tied to?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9493327567084127,
+            "answer_correctness": 0.8373331891771032
+        }
+    },
+    {
+        "question": "Who built the Ganagitti Temple, and during whose rule?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9868807801997537,
+            "answer_correctness": 0.8467201950499386
+        }
+    },
+    {
+        "question": "What is the Yantrodharaka Hanuman Temple also known as, and where is it located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9530338724669845,
+            "answer_correctness": 0.8811156109738889
+        }
+    },
+    {
+        "question": "Who established the Yantrodharaka Hanuman Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9896837595931034,
+            "answer_correctness": 0.9974209398982758
+        }
+    },
+    {
+        "question": "Where is the Lakshmi Narasimha Temple located, and what deity does it house?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9900236783557503,
+            "answer_correctness": 0.9975059195889375
+        }
+    },
+    {
+        "question": "What is the name given to the wrathful form of Lord Vishnu depicted in the Lakshmi Narasimha Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9627235430471857,
+            "answer_correctness": 0.5406808857617964
+        }
+    },
+    {
+        "question": "What is the height of the Lakshmi Narasimha statue, and what is it carved from?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9975406650744982,
+            "answer_correctness": 0.9993851662686246
+        }
+    },
+    {
+        "question": "Where is Achyutaraya Temple situated, and to whom is it dedicated?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7834615430061563,
+            "answer_correctness": 0.19586538575153908
+        }
+    },
+    {
+        "question": "When was Achyutaraya Temple built, and who commissioned its construction?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8248494166711595,
+            "answer_correctness": 0.20621235416778988
+        }
+    },
+    {
+        "question": "Where is the Vitthala Temple Complex located, and what is its significance?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9408974558386571,
+            "answer_correctness": 0.7977243639596642
+        }
+    },
+    {
+        "question": "When was the Vitthala Temple Complex constructed, and who is it dedicated to?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9992165958452839,
+            "answer_correctness": 0.999804148961321
+        }
+    },
+    {
+        "question": "When does the Ranganatha Temple date back to, and to whom is it dedicated?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.8711555283865198,
+            "answer_correctness": 0.21778888209662994
+        }
+    },
+    {
+        "question": "What is the Hazara Rama Temple, and what is its significance?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8918080583033392,
+            "answer_correctness": 0.2229520145758348
+        }
+    },
+    {
+        "question": "What is the origin of the name 'Hazara Rama Temple'?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9670915188270519,
+            "answer_correctness": 0.991772879706763
+        }
+    },
+    {
+        "question": "What are Coracle Crossings, and where are they located in Hampi?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9436680444678816,
+            "answer_correctness": 0.7984170111169703
+        }
+    },
+    {
+        "question": "What is a coracle made of?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9410706532027566,
+            "answer_correctness": 0.42276766330068916
+        }
+    },
+    {
+        "question": "What is the Badavilinga Temple, and what is its significance?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.8333333333333334,
+            "semantic_similarity": 0.8563871284553216,
+            "answer_correctness": 0.36409678211383045
+        }
+    },
+    {
+        "question": "Where is the Badavilinga Temple located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9613093248760121,
+            "answer_correctness": 0.6153273312190031
+        }
+    },
+    {
+        "question": "What deity is the Kadalekalu Ganesha Temple dedicated to, and what is its significance?",
+        "eval": {
+            "context_recall": 0.5,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8974852914290863,
+            "answer_correctness": 0.41187132285727157
+        }
+    },
+    {
+        "question": "During which period did the Hindu Vijayanagara Empire flourish?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8703308265565377,
+            "answer_correctness": 0.21758270663913443
+        }
+    },
+    {
+        "question": "What does The Kaladham Museum offer to its visitors?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8523514290581244,
+            "answer_correctness": 0.5345164286931026
+        }
+    },
+    {
+        "question": "When was the Krishna Temple envisioned, and why?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8133506395506407,
+            "answer_correctness": 0.20333765988766017
+        }
+    },
+    {
+        "question": "What is another name for the Krishna Temple?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8149865683719262,
+            "answer_correctness": 0.20374664209298154
+        }
+    },
+    {
+        "question": "What does the Monolithic Bull in Hampi symbolize?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9107199196197115,
+            "answer_correctness": 0.5738338260587741
+        }
+    },
+    {
+        "question": "How tall is the Monolithic Bull sculpture?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8329335574597958,
+            "answer_correctness": 0.45823338936494895
+        }
+    },
+    {
+        "question": "What is another name for the Monolithic Bull in Hampi?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9479922750117735,
+            "answer_correctness": 0.7369980687529434
+        }
+    },
+    {
+        "question": "What architectural styles are fused in the Lotus Mahal?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8653215642531478,
+            "answer_correctness": 0.21633039106328694
+        }
+    },
+    {
+        "question": "What is the Lotus Mahal also referred to as?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8440426795711959,
+            "answer_correctness": 0.21101066989279899
+        }
+    },
+    {
+        "question": "What can the Hampi Bazaar be likened to?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9585207012135799,
+            "answer_correctness": 0.539630175303395
+        }
+    },
+    {
+        "question": "Where is the Huchappayana Matha Temple located, and to whom is it dedicated?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9828108500502977,
+            "answer_correctness": 0.8082027125125744
+        }
+    },
+    {
+        "question": "What was the original purpose of the Huchappayana Matha Temple, and what did it become in the 15th century?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8892399987373338,
+            "answer_correctness": 0.8651671425414762
+        }
+    },
+    {
+        "question": "Where is the Archaeological Museum located, and what does it showcase?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7756750290440457,
+            "answer_correctness": 0.19391875726101143
+        }
+    },
+    {
+        "question": "What architectural styles are blended in the Vijayanagara architectural style showcased at the Archaeological Museum?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9799009976146014,
+            "answer_correctness": 0.9949752494036503
+        }
+    },
+    {
+        "question": "What purpose did the granaries in Hampi serve during the Vijayanagara Empire?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8573780989345401,
+            "answer_correctness": 0.6429159533050637
+        }
+    },
+    {
+        "question": "What is the Gagan Mahal known as, and when is it believed to have been constructed?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9941054171812986,
+            "answer_correctness": 0.9985263542953247
+        }
+    },
+    {
+        "question": "Who originally resided in the Gagan Mahal?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9992727379284525,
+            "answer_correctness": 0.9998181844821131
+        }
+    },
+    {
+        "question": "What is the height of the statue in Sasivekalu Ganesha Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9546705263094332,
+            "answer_correctness": 0.7386676315773583
+        }
+    },
+    {
+        "question": "To whom was the Sasivekalu Ganesha Temple made as a tribute?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9737163260132929,
+            "answer_correctness": 0.9934290815033232
+        }
+    },
+    {
+        "question": "When did the structures in Hemakuta Hill Temple Complex date from?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9210455811499543,
+            "answer_correctness": 0.6052613952874886
+        }
+    },
+    {
+        "question": "What do the Elephant Stables offer?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.875912783031366,
+            "answer_correctness": 0.4689781957578415
+        }
+    },
+    {
+        "question": "When was the Elephant Stable constructed?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9322308928774519,
+            "answer_correctness": 0.833057723219363
+        }
+    },
+    {
+        "question": "What does Anegundi mean?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9298274487161917,
+            "answer_correctness": 0.6074568621790479
+        }
+    },
+    {
+        "question": "How old is the settlement of Anegundi?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8782465323955087,
+            "answer_correctness": 0.46956163309887716
+        }
+    },
+    {
+        "question": "What is Virupaksha Temple dedicated to?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9635312686012572,
+            "answer_correctness": 0.8033828171503141
+        }
+    },
+    {
+        "question": "When did Virupaksha Temple originate?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9708740564948203,
+            "answer_correctness": 0.742718514123705
+        }
+    },
+    {
+        "question": "Who is believed to have commissioned the Queen's Bath?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9354018593297868,
+            "answer_correctness": 0.7338504648324466
+        }
+    },
+    {
+        "question": "Where is the Zenana Enclosure situated?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.938463770508511,
+            "answer_correctness": 0.6631873711985563
+        }
+    },
+    {
+        "question": "What is the Daroji Sloth Bear Sanctuary?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9029291546294546,
+            "answer_correctness": 0.37573228865736363
+        }
+    },
+    {
+        "question": "Where is the Daroji Sloth Bear Sanctuary located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9706987723774171,
+            "answer_correctness": 0.6712461216657829
+        }
+    },
+    {
+        "question": "How many sloth bears are there in Daroji Sloth Bear Sanctuary?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9001440458291429,
+            "answer_correctness": 0.8250360114572858
+        }
+    },
+    {
+        "question": "What can visitors experience at The Nava Brindavana?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8168138837623768,
+            "answer_correctness": 0.5792034709405942
+        }
+    },
+    {
+        "question": "Where is Nava Brindavana located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9099349014566549,
+            "answer_correctness": 0.7274837253641637
+        }
+    },
+    {
+        "question": "What are Brindavanas?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8749400224760117,
+            "answer_correctness": 0.7187350056190029
+        }
+    },
+    {
+        "question": "What color line surrounds the Nava Brindavana?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8069377037739575,
+            "answer_correctness": 0.7017344259434893
+        }
+    },
+    {
+        "question": "How does the architecture of Vitthala Temple differ from Achyutaraya Temple?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7529992533759214,
+            "answer_correctness": 0.6882498133439804
+        }
+    },
+    {
+        "question": "Why does the Lakshmi Narasimha statue have protruding eyes?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9037495062105853,
+            "answer_correctness": 0.7884373765526462
+        }
+    },
+    {
+        "question": "How has the Vijayanagara Empire impacted the cultural significance of Hampi?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.875,
+            "semantic_similarity": 0.9374521037280198,
+            "answer_correctness": 0.5873042024025932
+        }
+    },
+    {
+        "question": "What are the potential environmental impacts of tourism on the Tungabhadra River near Hampi, considering the Coracle Crossings and temple locations along its banks?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7290312814028377,
+            "answer_correctness": 0.48225782035070947
+        }
+    },
+    {
+        "question": "If a tourist wants to visit a temple dedicated to Lord Vishnu and also wants to see a monolithic statue, which two locations should they visit in Hampi?",
+        "eval": {
+            "context_recall": 0.5,
+            "faithfulness": 0.8571428571428571,
+            "semantic_similarity": 0.8588103267016063,
+            "answer_correctness": 0.6147025816754016
+        }
+    },
+    {
+        "question": "What if Hampi was never discovered?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.0,
+            "semantic_similarity": 0.6857659590392702,
+            "answer_correctness": 0.17144148975981754
+        }
+    },
+    {
+        "question": "Blargle flibble glop?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.7357072354018899,
+            "answer_correctness": 0.4839268088504725
+        }
+    },
+    {
+        "question": "Are there any hills near Hampi with religious and/or historic significance?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8410982256566348,
+            "answer_correctness": 0.2102745564141587
+        }
+    },
+    {
+        "question": "What is Puducherry often referred to as?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.955035356593876,
+            "answer_correctness": 0.613758839148469
+        }
+    },
+    {
+        "question": "What does Puducherry mean in Tamil?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.8571428571428571,
+            "semantic_similarity": 0.9072776939284688,
+            "answer_correctness": 0.4143194234821172
+        }
+    },
+    {
+        "question": "What was the original name of Puducherry and what does it mean?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9268323998693653,
+            "answer_correctness": 0.9135262817855231
+        }
+    },
+    {
+        "question": "What is the distance between Puducherry and Chennai?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9121613793308984,
+            "answer_correctness": 0.7280403448327246
+        }
+    },
+    {
+        "question": "When did Puducherry's name officially change?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9347034862542556,
+            "answer_correctness": 0.7336758715635638
+        }
+    },
+    {
+        "question": "What can visitors see in the Puducherry Museum?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8079083401778528,
+            "answer_correctness": 0.6431535556326985
+        }
+    },
+    {
+        "question": "Name at least three sections in the Puducherry Museum.",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.984635025875586,
+            "answer_correctness": 0.9961587564688965
+        }
+    },
+    {
+        "question": "What makes Eglise de Notre Dame des Anges unique?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9638051681064632,
+            "answer_correctness": 0.8409512920266159
+        }
+    },
+    {
+        "question": "What inspired the architecture of Eglise de Notre Dame des Anges?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.840776324450726,
+            "answer_correctness": 0.2101940811126815
+        }
+    },
+    {
+        "question": "What is the French Quarter of Puducherry also known as?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9970529458235384,
+            "answer_correctness": 0.9992632364558847
+        }
+    },
+    {
+        "question": "When did Puducherry become part of India?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9462958762123024,
+            "answer_correctness": 0.8365739690530757
+        }
+    },
+    {
+        "question": "Where is Chunnambar Boat House located?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9901093409356017,
+            "answer_correctness": 0.9975273352339005
+        }
+    },
+    {
+        "question": "What is special about the Chunnambar Boat House area?",
+        "eval": {
+            "context_recall": 0.3333333333333333,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9035277202742146,
+            "answer_correctness": 0.4986092027958263
+        }
+    },
+    {
+        "question": "When was the French War Memorial inaugurated, and by whom?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.940324488831729,
+            "answer_correctness": 0.6636525507793609
+        }
+    },
+    {
+        "question": "Who designed the French War Memorial?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.8073533023352525,
+            "answer_correctness": 0.20183832558381312
+        }
+    },
+    {
+        "question": "What is the French War Memorial a reminder of?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.723204953583521,
+            "answer_correctness": 0.18080123839588025
+        }
+    },
+    {
+        "question": "Why is Puducherry called the French Riviera of the East?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.7,
+            "semantic_similarity": 0.9379812209159768,
+            "answer_correctness": 0.37085894159263055
+        }
+    },
+    {
+        "question": "How did the French influence the architecture of Puducherry?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7998297129616148,
+            "answer_correctness": 0.8428145710975465
+        }
+    },
+    {
+        "question": "How does the Chunnambar Boat House contrast with the town of Puducherry?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.75,
+            "semantic_similarity": 0.772849045100725,
+            "answer_correctness": 0.3295758976388176
+        }
+    },
+    {
+        "question": "Compare the architecture of Eglise de Notre Dame des Anges to Lourdes Basilica.",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 0.0,
+            "semantic_similarity": 0.7857589716922573,
+            "answer_correctness": 0.19643974292306432
+        }
+    },
+    {
+        "question": "What can be inferred about the culture of Puducherry from the languages used in Eglise de Notre Dame des Anges?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.8987784032444793,
+            "answer_correctness": 0.5580279341444532
+        }
+    },
+    {
+        "question": "Why was the French War Memorial constructed?",
+        "eval": {
+            "context_recall": 0.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.7701882471049989,
+            "answer_correctness": 0.5675470617762497
+        }
+    },
+    {
+        "question": "What is the weather in Puducherry like in December?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.7226552434616416,
+            "answer_correctness": 0.7806638108654105
+        }
+    },
+    {
+        "question": "If Puducherry is the culinary capital of the world, what are the most famous dishes to try?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.702332719628761,
+            "answer_correctness": 0.42558317990719025
+        }
+    },
+    {
+        "question": "What are the best hotels to stay at in Puducherry with ocean views?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.0,
+            "semantic_similarity": 0.6806736888676572,
+            "answer_correctness": 0.3844541365026286
+        }
+    },
+    {
+        "question": "How many beaches are there in the state of Tamil Nadu?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.5,
+            "semantic_similarity": 0.7624489588211559,
+            "answer_correctness": 0.565612239705289
+        }
+    },
+    {
+        "question": "Why did the dinosaurs disappear?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 0.6666666666666666,
+            "semantic_similarity": 0.7686264105381007,
+            "answer_correctness": 0.5671566026345252
+        }
+    },
+    {
+        "question": "What does 'Manu-Alaya' mean, and from which mythology does the name Manali originate?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.955736388033238,
+            "answer_correctness": 0.6675055255797381
+        }
+    },
+    {
+        "question": "Who established the Atal Bihari Vajpayee Institute of Mountaineering and Allied Sports, and when was it established?",
+        "eval": {
+            "context_recall": 1.0,
+            "faithfulness": 1.0,
+            "semantic_similarity": 0.9821819629963835,
+            "answer_correctness": 0.9955454907490959
+        }
     }
 ]

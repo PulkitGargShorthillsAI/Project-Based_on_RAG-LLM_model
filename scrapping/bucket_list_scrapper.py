@@ -92,10 +92,13 @@ class BucketListScraper:
 
     def save_to_file(self, filename="international_locations.txt"):
         """Saves the scraped content to a text file."""
-        file_path = os.path.join(self.output_dir, filename)
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(self.text)
-        print(f"✅ Data saved in: {file_path}")
+        try:
+            file_path = os.path.join(self.output_dir, filename)
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(self.text)
+            print(f"✅ Data saved in: {file_path}")
+        except OSError as e:
+            print(f"❌ Error writing to file {filename}: {e}")
 
     def start_scraping(self):
         """Initiates the scraping process."""

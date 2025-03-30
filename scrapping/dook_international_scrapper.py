@@ -84,10 +84,13 @@ class DookInternationalScraper:
 
     def save_to_file(self, filename="120_countries_data.txt"):
         """Saves scraped data to a file"""
-        file_path = os.path.join(self.output_folder, filename)
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(self.text)
-        print(f"✅ Data saved at: {file_path}")
+        try:
+            file_path = os.path.join(self.output_folder, filename)
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(self.text)
+            print(f"✅ Data saved at: {file_path}")
+        except OSError as e:
+            print(f"❌ Error writing to file {filename}: {e}")
 
     def start_scraping(self):
         """Main function to start scraping"""
