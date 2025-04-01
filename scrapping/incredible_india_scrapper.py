@@ -116,8 +116,3 @@ class IncredibleIndiaScraper:
 
         print(f"\nTotal locations scraped: {len(location_urls)}")
         print(f"Total web pages visited: {self.web_pages}")
-
-
-# scrapper = IncredibleIndiaScraper(base_url="https://www.incredibleindia.gov.in/en")
-scrapper = IncredibleIndiaScraper(base_url="https://invalid-url.com")
-print(scrapper.get_location_links("https://www.incredibleindia.gov.in/en/city/unknown"))

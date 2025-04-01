@@ -17747,3 +17747,5 @@ NLI Entailment: 0.7083204984664917
 2025-03-28 14:22:34 - ERROR: Error initializing chatbot: Index 'chatbot6' not found in your Pinecone project. Did you mean one of the following indexes: chatbot4, chatbot3, chatbot, chatbot1, chatbot2
 2025-03-28 14:22:34 - ERROR: Unhandled error in main executio)n: Index 'chatbot6' not found in your Pinecone project. Did you mean one of the following indexes: chatbot4, chatbot3, chatbot, chatbot1, chatbot2
 ----------------------------------------
+2025-03-31 02:10:44 - INFO: Chatbot initialized successfully!
+----------------------------------------

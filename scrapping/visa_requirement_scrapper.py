@@ -64,6 +64,3 @@ class VisaRequirementScraper:
         self.scrape_data()
         self.save_to_file()
 
-scrapper = VisaRequirementScraper()
-
-scrapper.start_scraping()

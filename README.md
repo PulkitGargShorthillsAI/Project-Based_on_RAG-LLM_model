@@ -80,6 +80,13 @@ Detailed test case documentation: [Test Cases](https://shorthillstech-my.sharepo
 
 ---
 
+
+## Unit Testcases Coverage
+
+![alt text](<unittestcase_coverage.png>)
+
+---
+
 ## 💡 Future Enhancements
 - **Summarization with Chains**: Implement OpenAI's GPT-4-Turbo or LangChain summarization chains for handling longer context.
 - **Real-Time Travel Alerts**: Integrate APIs for live updates on weather, flights, and accommodations.
